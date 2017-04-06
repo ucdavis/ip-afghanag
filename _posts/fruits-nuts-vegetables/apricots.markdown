@@ -1,0 +1,34 @@
+---
+layout: page
+tags: fruit
+url:
+title:  "Apricots"
+arabic: "زردآلو"
+image: ""
+seasons: "Winter"
+time: "mid December through mid March"
+care:
+  - "Spray trees with dormant oil to control San Jose scale, aphid eggs, mite eggs and peach twig borer."
+  - "Do not use sulfur on apricots, ever."
+problem-opportunities:
+  - "<b>Priority problems<b> include: include: pollination, planting (bed preparation), grafting, training & pruning, variety selection, Apricot Late Frost"
+  - "<b>Priority opportunities<b> include: marketing of fresh and dried apricots to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
+overview:
+  - "About Apricots Fact Sheet (UC Davis)"
+crop-calendar:
+  - "Fact Sheet (UC Davis)"
+pest-management:
+  - "Common pests in apricots include: shot hole disease, bacterial canker, verticillium wilt, brown rot blossom & twig blight, peach twig borer, mealy plum aphid."
+  - "See Pest Identification Cards and general Pest Management Page"
+  - "Nursery Weed Management Fact Sheet English and(Dari) دری  (UC Davis for Roots of Peace)"
+post-harvest:
+  - "Apricot Drying videos"
+  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
+  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+  - "Example of Standards Fact Sheet (Fresh Spec)"
+  - "Apricot Value Chain Manual (NUHDA)"
+  - "General Postharvest Page"
+market-information-link: ""
+photo-gallery: ""
+links: ""
+---

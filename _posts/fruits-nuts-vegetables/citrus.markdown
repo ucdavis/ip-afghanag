@@ -1,0 +1,30 @@
+---
+layout: page
+tags: fruit
+url:
+title:  "Citrus"
+arabic: "میوه جات ستروس"
+image: ""
+seasons: "Winter"
+time: "mid December through mid March"
+care:
+  - "Prune out any crossing, broken, or shaded out branches from the interior of the tree. No topping or hedging is necessary and removal of the skirts around the lower portion of the tree's bearing capacity."
+  - "If scale insects are present (appear as small bumps on twigs and a black sooty mold on the leaves), spray the tree with volk or superior oil. The best time to treat is February during cool weather. Thorough coverage is important."
+problem-opportunities:
+  - "<b>Priority problems<b> for Afghanistan Citrus include: a lack of tested varieties (see PHDP), and Tristeza virus in bitter orange rootstock."
+  - "These draft priority problems are based on feedback from agricultural consultants, Afghan specialists, and Tom Brown."
+overview:
+  - "About Citrus Fact Sheet (Sweet Oranges)"
+crop-calendar:
+  - "Citrus crop calendar Fact Sheet (for California-like conditions) (UC Davis)"
+pest-management:
+  - "See Pest Identification Cards and general Pest Management Page"
+  - "Nursery Weed Management Fact Sheet English and(Dari) دری  (UC Davis for Roots of Peace)"
+post-harvest:
+  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
+  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+  - "Production and Post Harvest Manual English (2.5 MB) and (Dari) دری"
+market-information-link: ""
+photo-gallery: ""
+links: ""
+---
