@@ -7,30 +7,25 @@ header {
     .header_contents {
         @include container;
         .logo_wrapper {
-            width: 60%;
+            width: 50%;
             display: inline-block;
-            @include breakpoint(mobileonly) {
-                width: 100%;
-                text-align: center;
-                
-            }
         }
         .search_wrapper {
-            width: 39%;
+            width: 49%;
             text-align:right;
             display: inline-block;
-            @include breakpoint(mobileonly) {
-                width: 100%;
-                text-align: center;
-                margin-top:20px;
-                img {
-                    margin-bottom:20px;
-                    width:50%;
-                }
-                
-            }
         }
     }
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
 }
 
 .main {
@@ -39,7 +34,7 @@ header {
         background-color:#fff;
         border:1px solid $borders;
         border-radius:2px;
-        padding: 1.5% 3%;
+        padding: 1% 2%;
         margin-top: 2%;
     }
 }
@@ -76,13 +71,12 @@ footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    // padding-top:60px;
-    // padding-bottom:60px;
-    height: 240px;
+    padding-top:60px;
+    padding-bottom:60px;
+    height: 180px;
     display:block;
     .footer_contents {
         @include container;
-        padding-bottom:10px;
         .foot_top {
             border-bottom: 1px solid $borders;
             padding-bottom: 4px;

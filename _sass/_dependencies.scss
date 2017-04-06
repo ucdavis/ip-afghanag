@@ -1,4 +1,15 @@
+//
+@font-face {
+    font-family: 'klinic_light';
+    src: url('/media/fonts/klinic_light.woff') format('woff'), /* Pretty Modern Browsers */
+    url('/media/fonts/klinic_light.ttf') format('truetype'), /* Safari, Android, iOS */
+}
 
+@font-face {
+    font-family: 'klinic_medium';
+    src: url('/media/fonts/klinic_medium.woff') format('woff'), /* Pretty Modern Browsers */
+    url('/media/fonts/klinic_medium.ttf') format('truetype'), /* Safari, Android, iOS */
+}
 
 // fonts
 $sans-serif: "proxima-nova",
@@ -110,7 +121,6 @@ $shingle-brown: #4f2c1d;
     width: 80%;
     margin: 0 auto;
     min-width: 300px;
-    max-width:1400px;
     @include breakpoint(rufus) {
       width:85%;
     }

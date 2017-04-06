@@ -43,12 +43,6 @@ a {
 //      }
 //  }
 // }
-li ul, li ol {
-    padding-left:20px !important;
-}
-table ul, table ol {
-    padding-left:25px;
-}
 ul,
 ol {
     padding-left: 0px;
@@ -76,6 +70,7 @@ ul.topic_nav {
         a {
             color:$secondary-font;
             font-size:1.6rem;
+            text-transform: uppercase;
             font-weight:600;
         }
     }
@@ -220,12 +215,6 @@ h3,
     aside & {
         font-size:2.4rem;
         font-weight:600;
-    }
-    &.table_header {
-        border-bottom:1px solid $borders;
-        padding-bottom:5px;
-        margin-bottom:5px;
-        margin-top:20px;
     }
 }
 

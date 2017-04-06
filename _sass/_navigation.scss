@@ -171,9 +171,6 @@ nav {
             padding-left: 15px;
         }
     }
-    #nav > ul {
-    margin-left:4%;
-}
     nav a.active {
         border-bottom: none !important;
     }
@@ -186,6 +183,7 @@ nav {
         background-color: $blue;
         color: #fff;
         margin-left: 5%;
+        margin-top: 3px;
         margin-bottom: 6px;
         i {
             font-size: 24px;

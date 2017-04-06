@@ -12,13 +12,13 @@
 
    <!-- Typekit -->
   <script src="https://use.typekit.net/ved8sye.js"></script>
-  <script>try{Typekit.load();}catch(e){}</script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
   <title>Cereals</title>
   <meta name="description" content="e-Pak Ag - helping farmers through the use of Information Communication Technology (ICT).
 ">
 
-  
+
   <!-- le Apple -->
   <link rel="apple-touch-icon" href="/media/thumbnail.jpg">
   <link rel="apple-touch-icon" sizes="76x76" href="/media/76-icon.jpg">
@@ -39,7 +39,7 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="canonical" href="http://epakag.ucdavis.edu/cereals/">
-  
+
   <link rel="alternate" type="application/rss+xml" title="International Programs - E Pakag" href="http://epakag.ucdavis.edu/feed.xml" />
 
 </head>
@@ -51,22 +51,35 @@
         <div class="logo_wrapper">
             <a href="/"><img class="caeslogo" src="/media/epakag_logo.svg" alt=""></a>
         </div>
-        <div class="search_wrapper">
-        <img src="/media/AIP.jpg" alt="">
-        <form>
-                    <input class="search_input st-default-search-input" type="text" value="">
+        <div style="display:none" class="search_wrapper">
+                <form>
+                    <input class="search_input" type="text" value="">
                 </form>
         </div>
     </div>
 </header>
+
+
 <div class="nav_wrapper">
     <nav id="nav" role="navigation">
         <a class="nav_open" href="#nav" title="Show navigation"><i class="fa fa-bars"></i></a>
         <a class="nav_close" href="#" title="Hide navigation"><i class="fa fa-times"></i></a>
         <ul id="nav_upperlevel">
         <li>
-            <a href="/about" aria-haspopup="true">About</a>
-           
+            <a href="/a_horticulture" aria-haspopup="true">Fruits, Nuts & Vegetables</a>
+            <ul class="submenu">
+                <li><a href="/a_horticulture/fruit-trees">Fruits</a>
+                    <ul class="dropdown">
+                      <li><a href="/a_horticulture/fruit-trees/apricots">Apricots</a></li>
+                      <li><a href="/a_horticulture/fruit-trees/apples">Apples</a></li>
+                      <li><a href="/cereals/fruit-trees/cherries">Cherries</a></li>
+                    </ul>
+                </li>
+                <li><a href="/a_horticulture/nut-trees">Nuts</a></li>
+                <li><a href="/a_horticulture/wheat">Wheat</a></li>
+                <li><a href="/cereals/row-crops">Vegetables</a></li>
+            </ul>
+
         </li>
             <li>
                 <a href="/cereals" aria-haspopup="true">Cereals</a>
@@ -74,50 +87,43 @@
                     <li><a href="/cereals/maize">Maize</a></li>
                     <li><a href="/cereals/rice">Rice</a></li>
                     <li><a href="/cereals/wheat">Wheat</a></li>
-                    <li><a href="/cereals/videos">Videos</a></li>
+                    <li><a href="/cereals/videos">Postharvet Videos</a></li>
                 </ul>
             </li>
             <li>
-                <a href="/vegetables" aria-haspopup="true">Vegetables</a>
-                <ul class="submenu">
-                    <li><a href="/vegetables/bitter-gourd">Bitter Gourd</a></li>
-                     <li><a href="/vegetables/eggplant">Eggplant</a></li>
-                    <li><a href="/vegetables/pepper">Pepper</a></li>
-                    <li><a href="/vegetables/tomatoes">Tomatoes</a></li>
-                    <li><a href="/vegetables/structures">Structures</a></li>
-                    <li><a href="/vegetables/seed_production">Seed Production</a></li>
-                    <li><a href="/vegetables/videos">Postharvest</a></li>
-                </ul>
+                <a href="/vegetables">Vegetables</a>
             </li>
             <li>
-                <a href="/treecrops" aria-haspopup="true">Treecrops</a>
-                <ul class="submenu">
-                    <li><a href="/treecrops/citrus">Citrus</a></li>
-                    <li><a href="/treecrops/mango">Mango</a></li>
-                    <li><a href="/treecrops/videos">Videos</a></li>
-                </ul>
+                <a href="/treecrops">Treecrops</a>
+
             </li>
             <li>
                 <a href="/livestock">Livestock</a>
             </li>
             <li>
-                <a href="/vocational_training">Vocational Training</a>
+                <a href="/livestock">Vocational Training</a>
             </li>
         </ul>
     </nav>
 </div>
 
 
-    
+    <div class="main_contents">
+      <h1>Afghan Ag</h1>
+      <p>eAfghan Ag "provides credible relevant information to those helping farmers in Afghanistan".</p>
+
+      <p>e-Afghan Ag is supported by USAID. UC Davis is the lead institution. Over 70 institutions have contributed content. e-Afghan Ag is considered the most comprehensive collection of practical information available to help the farmers of Afghanistan. The project started with USAID funding managed through USDA. </p>
+      <p>hi</p>
+      
+    </div>
+
         <div class="main">
 	<div class="main_contents">
-		 <div class="banner banner_mod banner_cereals">
-    
-</div>
-
-<article>
+		 <article>
     <h1>Cereals</h1>
-    <p class="lead">CIMMYT and IRRI are working with National partners to address the primary problems of</p>
+    <p class="lead">Some blurb on cereals</p>
+
+<p>CIMMYT and IRRI are working with National partners to address the primary problems of</p>
 <ul>
     <li><a href="/cereals/maize">Maize</a> (Water scarcity, Low nutritive value, and poor seed quality), and</li>
     <li><a href="/cereals/rice">Rice</a> (Environmental stresses, postharvest losses). </li>
@@ -126,23 +132,13 @@
 
 </article>
 <aside>
-    
-    <h3>Quick Navigation</h3>
-    <ul class="topic_nav">
-        <ul class="topic_nav">
-    	<li><a href="/cereals/maize">Maize</a></li>
-    	<li><a href="/cereals/rice">Rice</a></li>
-    	<li><a href="/cereals/wheat">Wheat</a></li>
-    	<li><a href="/cereals/videos">Postharvest Videos</a></li>
-    </ul>
-    
+    maybe logo images?
 </aside>
 
 
+		 Hello
 	</div>
 </div>
-   
- 
 
 
 

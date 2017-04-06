@@ -6,7 +6,22 @@
 
     {% include header.html %}
 
-    
+    <div class="main_contents">
+      <h1>Afghan Ag</h1>
+      <p>eAfghan Ag "provides credible relevant information to those helping farmers in Afghanistan".</p>
+
+      <p>e-Afghan Ag is supported by USAID. UC Davis is the lead institution. Over 70 institutions have contributed content. e-Afghan Ag is considered the most comprehensive collection of practical information available to help the farmers of Afghanistan. The project started with USAID funding managed through USDA. </p>
+      <p>hi</p>
+      {% for post in site.tags.frontpage %}
+      <a href="post.link">
+        <div class="box-container">
+          <h2>post.title</h2>
+          <h3>post.arabic</h3>
+          <img src="post.image">
+        </div>
+      {% endfor %}
+    </div>
+
         {{ content }}
 
 

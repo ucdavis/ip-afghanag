@@ -11,4 +11,4 @@ Once Jekyll is installed and you are in the folder within terminal use jekyll se
 
 
 bg images
-background-image: url(../media/geometric.svg);
+background-image: url(../media/geometric.svg);# AfghanAg-static
