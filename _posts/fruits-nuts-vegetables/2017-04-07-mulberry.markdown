@@ -1,0 +1,33 @@
+---
+layout: page
+tags: fruit
+url:
+title:  "Mulberry"
+arabic: "توت"
+image: "../media/mulberry.jpeg"
+seasons: "Winter"
+time: "mid December through mid March"
+care:
+  - "Dried mulberries are one of the most important dried fruits in Afghanistan, especially during holidays.  Afghanistan exports some mulberries to India and Dubai, providing a big source of income for many Afghans.  Grown widely for both private and commercial purposes, commercial operations can vary from just a few trees to large orchards. Mulberry trees, of which there are 58 varieties in Afghanistan, are commonly grafted. There is also considerable use of mulberry leaves for silkworms."
+problem-opportunities:
+  - "<b>Priority problems<b> for mulberries include: poor drying practices (dried on roofs of houses, exposed to dust) and value chain standards not sufficient for export (resulting in a lack of market opportunities). Significant pests include fig tree borer."
+  - "<b>Priority opportunities<b> include: improved drying practices (sanitation, cleanliness, such as solar drier) and training in proper processing to meet standards for sale and export."
+  - "These priorities and opportunities based on feedback from Sharif Shah Reshteen."
+overview:
+  - "About Mulberries Info Sheet (UC Davis)"
+  - "Fresh and dried mulberries are famous in the northern provinces, especially the provinces along the highway from Kabul to Balkh province.  The provinces with the most prominent commercial production are: Badakhshan, Kapisa, Kunar, Laghman, Nangharhar, Nimroz, Nuristan, Parwan, Panjshir, Samanghan, Takhar.  During the harvest season (June-September) you can find fruit stands every 500 meters selling mulberries and grapes on the highway from Kabul to the north of the country."
+crop-calendar:
+  - "Grape Crop Calendar Fact Sheet (for California-like conditions) (UC Davis)"
+pest-management:
+  - "Mulberries are generally free of pests and diseases, although cankers and dieback can occur. In some areas \"popcorn disease\" is an occasional problem, in which fruits swell to resemble popped corn.  M. alba and M. rubra hybrids are particularly prone to this condition. Significant pests include fig tree borer."
+  - "See Pest Identification Cards and general Pest Management Page"
+  - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
+post-harvest:
+  - "The fruits of mulberries are often harvested by spreading a sheet on the ground and shaking the limbs. A significant quantity can be gathered from a comparatively small and young tree."
+  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
+  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+
+market-information-link: ""
+photo-gallery: ""
+links: ""
+---

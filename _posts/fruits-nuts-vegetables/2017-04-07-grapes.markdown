@@ -1,0 +1,43 @@
+---
+layout: page
+tags: fruit
+url:
+title:  "Grapes and Raisins"
+arabic: "انگور و کشمش"
+image: "../media/grapes.jpeg"
+seasons: "Winter"
+time: "mid December through mid March"
+care:
+  - "Prune to remove 75% to 90% of last year’s growth and to maintain the form of the vine in the location desired. Almost all varieties can be cut to reduce canes to short spurs."
+  - "Leave 3 buds on each spur if the cans are fat (diameter of thumb) 2 buds on medium canes (index finger size), and 1 bud for pencil diameter canes."
+  - "Cane pruning is required for Thompson Seedless, but will work for any variety. Leave 3- 6 canes containing 10-15 buds, depending on the vigor of the vine."
+  - "Vines with numerous fat long canes can support many long fruiting canes. However, those with short skinny growth should be pruned back heavily, leaving fewer canes and buds per cane. Generally 30-50 buds are left per mature vine regardless of the pruning system."
+  - "Daub pruning wounds with benomyl immediately after pruning to control Eutypa dieback."
+problem-opportunities:
+  - "<b>Priority problems<b> for Afghanistan grapes include: lack of proper raisin drying house (many people dry fruit on the roofs of their houses or directly on the ground), no layer between the ground and the grapes (or methods to prevent dust/dirt contamination), lack of washing and sorting (stems, bugs, dirt is common), reduced chemical treatments to meet export standards (sulfur, etc.), lack of improved trellising systems, pruning, variety selection (see PHDP), Gibberellin application, markets and meeting custom standards, reducing water wastage in irrigation. "
+  - "<b>Priority opportunities<b> include: Integrated Pest Management, markets in Pakistan for seedless table grapes, develop a pool rootstock of material resistant to phylloxera in case the microscopic insect spreads from surrounding countries, increased awareness of benefits of washing and sorting (such as market access), washing and sorting methods, construction of drying houses, improved trellising promotion, exploitation of international market opportunities (>90 unique varieties in Afghanistan)."
+  - "These draft priority problems are based on feedback from agricultural consultants, Afghan specialists, Tom Brown, Sharif Shah Resteen, Megan Mayzelle and Dylan Keith."
+overview:
+  - "About Grapes Fact Sheet English, (Dari) دری , and پشتو (Pashto) (UC Davis)"
+  - "Grape Production by Province Interactive Map (UC Davis)"
+  - "Cultivated Area by Province Interactive Map (UC Davis)"
+crop-calendar:
+  - "Grape Crop Calendar Fact Sheet (for California-like conditions) (UC Davis)"
+pest-management:
+  - "Common grape pests include downy mildew, powdery mildew, cicadas, spider mites."
+  - "See also Pest Identification Cards and general Pest Management Page"
+post-harvest:
+  - "General Postharvest Manual (UC Davis and Roots of Peace)"
+  - "Raisin drying (\"Kishmish Khanas\" are buildings dedicated to raisin drying)"
+  - "Drying Fact Sheet (Roots of Peace and UC Davis)"
+  - "Grape to Raisin Time Lapse icon video Video  (James Knott)"
+  - "Pre-treatment Fact Sheet (Roots of Peace and UC Davis)"
+  - "Manual English (2.2 MB) and (Dari) دری(1.8 MB) (Roots of Peace)"
+  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
+  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+  - "Quality Grading Fact Sheet (Roots of Peace)"
+  - "General Postharvest Page"
+market-information-link: ""
+photo-gallery: ""
+links: ""
+---

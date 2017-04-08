@@ -1,0 +1,27 @@
+---
+layout: page
+tags: fruit
+url:
+title:  "Figs"
+arabic: انجی"
+image: "../media/figs.jpeg"
+seasons:
+time:
+care:
+problem-opportunities:
+  - "Priority problems and opportunities for figs are not yet confirmed."
+overview:
+  - "About Figs Fact Sheet (UC Davis)"
+crop-calendar:
+  - "Citrus crop calendar Fact Sheet (for California-like conditions) (UC Davis)"
+pest-management:
+  - "See Pest Identification Cards and general Pest Management Page"
+  - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
+post-harvest:
+  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
+  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+  - "Maintaining Postharvest Quality Fact Sheet (UC Davis PHTC)"
+market-information-link: ""
+photo-gallery: ""
+links: ""
+---

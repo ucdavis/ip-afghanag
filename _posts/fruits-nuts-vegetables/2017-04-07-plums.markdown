@@ -1,0 +1,31 @@
+---
+layout: page
+tags: fruit
+url:
+title:  "Plums and Prunes"
+arabic: "آلو و آلوچه"
+image: "../media/plums.jpeg"
+seasons: "Winter"
+time: "mid December through mid March"
+care:
+  - "If San Jose scale, mites, or aphids have been problems in previous growing seasons, spray the tree with dormant oil late in the dormant season, just prior to bud break. Oil sprays applied late in the dormant season are least likely to cause shoot injury. Be sure to provide thorough coverage of the tree, including the trunk."
+  - "On mature trees, prune out any dead, diseased, or broken branches. Thin branches out (usually 20% of last year’s growth) to allow good light penetration into the tree. The purpose of thinning cuts is to reduce crop load and increase light penetration. Do not make heading cuts that shorten the tips of the shoots."
+problem-opportunities:
+  - " Priority problems and opportunities for plums are not yet confirmed."
+overview:
+  - "Most plums need to be cross-pollinated to set adequate crops, so two different varieties should be planted."
+  - "About Plums Fact Sheet (UC Davis)"
+crop-calendar:
+  - "Plum Crop Calendar Fact Sheet (for California-like conditions) (UC Davis)"
+pest-management:
+  - "See Pest Identification Cards and general Pest Management Page"
+  - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
+post-harvest:
+  - "Harvesting and Storage Fact Sheet (UC IPM)"
+  - "Postharvest Management of Plums Fact Sheet (UC Postharvest RIC)"
+  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
+  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+market-information-link: ""
+photo-gallery: ""
+links: ""
+---
