@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Fruits میوه جات</h1>
+        <h2>Priorities</h2>
+        <ul>
+            <li><b>Very high priority:</b> Grapes</li>
+            <li><b>Medium priority:</b> Apricot, Apple, and Pomegranate</li>
+            <li><b>Lower priority:</b> Citrus</li>
+        </ul>
+        <p>These priorities are based on feedback from MAIL. PLS</p>
+        <div id="main-boxes">
+            {% for post in site.tags.fruit %}
+              <div class="main-box">
+                <a href="/fruits-nuts-vegetables">
+                  <h2> {{ post.title }}</h2>
+                  <h2> {{ post.arabic }}</h2>
+                  <img src="{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+
+    </div>
+</div>

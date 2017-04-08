@@ -4,7 +4,7 @@ tags: fruit
 url:
 title:  "Citrus"
 arabic: "میوه جات ستروس"
-image: ""
+image: "../media/citrus.jpeg"
 seasons: "Winter"
 time: "mid December through mid March"
 care:

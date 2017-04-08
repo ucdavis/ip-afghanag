@@ -152,6 +152,9 @@ table {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: C;
+  ul {
+    list-style: none;
+  }
 }
 .main-box {
   width: 20%;

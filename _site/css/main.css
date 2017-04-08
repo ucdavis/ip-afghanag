@@ -797,6 +797,8 @@ table tbody tr {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: C; }
+  #main-boxes ul {
+    list-style: none; }
 
 .main-box {
   width: 20%;
