@@ -1,10 +1,11 @@
 ---
 layout: page
 tags: fruit
-url:
+url: "/fruits-nuts-vegetables/Fruits/Plums-and-Prunes.html"
 title:  "Plums and Prunes"
 arabic: "آلو و آلوچه"
 image: "../media/plums.jpeg"
+priority:
 seasons: "Winter"
 time: "mid December through mid March"
 care:

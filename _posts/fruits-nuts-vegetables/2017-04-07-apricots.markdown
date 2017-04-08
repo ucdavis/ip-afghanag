@@ -1,8 +1,9 @@
 ---
 layout: page
 tags: fruit
-url:
+url: "/fruits-nuts-vegetables/Fruits/Apricots.html"
 title:  "Apricots"
+priority: "medium"
 arabic: "زردآلو"
 image: "../media/apricot.jpeg"
 seasons: "Winter"

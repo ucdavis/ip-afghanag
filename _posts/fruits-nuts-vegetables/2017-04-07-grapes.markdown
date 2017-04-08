@@ -1,9 +1,10 @@
 ---
 layout: page
 tags: fruit
-url:
+url: "/fruits-nuts-vegetables/Fruits/Grapes.html"
 title:  "Grapes and Raisins"
 arabic: "انگور و کشمش"
+priority: "veryhigh"
 image: "../media/grapes.jpeg"
 seasons: "Winter"
 time: "mid December through mid March"

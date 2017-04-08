@@ -1,8 +1,9 @@
 ---
 layout: page
 tags: fruit
-url:
+url: "/fruits-nuts-vegetables/Fruits/Citrus.html"
 title:  "Citrus"
+priority: lower
 arabic: "میوه جات ستروس"
 image: "../media/citrus.jpeg"
 seasons: "Winter"

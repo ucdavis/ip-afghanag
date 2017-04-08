@@ -1,10 +1,11 @@
 ---
 layout: page
 tags: fruit
-url:
+url: "/fruits-nuts-vegetables/Fruits/Figs.html"
 title:  "Figs"
 arabic: انجی"
 image: "../media/figs.jpeg"
+priority:
 seasons:
 time:
 care:

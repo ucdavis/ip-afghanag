@@ -9,10 +9,34 @@ layout: default
             <div class="description">
                 <h2>Priorities</h2>
                 <ul>
-                    <li><b>Very high priority:</b> Grapes</li>
-                    <li><b>High priority:</b> Almonds, Pistachio, Melon and Potato</li>
-                    <li><b>Medium priority:</b> Apricot, Apple, Pomegranate, Walnut, Onions and Tomatoes</li>
-                    <li><b>Lower priority:</b> Beans, Citrus, Pine Nuts</li>
+                  <li><b>Very high priority:</b>
+                      {% for post in site.tags.fruit %}
+                        {% if post.priority == "veryhigh" %}
+                          {{ post.title }}
+                        {% endif %}
+                      {% endfor %}
+                  </li>
+                  <li><b>High priority:</b>
+                    {% for post in site.tags.fruit %}
+                      {% if post.priority == "high" %}
+                        {{ post.title }}
+                      {% endif %}
+                    {% endfor %}
+                  </li>
+                  <li><b>Medium priority:</b>
+                    {% for post in site.tags.fruit %}
+                      {% if post.priority == "medium" %}
+                        {{ post.title }}
+                      {% endif %}
+                    {% endfor %}
+                  </li>
+                  <li><b>Lower priority:</b>
+                    {% for post in site.tags.fruit %}
+                      {% if post.priority == "lower" %}
+                        {{ post.title }}
+                      {% endif %}
+                    {% endfor %}
+                  </li>
                 </ul>
                 <p>These priorities are based on feedback from MAIL.</p>
                 <h2>Background</h2>
@@ -35,18 +59,10 @@ layout: default
                 </a>
                   <img src="media/fruits.jpeg">
                   <ul>
-                    <a href="Fruits/Apples.html"><li>Apples</li></a>
-                    <a href=""><li>Apricots</li></a>
-                    <a href=""><li>Citrus</li></a>
-                    <a href=""><li>Figs</li></a>
-                    <a href=""><li>Grapes and Raisins</li></a>
-                    <a href=""><li>Mulberry</li></a>
-                    <a href=""><li>Peach and Nectarine</li></a>
-                    <a href=""><li>Pomegranate</li></a>
-                    <a href=""><li>Plums and Prunes</li></a>
+                    {% for post in site.tags.fruit %}
+                    <a href="{{post.url}}"><li>{{post.title}}</li></a>
+                    {% endfor %}
                   </ul>
-
-
                 </a>
               </div>
         </div>

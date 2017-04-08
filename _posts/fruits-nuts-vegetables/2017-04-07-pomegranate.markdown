@@ -1,8 +1,9 @@
 ---
 layout: page
 tags: fruit
-url:
+url: "/fruits-nuts-vegetables/Fruits/Pomegranate.html"
 title:  "Pomegranate"
+priority: medium
 arabic: "انار"
 image: "../media/pomegranate.jpeg"
 seasons: "Winter"
