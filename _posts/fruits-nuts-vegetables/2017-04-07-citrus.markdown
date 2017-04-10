@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/Citrus.html"
+permalink: /fruits-nuts-vegetables/fruits/citrus
 title:  "Citrus"
 priority: lower
 arabic: "میوه جات ستروس"

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/Apricots.html"
+permalink: /fruits-nuts-vegetables/fruits/apricots
 title:  "Apricots"
 priority: "medium"
 arabic: "زردآلو"

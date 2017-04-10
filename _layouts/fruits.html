@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<div class="main">
+	<div class="main_contents">
+		<h1>{{page.title}} {{page.arabic}}</h1>
+		<h2> Seasonal activities: {{page.seasons}} </h2>
+		<p> ({{page.time}}) </p>
+		<ul>
+			{% for row in page.care %}
+				<li>{{row}}</li>
+			{% endfor %}
+		</ul>
+		<h3>Content</h3>
+		<h3>Problems and Opportunities</h3>
+		<ul>
+		{% for row in page.problem-opportunities %}
+			<li>{{row}}</li>
+		{% endfor %}
+	</ul>
+	<h3>Overview</h3>
+	<ul>
+	{% for row in page.overview %}
+		<li>{{row}}</li>
+	{% endfor %}
+</ul>
+<h3>Crop Calendar</h3>
+<ul>
+{% for row in page.crop-calendar %}
+	<li>{{row}}</li>
+{% endfor %}
+</ul>
+<h3>Production</h3>
+<h3>Pest Management for {{page.title}}</h3>
+<ul>
+{% for row in page.pest-management %}
+	<li>{{row}}</li>
+{% endfor %}
+</ul>
+<h3>Postharvest</h3>
+<ul>
+{% for row in page.post-harvest %}
+	<li>{{row}}</li>
+{% endfor %}
+</ul>
+
+
+
+
+
+		 {{ content }}
+		 Hello
+	</div>
+</div>

@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/Pomegranate.html"
+permalink: /fruits-nuts-vegetables/fruits/pomegranate
 title:  "Pomegranate"
 priority: medium
 arabic: "انار"
@@ -15,8 +16,8 @@ care:
   - "Irrigation. Little or no irrigation during winter may be needed."
   - "Propagation. Take cuttings for propagation"
 problem-opportunities:
-  - "<b>Priority problems<b> for Afghanistan Pomegranates include: fruit splitting, pollination, training & pruning, and IPM for pomegranates. "
-  - "<b>Priority opportunities<b>  include improved harvesting techniques to prevent fruit splitting, and improved grading and sorting practices. "
+  - "<b>Priority problems</b> for Afghanistan Pomegranates include: fruit splitting, pollination, training & pruning, and IPM for pomegranates. "
+  - "<b>Priority opportunities</b>  include improved harvesting techniques to prevent fruit splitting, and improved grading and sorting practices. "
   - "These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants, Afghan specialists, Muhammad Aziz Saeedi (PHDC-Jalalabad/ANHDO), agricultural experts at Kandahar University, Kandahar DAIL, and Tom Brown."
 overview:
   - "Crop Overview Fact Sheet (UC Davis)"

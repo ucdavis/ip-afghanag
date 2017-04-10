@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/Figs.html"
+permalink: /fruits-nuts-vegetables/fruits/figs
 title:  "Figs"
 arabic: انجی"
 image: "../media/figs.jpeg"

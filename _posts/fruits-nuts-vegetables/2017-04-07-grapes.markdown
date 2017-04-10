@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/Grapes.html"
+permalink: /fruits-nuts-vegetables/fruits/grapes
 title:  "Grapes and Raisins"
 arabic: "انگور و کشمش"
 priority: "veryhigh"

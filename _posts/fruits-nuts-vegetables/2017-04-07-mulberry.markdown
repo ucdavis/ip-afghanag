@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/Mulberry.html"
+permalink: /fruits-nuts-vegetables/fruits/mulberry
 title:  "Mulberry"
 arabic: "توت"
 image: "../media/mulberry.jpeg"
