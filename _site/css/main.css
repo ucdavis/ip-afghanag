@@ -818,7 +818,8 @@ table tbody tr {
   text-align: center;
   padding: 8px;
   align-items: center;
-  display: flex; }
+  display: flex;
+  flex-direction: column; }
 
 .category_contents {
   display: flex;

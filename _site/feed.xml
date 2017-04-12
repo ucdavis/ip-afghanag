@@ -6,9 +6,22 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Apr 2017 16:21:21 -0700</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2017 16:21:21 -0700</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2017 16:57:06 -0700</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2017 16:57:06 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>Chickpea</title>
+        <description>
+</description>
+        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/grain-field-crops/Chickpea</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/grain-field-crops/Chickpea</guid>
+        
+        <category>crops</category>
+        
+        
+      </item>
     
       <item>
         <title>Walnuts</title>
@@ -121,19 +134,6 @@
         <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/fruits-nuts-vegetables/vegetables/okra</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/fruits-nuts-vegetables/vegetables/okra</guid>
-        
-        <category>vegetables</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Melons</title>
-        <description>
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/fruits-nuts-vegetables/vegetables/melons</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/fruits-nuts-vegetables/vegetables/melons</guid>
         
         <category>vegetables</category>
         
