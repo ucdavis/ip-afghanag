@@ -8,6 +8,7 @@ arabic: "آلو و آلوچه"
 image: "../media/plums.jpeg"
 priority:
 seasons: "Winter"
+pictures: "../media/plums_pic.jpeg"
 time: "mid December through mid March"
 care:
   - "If San Jose scale, mites, or aphids have been problems in previous growing seasons, spray the tree with dormant oil late in the dormant season, just prior to bud break. Oil sprays applied late in the dormant season are least likely to cause shoot injury. Be sure to provide thorough coverage of the tree, including the trunk."

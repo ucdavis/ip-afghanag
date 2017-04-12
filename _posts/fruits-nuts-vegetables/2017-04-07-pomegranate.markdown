@@ -7,6 +7,7 @@ title:  "Pomegranate"
 priority: medium
 arabic: "انار"
 image: "../media/pomegranate.jpeg"
+pictures: "../media/pomegranate_pic.jpg"
 seasons: "Winter"
 time: "mid December through mid March"
 care:

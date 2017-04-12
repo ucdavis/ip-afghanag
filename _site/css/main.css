@@ -795,7 +795,8 @@ table tbody tr {
   flex-direction: row;
   justify-content: C; }
   #main-boxes ul {
-    list-style: none; }
+    list-style: none;
+    padding-left: 0px; }
 
 .main-box {
   width: 20%;
@@ -815,7 +816,9 @@ table tbody tr {
 .category-picture {
   width: 50%;
   text-align: center;
-  padding: 8px; }
+  padding: 8px;
+  align-items: center;
+  display: flex; }
 
 .category_contents {
   display: flex;

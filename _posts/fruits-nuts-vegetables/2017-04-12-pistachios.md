@@ -6,6 +6,7 @@ permalink: /fruits-nuts-vegetables/nuts/almonds
 title:  "Pistachio"
 arabic: "پسته"
 image: "../media/pistachios.jpeg"
+pictures: "../media/pistachio_pic.jpeg"
 seasons:
 time:
 tree-management:

@@ -6,6 +6,7 @@ permalink: /fruits-nuts-vegetables/fruits/grapes
 title:  "Grapes and Raisins"
 arabic: "انگور و کشمش"
 priority: "veryhigh"
+pictures: "../media/grapes_pic.jpeg"
 image: "../media/grapes.jpeg"
 seasons: "Winter"
 time: "mid December through mid March"

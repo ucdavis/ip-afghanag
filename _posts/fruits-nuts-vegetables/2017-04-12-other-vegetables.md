@@ -6,6 +6,7 @@ permalink: /fruits-nuts-vegetables/vegetables/other-vegetables
 title:  "Other Vegetables"
 arabic: "سبیزیجات دیگر"
 image: "../media/other-veg.jpeg"
+pictures: "../media/leek_pic.jpeg"
 seasons:
 time:
 tree-management:

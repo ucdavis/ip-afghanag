@@ -6,6 +6,7 @@ permalink: /fruits-nuts-vegetables/fruits/figs
 title:  "Figs"
 arabic: انجی"
 image: "../media/figs.jpeg"
+pictures: "../media/figs_pic.jpeg"
 priority:
 seasons:
 time:

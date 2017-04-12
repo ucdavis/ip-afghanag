@@ -18,3 +18,5 @@ Missing pages:
 
 missing content:
 - squash (picture + problems/priorities)
+- cherries (picture)
+- pears (picture)

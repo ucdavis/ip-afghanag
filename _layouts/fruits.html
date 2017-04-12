@@ -4,6 +4,7 @@ layout: default
 <div class="main">
 	<div class="main_contents">
 		<h1>{{page.title}} {{page.arabic}}</h1>
+		<div class="category_contents">
 		<div class="description">
 		<h3>Content</h3>
 		<ul>
@@ -41,6 +42,7 @@ layout: default
 	<div class="category-picture">
 			<img src="{{ page.pictures }}">
 	</div>
+</div>
 	{% endif %}
 		{% if page.seasons %}
 		<h2> Seasonal activities: {{page.seasons}} </h2>

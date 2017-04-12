@@ -6,6 +6,7 @@ permalink: /fruits-nuts-vegetables/vegetables/onion-garlic
 title:  "Onions and Garlic"
 arabic: "پیاز و سیر"
 image: "../media/onion-garlic.jpg"
+pictures: "../media/onion_pic.jpeg"
 seasons:
 time:
 tree-management:

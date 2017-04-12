@@ -6,6 +6,7 @@ permalink: /fruits-nuts-vegetables/vegetables/cauliflower
 title:  "Cauliflower"
 arabic: "گلپی"
 image: "../media/cauliflower.jpg"
+pictures: "../media/cauliflower_pic.jpeg"
 seasons:
 time:
 tree-management:
