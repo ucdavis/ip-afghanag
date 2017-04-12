@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Nuts مغزباب</h1>
+        <h2>Priorities</h2>
+        <ul>
+            <li><b>High priority:</b>
+              {% for post in site.tags.nuts %}
+                {% if post.priority == "high" %}
+                  {{ post.title }}
+                {% endif %}
+              {% endfor %}
+            </li>
+            <li><b>Medium priority:</b>
+              {% for post in site.tags.nuts %}
+                {% if post.priority == "medium" %}
+                  {{ post.title }}
+                {% endif %}
+              {% endfor %}
+            </li>
+            <li><b>Lower priority:</b> Pine Nuts
+            </li>
+        </ul>
+        <p>These priorities are based on feedback from MAIL. PLS</p>
+        <div id="main-boxes">
+            {% for post in site.tags.nuts %}
+              <div class="main-box">
+                <a href="{{ post.permalink }}">
+                  <h2> {{ post.title }}</h2>
+                  <h2> {{ post.arabic }}</h2>
+                  <img src="{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+
+    </div>
+</div>

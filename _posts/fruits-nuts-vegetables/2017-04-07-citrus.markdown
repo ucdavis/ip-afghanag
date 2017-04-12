@@ -13,7 +13,7 @@ care:
   - "Prune out any crossing, broken, or shaded out branches from the interior of the tree. No topping or hedging is necessary and removal of the skirts around the lower portion of the tree's bearing capacity."
   - "If scale insects are present (appear as small bumps on twigs and a black sooty mold on the leaves), spray the tree with volk or superior oil. The best time to treat is February during cool weather. Thorough coverage is important."
 problem-opportunities:
-  - "<b>Priority problems<b> for Afghanistan Citrus include: a lack of tested varieties (see PHDP), and Tristeza virus in bitter orange rootstock."
+  - "<b>Priority problems</b> for Afghanistan Citrus include: a lack of tested varieties (see PHDP), and Tristeza virus in bitter orange rootstock."
   - "These draft priority problems are based on feedback from agricultural consultants, Afghan specialists, and Tom Brown."
 overview:
   - "About Citrus Fact Sheet (Sweet Oranges)"
@@ -30,3 +30,31 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
+<div class="production">
+  <ul>
+    <li>Production and Post Harvest Manual English (2.5 MB) and (Dari) دری (2.5 MB) (UC Davis)</li>
+    <li>Variety Selection:</li>
+      <ul>
+        <li>For certified saplings contact PHDP (Perennial Horticulture Development Project)</li>
+        <li>PHDP Varietal Selection and Production English (excerpt), دری (Dari) (9.9 MB) and پشتو (Pashto) (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
+        <li>National Nursery Growers' Association Locations and Contacts PDF (ANNGO Catalog 2013, PHDP/EU)</li>
+      </ul>
+    <li>Site Selection Fact Sheet  (UC Davis)</li>
+    <li>Site Layout Fact Sheet  (UC Davis)</li>
+    <li>Orchard Establishment Fact Sheet (UC Davis)</li>
+    <li>Planting Fact Sheet  (UC Davis)</li>
+    <li>Intercropping Fact sheet (UC Davis)</li>
+    <li>Shaping Fact Sheet  (UC Davis)</li>
+    <li>General Pruning Manual پشتو  (Pashto)</li>
+    <li>Fertilization Fact Sheet (IFA)</li>
+    <li>Irrigation:</li>
+    <ul>
+      <li>Underground Irrigation System Fact Sheet  (UC Davis)</li>
+      <li>Scheduling Fact Sheet  (UC Davis)</li>
+      <li>Irrigation of Perennial Crops Manual (3.4 MB) (Roots of Peace)</li>
+      <li>Principles of Irrigation of Trees and Vines PPT as PDF English (2.8MB) and (Dari) دری (4.6 MB) (UC Davis)</li>
+      <li>Drip Irrigation Manual (11.7MB) (IDE)</li>
+    </ul>
+  </ul>
+</div>

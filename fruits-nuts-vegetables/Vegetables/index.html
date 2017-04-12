@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Vegetables سبزیجات</h1>
+        <h2>Overview</h2>
+        <ul>
+          <li>General Vegetable Production Manual Pashto (2.3 MB) (USAID/ADP-E)</li>
+          <li>Comparison of common vegetables Info sheet (UC Davis)</li>
+          <li>Vegetable groups Info sheet (SIU)</li>
+          <li>Diagnostics Fact sheet (UC Davis)</li>
+          <li>Vegetative Propagation Fact sheet (UC Davis)</li>
+          <li>Transplanting Fact Sheet I and Fact Sheet II (UC Davis)</li>
+          <li>Vegetable Postharvest: Simple Techniques Manual (5.8 MB) (AVRDC)</li>
+        </ul>
+        <div id="main-boxes">
+            {% for post in site.tags.vegetables %}
+              <div class="main-box">
+                <a href="{{ post.permalink }}">
+                  <h2> {{ post.title }}</h2>
+                  <h2> {{ post.arabic }}</h2>
+                  <img src="{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+
+    </div>
+</div>

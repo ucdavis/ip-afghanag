@@ -12,8 +12,8 @@ time: "mid December through mid March"
 care:
   - "Dried mulberries are one of the most important dried fruits in Afghanistan, especially during holidays.  Afghanistan exports some mulberries to India and Dubai, providing a big source of income for many Afghans.  Grown widely for both private and commercial purposes, commercial operations can vary from just a few trees to large orchards. Mulberry trees, of which there are 58 varieties in Afghanistan, are commonly grafted. There is also considerable use of mulberry leaves for silkworms."
 problem-opportunities:
-  - "<b>Priority problems<b> for mulberries include: poor drying practices (dried on roofs of houses, exposed to dust) and value chain standards not sufficient for export (resulting in a lack of market opportunities). Significant pests include fig tree borer."
-  - "<b>Priority opportunities<b> include: improved drying practices (sanitation, cleanliness, such as solar drier) and training in proper processing to meet standards for sale and export."
+  - "<b>Priority problems</b> for mulberries include: poor drying practices (dried on roofs of houses, exposed to dust) and value chain standards not sufficient for export (resulting in a lack of market opportunities). Significant pests include fig tree borer."
+  - "<b>Priority opportunities</b> include: improved drying practices (sanitation, cleanliness, such as solar drier) and training in proper processing to meet standards for sale and export."
   - "These priorities and opportunities based on feedback from Sharif Shah Reshteen."
 overview:
   - "About Mulberries Info Sheet (UC Davis)"

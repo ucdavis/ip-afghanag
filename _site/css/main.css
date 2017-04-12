@@ -44,19 +44,16 @@ a {
       a.archive p:hover {
         color: #DDB307; }
 
-ul,
-ol {
-  padding-left: 0px; }
-  ul li,
-  ol li {
-    font-size: 1.6rem;
-    line-height: 1.8;
-    letter-spacing: .025rem;
-    font-family: "proxima-nova", arial, sans-serif;
-    color: #333433; }
-  ul.no-bullet li,
-  ol.no-bullet li {
-    list-style-type: none; }
+ul li,
+ol li {
+  font-size: 1.6rem;
+  line-height: 1.8;
+  letter-spacing: .025rem;
+  font-family: "proxima-nova", arial, sans-serif;
+  color: #333433; }
+ul.no-bullet li,
+ol.no-bullet li {
+  list-style-type: none; }
 
 ul.topic_nav li {
   list-style-type: none;

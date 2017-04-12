@@ -13,8 +13,8 @@ care:
   - "Spray trees with dormant oil to control San Jose scale, aphid eggs, mite eggs and peach twig borer."
   - "Do not use sulfur on apricots, ever."
 problem-opportunities:
-  - "<b>Priority problems<b> include: include: pollination, planting (bed preparation), grafting, training & pruning, variety selection, Apricot Late Frost"
-  - "<b>Priority opportunities<b> include: marketing of fresh and dried apricots to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
+  - "<b>Priority problems</b> include: include: pollination, planting (bed preparation), grafting, training & pruning, variety selection, Apricot Late Frost"
+  - "<b>Priority opportunities</b> include: marketing of fresh and dried apricots to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
 overview:
   - "About Apricots Fact Sheet (UC Davis)"
 crop-calendar:

@@ -12,3 +12,9 @@ Once Jekyll is installed and you are in the folder within terminal use jekyll se
 
 bg images
 background-image: url(../media/geometric.svg);# AfghanAg-static
+
+Missing pages:
+- carrots
+
+missing content:
+- squash (picture + problems/priorities)
