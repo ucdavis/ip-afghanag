@@ -2,7 +2,7 @@
 
 Jekyll Starter for Web projects with the College of Agricultural and Environmental Sciences at UC Davis.
 
-Author: Cal Doval cydoval@ucdavis.edu
+Author: Cal Doval cydoval@ucdavis.edu & Zarra Stamboel tastamboel@ucdavis.edu
 Website: Jekyll-starter.ucdavis.edu
 
 This project is built using Jekyll - please use http://jekyllrb.com/ for installation
