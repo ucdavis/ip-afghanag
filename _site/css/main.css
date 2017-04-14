@@ -840,6 +840,9 @@ table tbody tr {
   margin: 0 80px 0 0;
   letter-spacing: .25px; }
 
+.hing-pics {
+  width: 50%; }
+
 form .main {
   background-color: #f7f7f7;
   padding: 2%;
