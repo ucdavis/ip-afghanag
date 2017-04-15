@@ -6,8 +6,8 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Apr 2017 13:39:10 -0700</pubDate>
-    <lastBuildDate>Fri, 14 Apr 2017 13:39:10 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Apr 2017 17:45:21 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2017 17:45:21 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -239,31 +239,27 @@
         <title>Maize</title>
         <description>&lt;div id=&quot;main-boxes&quot;&gt;
       &lt;div class=&quot;main-box&quot;&gt;
-        &lt;a href=&quot;&quot;&gt;
           &lt;h2&gt;Corn Armyworm&lt;/h2&gt;
-          &lt;h2&gt;Factsheet&lt;/h2&gt;
+          &lt;h2&gt;&lt;a href=&quot;../files/insect-armyworms.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/h2&gt;
           &lt;img src=&quot;../media/corn-armyworm.jpeg&quot; /&gt;
-        &lt;/a&gt;
+        
       &lt;/div&gt;
       &lt;div class=&quot;main-box&quot;&gt;
-        &lt;a href=&quot;&quot;&gt;
           &lt;h2&gt;Corn Earworm (also called Tomato Fruitworm)&lt;/h2&gt;
-          &lt;h2&gt;Factsheet&lt;/h2&gt;
+          &lt;h2&gt;&lt;a href=&quot;../files/tomato-fruitworm.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/h2&gt;
           &lt;img src=&quot;../media/tomato-armyworm.jpeg&quot; /&gt;
-        &lt;/a&gt;
       &lt;/div&gt;
       &lt;div class=&quot;main-box&quot;&gt;
-        &lt;a href=&quot;&quot;&gt;
           &lt;h2&gt;Corn Leafhopper&lt;/h2&gt;
-          &lt;h2&gt;Factsheet&lt;/h2&gt;
+          &lt;h2&gt;&lt;a href=&quot;../files/corn-leafhopper.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/h2&gt;
           &lt;img src=&quot;../media/corn-leafhopper.jpg&quot; /&gt;
-        &lt;/a&gt;
+
       &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;hing-content&quot;&gt;
   &lt;h2&gt;Postharvest&lt;/h2&gt;
   &lt;ul&gt;
-    &lt;li&gt;Cereal Knowledge Bank (CIMMYT on-line tool)&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.knowledgebank.irri.org/maize.htm&quot;&gt;Cereal Knowledge Bank&lt;/a&gt; (CIMMYT on-line tool)&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
 </description>
