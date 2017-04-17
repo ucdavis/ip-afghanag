@@ -10,28 +10,28 @@ layout: default
             <li><b>Very high priority:</b>
                 {% for post in site.tags.fruit %}
                   {% if post.priority == "veryhigh" %}
-                    {{ post.title }}
+                    <a href="{{post.permalink}}">{{ post.title }}</a>
                   {% endif %}
                 {% endfor %}
             </li>
             <li><b>High priority:</b>
               {% for post in site.tags.fruit %}
                 {% if post.priority == "high" %}
-                  {{ post.title }}
+                  <a href="{{post.permalink}}">{{ post.title }}</a>
                 {% endif %}
               {% endfor %}
             </li>
             <li><b>Medium priority:</b>
               {% for post in site.tags.fruit %}
                 {% if post.priority == "medium" %}
-                  {{ post.title }}
+                  <a href="{{post.permalink}}">{{ post.title }}</a>
                 {% endif %}
               {% endfor %}
             </li>
             <li><b>Lower priority:</b>
               {% for post in site.tags.fruit %}
                 {% if post.priority == "lower" %}
-                  {{ post.title }}
+                  <a href="{{post.permalink}}">{{ post.title }}</a>
                 {% endif %}
               {% endfor %}
             </li>

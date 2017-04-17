@@ -15,10 +15,17 @@ overview:
 crop-calendar:
 pest-management:
 post-harvest:
-market-information-link: ""
-photo-gallery: ""
-links: ""
+market-information-link:
+photo-gallery:
+links:
 ---
+<ul>
+  <li>Hing</li>
+  <li>Pigeon Pea</li>
+  <li>Soybean</li>
+  <li>Sunn Hemp</li>
+</ul>
+
 <div class="hing-content">
   <h2>Hing</h2>
   <div class="category_contents">
@@ -26,7 +33,7 @@ links: ""
     <p> Asafoetida, or hing, is a perennial herb (genus Ferula) growing wild in the deserts of Afghanistan's northern provinces. The stem and roots of the Hing plant emit sap that is dried and used as a spice.  Currently Hing is collected and sold informally in local markets.</p>
     <p><b>Priority problems</b> for hing include lack of domesticated varieties.</p>
     <p><b>Priority opportunities</b> for hing are agricultural intensification, including investment in crop establishment, cultivar research, and extension services for farmers.</p>
-    <p>Improved Agricultural Techniques and Natural Resource Management Course Module: Hing Manual Dari (1.2 MB) (People in Need)</p>
+    <p>Improved Agricultural Techniques and Natural Resource Management Course Module: Hing <a href="../files/hing-overview.pdf">Manual </a>Dari (1.2 MB) (People in Need)</p>
   </div>
   <div class="category-picture">
       <img src="../media/hing.jpg">
@@ -43,10 +50,10 @@ links: ""
     <p><b>Priority opportunities</b> include increased awareness of nutritional value and greater awareness in other parts of the country of its benefits as a windbreak, living fence, green manure source, and weed control mechanism.</p>
     <p>These draft problems and opportunities are based on feedback from Najmudin Rohid (AAEP Kabul).</p>
     <ul>
-      <li>Overview Info Sheet (UC Davis)</li>
-      <li>Seed and Seed Systems Webpage</li>
-      <li>Pigeon Pea Production Manual (Tropical Forages)</li>
-      <li>Pigeon Pea Nutritional Benefits Info Sheet (UC Davis)</li>
+      <li>Overview <a href="../files/pigeon-pea-infosheet.pdf">Info Sheet </a>(UC Davis)</li>
+      <li>Seed and Seed Systems <a href="">Webpage</a></li>
+      <li>Pigeon Pea Production <a href="../files/pigeon-pea-tropical.pdf">Manual</a> (Tropical Forages)</li>
+      <li>Pigeon Pea Nutritional Benefits <a href="../files/pigeon-pea-nutrition.pdf">Info Sheet </a>(UC Davis)</li>
     </ul>
     </div>
     <div class="category-picture">
@@ -61,8 +68,8 @@ links: ""
     <p>Soybean has not been traditionally grown in Afghanistan, but has become increasingly popular since 2010 as a result of major pushes from foreign NGOs and grower's associations, which have worked to create export markets and supply necessary inputs.  Sustained access to necessary inputs, particularly machinery, is currently the major limitation for soybean production in Afghanistan.  Soybean is a healthy, low-cost, and easily preserved source of protein, making it a good alternative to meats in diversifying family diets. </p>
     <p><b>Priority problems and opportunities</b> for soybean are not yet confirmed.</p>
     <ul>
-      <li>Best Management Practices for Soybean Production in South Dakota (northern USA) Manual (iGrow Soybeans)</li>
-      <li>Soybean Production Manual English (excerpt) and Dari (3.3 MB) (NEI Foundation)</li>
+      <li>Best Management Practices for Soybean Production in South Dakota (northern USA)<a href="../files/soybean-manual.pdf"> Manual</a> (iGrow Soybeans)</li>
+      <li>Soybean Production Manual <a href="../files/soybean-nutrition.pdf">English </a>(excerpt) and <a href="../files/soybean-production-dari.pdf">Dari</a> (3.3 MB) (NEI Foundation)</li>
     </ul>
     </div>
     <div class="category-picture">
@@ -80,8 +87,8 @@ links: ""
     <p><b>Priority opportunities</b> include increased awareness of sunn hemp as an oil source.</p>
     <p>These draft priority problems are based on feedback from Najmudin Rohid (AAEP Kabul).</p>
     <ul>
-      <li>Overview Info Sheet (UCD)</li>
-      <li>Production Summary and  Manual (U Hawaii)</li>
+      <li>Overview <a href="../files/sunn-hemp-overview.pdf">Info Sheet </a>(UCD)</li>
+      <li>Production <a href="../files/sunnhemp-hawaii.pdf">Summary</a> and  <a href="../files/sunnhemp-hawaii2.pdf">Manual</a> (U Hawaii)</li>
     </ul>
   </div>
   <div class="category-picture">

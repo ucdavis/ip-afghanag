@@ -29,17 +29,25 @@
   <script src="/js/jquery.nivo.slider.pack.js" type="text/javascript"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
   <script type="text/javascript" src="/js/nav.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+  <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script> -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
   <script src="/js/cssbrowserselector.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+
 
   <!-- le CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link href="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.min.css" type="text/css" rel="stylesheet" />
   <link href="//cdn.rawgit.com/noelboss/featherlight/1.3.5/release/featherlight.gallery.min.css" type="text/css" rel="stylesheet" />
+
   <link rel="stylesheet" href="/css/main.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
   <link rel="canonical" href="http://epakag.ucdavis.edu/grain-field-crops/crops/wheat">
 
   <link rel="alternate" type="application/rss+xml" title="International Programs - E Pakag" href="http://epakag.ucdavis.edu/feed.xml" />
+  <!-- Latest compiled and minified CSS -->
+
 
 </head>
 
@@ -61,6 +69,68 @@
     <nav id="nav" role="navigation">
         <a class="nav_open" href="#nav" title="Show navigation"><i class="fa fa-bars"></i></a>
         <a class="nav_close" href="#" title="Hide navigation"><i class="fa fa-times"></i></a>
+
+        <div class="dropdown">
+          <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            Dropdown
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li class="dropdown-submenu">
+              <a tabindex="-1" href="#">More options</a>
+              <ul class="dropdown-menu dropdown-menu-right">
+                 <li>hi</li>
+               </ul>
+            </li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <div class="dropdown">
+      <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">Tutorials
+      <span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        <li><a tabindex="-1" href="#">HTML</a></li>
+        <li><a tabindex="-1" href="#">CSS</a></li>
+        <li class="dropdown-submenu">
+          <a class="test" tabindex="-1" href="#">New dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a tabindex="-1" href="#">2nd level dropdown</a></li>
+            <li><a tabindex="-1" href="#">2nd level dropdown</a></li>
+            <li class="dropdown-submenu">
+              <a class="test" href="#">Another dropdown <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">3rd level dropdown</a></li>
+                <li><a href="#">3rd level dropdown</a></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+
+
+      <!--
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+          <li><a href="/a_horticulture/fruit-trees">Fruits</a></li>
+          <li>hello</li>
+          <li class="dropdown-submenu">
+            <a tabindex="-1" href="#">More options</a>
+             <ul class="dropdown-menu">
+               <li>hi</li>
+             </ul>
+          </li>
+        </ul> -->
+
+
+
+        <!--
         <ul id="nav_upperlevel">
         <li>
             <a href="/a_horticulture" aria-haspopup="true">Fruits, Nuts & Vegetables</a>
@@ -100,9 +170,20 @@
             <li>
                 <a href="/livestock">Vocational Training</a>
             </li>
-        </ul>
+        </ul> -->
     </nav>
 </div>
+
+
+<script>
+$(document).ready(function(){
+  $('.dropdown-submenu a.test').on("click", function(e){
+    $(this).next('ul').toggle();
+    e.stopPropagation();
+    e.preventDefault();
+  });
+});
+</script>
 
   <body>
         <div class="main">
@@ -149,9 +230,9 @@
 		<h3>Problems and Opportunities</h3>
 		<ul>
 		
-			<li><b>Priority problems</b> of wheat relate to seed quality and improved varieties, water management and the Moroccan Locust. Seedbeds (good seed-soil contact) and grain storage also need improvement.</li>
+			<li><b>Priority problems</b> of wheat relate to seed quality and improved varieties, water management and the <a href='../files/moroccan-locust.pdf'>Moroccan Locust</a>. Seedbeds (good seed-soil contact) and grain storage also need improvement.</li>
 		
-			<li><b>Priority opportunities</b> include working with organizations like FAO, MAIL and CIMMYT to access good seed, improve fertilizer use, and improve irrigation systems. The icon video Purdue PIC bag or the IRRI Super Bag may be good options for seed and grain storage.</li>
+			<li><b>Priority opportunities</b> include working with organizations like FAO, MAIL and CIMMYT to access good seed, improve fertilizer use, and improve irrigation systems. The icon video Purdue PIC bag or the <a href='../files/wheat-super-bags.pdf'>IRRI Super Bag</a> may be good options for seed and grain storage.</li>
 		
 			<li>Problems and opportunities from Hussain Sharifi.</li>
 		
@@ -161,9 +242,9 @@
 	<h3>Overview</h3>
 	<ul>
 	
-		<li>Overview Info Sheet English, (Dari) دری, and پشتو (Pashto) (UC Davis) </li>
+		<li>Overview Info Sheet <a href='../files/wheat-overview-dari.pdf'>English</a>, <a href='../files/wheat-overview-dari.pdf'>دری</a> (Dari), and <a href='../files/wheat-overview-pashto.pdf'>پشتو</a> (Pashto) (UC Davis)</li>
 	
-		<li>National Catalog of Wheat Varieties in Afghanistan Report (6.5 MB) (FAO and ICARDA)</li>
+		<li>National Catalog of Wheat Varieties in Afghanistan <a href='../files/wheat-varieties.pdf'>Report</a> (6.5 MB) (FAO and ICARDA)</li>
 	
 		<li>Wheat Production Maps</li>
 	
@@ -176,24 +257,24 @@
 <div class="hing-content">
   <h2>Production</h2>
   <ul>
-    <li>General Wheat Production پشتو (Pashto) (IRD)</li>
-    <li>Issues and Options in Wheat Production Fact Sheet English, دری (Dari), and پشتو (Pashto) (UC Davis)</li>
-    <li>Food and Food Security Info Sheet (UC Davis)</li>
-    <li>Cropping 101 Short Manual (UC Davis)</li>
+    <li>General Wheat Production <a href="../files/wheat-production-pashto.pdf">پشتو (Pashto)</a> (IRD)</li>
+    <li>Issues and Options in Wheat Production Fact Sheet <a href="../files/wheat-key-issues.pdf">English</a>, <a href="../files/wheat-problems-dari.pdf">دری</a> (Dari), and <a href="../files/wheat-problems-pashto.pdf">پشتو </a>(Pashto) (UC Davis)</li>
+    <li>Food and Food Security <a href="../files/food-security.pdf">Info Sheet</a> (UC Davis)</li>
+    <li>Cropping 101 Short <a href="../files/crop-basic.pdf">Manual (UC Davis)</a></li>
     <li>Seed and Seed Systems Webpage</li>
     <li>Fertilization</li>
     <ul>
-      <li>Fact Sheet (IFA)</li>
-      <li>Nitrogen Requirements of Annual Crops Fact Sheet (UC Davis)</li>
+      <li><a href="../files/wheat-fertilization.pdf">Fact Sheet</a> (IFA)</li>
+      <li>Nitrogen Requirements of Annual Crops <a href="../files/soil-annual-crops.pdf">Fact Sheet</a> (UC Davis)</li>
     </ul>
-    <li>Wheat Growth Stages (Feekes scale) Fact Sheet English and پشتو (Pashto) (RONNA)</li>
-    <li>Planting and Harvesting Dates Image</li>
+    <li>Wheat Growth Stages (Feekes scale) Fact Sheet <a href="../files/wheat-growth.pdf">English</a> and <a href="../files/wheat-growth-pashto.pdf">پشتو </a>(Pashto) (RONNA)</li>
+    <li>Planting and Harvesting <a href="../files/wheat-cropping-calendar.jpg">Dates</a></li>
     <li>Wheat Planting  icon video Videos Afghanistan and USA</li>
-    <li>Wheat Doctor (CIMMYT on-line diagnostic tool)</li>
+    <li><a href="http://wheatdoctor.org/">Wheat Doctor </a>(CIMMYT on-line diagnostic tool)</li>
     <li>Water Management</li>
     <ul>
-      <li>Field Observations for Irrigation Scheduling  Fact Sheet (UC Davis)</li>
-      <li>Too Much or Too Little? Fact Sheet (UC Davis)</li>
+      <li>Field Observations for Irrigation Scheduling <a href="../files/wheat-irrigation-schedule.pdf">  Fact Sheet </a>(UC Davis)</li>
+      <li>Too Much or Too Little? <a href="../files/wheat-water-management.pdf">Fact Sheet</a> (UC Davis)</li>
     </ul>
   </ul>
 </div>
@@ -203,19 +284,19 @@
   <ul>
     <li>Production by Province Interactive Map (UC Davis)</li>
     <li>Cultivated Area by Province Interactive Map (UC Davis)</li>
-    <li>Total area Wheat Yield Comparison 2010-2011 PDF Map (1.46 MB) (iMMAP)</li>
+    <li>Total area Wheat Yield Comparison 2010-2011 <a href="../files/total-yield.pdf">PDF Map</a> (1.46 MB) (iMMAP)</li>
   </ul>
   <h3>Irrigated Wheat Production </h3>
   <ul>
     <li>Production by Province Interactive Map (UC Davis)</li>
     <li>Cultivated Area by ProvinceInteractive Map (UC Davis)</li>
-    <li>Yield and Production Comparison 2010-2011 PDF Map (1.24 MB) (iMMAP)</li>
+    <li>Yield and Production Comparison 2010-2011 <a href="../files/wheat-yield.pdf">PDF Map</a> (1.24 MB) (iMMAP)</li>
   </ul>
   <h3>Rainfed Wheat Production</h3>
   <ul>
     <li>Production by Province Interactive Map (UC Davis)</li>
     <li>Cultivated Area by Province Interactive Map (UC Davis)</li>
-    <li>Yield and Production Comparison 2010-2011 PDF Map (1.24 MB) (iMMAP)</li>
+    <li>Yield and Production Comparison 2010-2011 <a href="../files/rainfed-yield.pdf">PDF Map</a> (1.24 MB) (iMMAP)</li>
   </ul>
 </div>
 <div class="hing-content">
@@ -229,15 +310,16 @@
         <div class="main-box">
           <a href="">
             <h2>Moroccan Locust</h2>
-            <h2>Factsheet</h2>
-            <h2>For more information see FAO and Plantwise</h2>
+            <p><a href="../files/moroccan-locust.pdf">Factsheet</a></p>
+            <p>For more information see <a href="http://www.fao.org/ag/locusts-CCA/en/1010/1018/1076/index.html">FAO</a> and <a href="http://www.plantwise.org/knowledgebank/datasheet.aspx?dsid=19438">Plantwise</a></p>
             <img src="../media/moroccan-locust.jpeg" />
           </a>
         </div>
         <div class="main-box">
           <a href="">
             <h2>Sunn Pest</h2>
-            <h2>Brochure (ICARDA)</h2>
+            <p><a href="../files/sunn-pest.pdf">Brochure</a></p>
+            <p>(ICARDA)</p>
             <img src="../media/sunn-pest.jpeg" />
           </a>
         </div>
@@ -246,7 +328,7 @@
 <div class="hing-content">
   <h2>Postharvest</h2>
   <ul>
-    <li>Dry seed to less than 14% moisture and clean, then use the IRRI Superbag Fact sheet (IRRI) or PIC bag icon videoVideo (Purdue) </li>
+    <li>Dry seed to less than 14% moisture and clean, then use the IRRI Superbag <a href="../files/wheat-super-bags.pdf">Fact sheet</a> (IRRI) or PIC bag icon videoVideo (Purdue) </li>
   </ul>
 </div>
 
