@@ -6,9 +6,48 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Apr 2017 18:54:56 -0700</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 18:54:56 -0700</lastBuildDate>
+    <pubDate>Fri, 21 Apr 2017 13:45:52 -0700</pubDate>
+    <lastBuildDate>Fri, 21 Apr 2017 13:45:52 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>Sheep</title>
+        <description>
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/livestock/livestock/sheep</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/sheep</guid>
+        
+        <category>livestock</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Poultry</title>
+        <description>
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/livestock/livestock/poultry</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/poultry</guid>
+        
+        <category>livestock</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Goats</title>
+        <description>
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/livestock/livestock/goats</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/goats</guid>
+        
+        <category>livestock</category>
+        
+        
+      </item>
     
       <item>
         <title>Cattle</title>
@@ -90,6 +129,52 @@
         <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/livestock/livestock/cattle</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/cattle</guid>
+        
+        <category>livestock</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Camels</title>
+        <description>&lt;div class=&quot;hing-content&quot;&gt;
+  &lt;h2&gt;Pasture and Fodder &lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Animals graze pastures in spring and summer, and are fed in the home compound during the lean feed periods of winter and early spring.&lt;/li&gt;
+      &lt;li&gt;Challenges to Grazing Land Info Sheet (UC Davis and SIU)&lt;/li&gt;
+      &lt;li&gt;Fodder&lt;/li&gt;
+      &lt;ul&gt;
+      &lt;li&gt;Crop Options Fact Sheet (UC Davis, SIU and U Georgia)&lt;/li&gt;
+      &lt;li&gt;Tree Options Info Sheet (UC Davis from FAO)&lt;/li&gt;
+      &lt;li&gt;Alfalfa Role and Establishment Report (1.9 MB) (FAF Developments)&lt;/li&gt;
+      &lt;li&gt;Pasture/Forage Resources Profile Report (FAO) &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/livestock/livestock/camels</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/camels</guid>
+        
+        <category>livestock</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bees</title>
+        <description>&lt;div class=&quot;hing-content&quot;&gt;
+  &lt;h2&gt;Pollination&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Pollination Fact Sheet (UC Davis for Roots of Peace)&lt;/li&gt;
+    &lt;li&gt;Major Crops that Benefit from Bee Pollination Info Sheet (UC Davis)&lt;/li&gt;
+    &lt;li&gt;Pollination in Cucurbits Manual (UCD)&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;/div&gt;
+</description>
+        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/livestock/livestock/bees</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/bees</guid>
         
         <category>livestock</category>
         
@@ -325,109 +410,6 @@
         <guid isPermaLink="true">http://epakag.ucdavis.edu/grain-field-crops/crops/other-field-crops</guid>
         
         <category>crops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Maize</title>
-        <description>&lt;div id=&quot;main-boxes&quot;&gt;
-      &lt;div class=&quot;main-box&quot;&gt;
-          &lt;h2&gt;Corn Armyworm&lt;/h2&gt;
-          &lt;h2&gt;&lt;a href=&quot;../files/insect-armyworms.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/h2&gt;
-          &lt;img src=&quot;../media/corn-armyworm.jpeg&quot; /&gt;
-        
-      &lt;/div&gt;
-      &lt;div class=&quot;main-box&quot;&gt;
-          &lt;h2&gt;Corn Earworm (also called Tomato Fruitworm)&lt;/h2&gt;
-          &lt;h2&gt;&lt;a href=&quot;../files/tomato-fruitworm.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/h2&gt;
-          &lt;img src=&quot;../media/tomato-armyworm.jpeg&quot; /&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;main-box&quot;&gt;
-          &lt;h2&gt;Corn Leafhopper&lt;/h2&gt;
-          &lt;h2&gt;&lt;a href=&quot;../files/corn-leafhopper.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/h2&gt;
-          &lt;img src=&quot;../media/corn-leafhopper.jpg&quot; /&gt;
-
-      &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Postharvest&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;http://www.knowledgebank.irri.org/maize.htm&quot;&gt;Cereal Knowledge Bank&lt;/a&gt; (CIMMYT on-line tool)&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/grain-field-crops/crops/maize</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/grain-field-crops/crops/maize</guid>
-        
-        <category>crops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Cotton</title>
-        <description>&lt;div id=&quot;main-boxes&quot;&gt;
-      &lt;div class=&quot;main-box&quot;&gt;
-        &lt;a href=&quot;&quot;&gt;
-          &lt;h2&gt;Cotton Bollworm&lt;/h2&gt;
-          &lt;h2&gt;Factsheet&lt;/h2&gt;
-          &lt;img src=&quot;../media/cotton-bollworm.jpg&quot; /&gt;
-        &lt;/a&gt;
-      &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Industry&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Cotton Industry Report (Chemonics for USAID)&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/grain-field-crops/crops/cotton</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/grain-field-crops/crops/cotton</guid>
-        
-        <category>crops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Chickpea</title>
-        <description>
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/grain-field-crops/crops/Chickpea</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/grain-field-crops/crops/Chickpea</guid>
-        
-        <category>crops</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Walnuts</title>
-        <description>
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/fruits-nuts-vegetables/nuts/walnuts</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/fruits-nuts-vegetables/nuts/walnuts</guid>
-        
-        <category>nuts</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tomatoes</title>
-        <description>
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/fruits-nuts-vegetables/vegetables/tomatoes</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/fruits-nuts-vegetables/vegetables/tomatoes</guid>
-        
-        <category>vegetables</category>
         
         
       </item>
