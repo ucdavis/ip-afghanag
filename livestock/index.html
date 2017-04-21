@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Livestock مالداری</h1>
+        <div class="category_contents">
+            <div class="description">
+                <h2>Priorities</h2>
+                <ul>
+                  <li><b>Very high priority:</b>
+                      {% for post in site.tags.livestock %}
+                        {% if post.priority == "veryhigh" %}
+                            <a href=" {{ post.permalink }}">{{ post.title }}</a>
+                        {% endif %}
+                      {% endfor %}
+                  </li>
+                  <li><b>High priority:</b>
+                    {% for post in site.tags.livestock %}
+                      {% if post.priority == "high" %}
+                          <a href=" {{ post.permalink }}">{{ post.title }}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </li>
+                  <li><b>Medium priority:</b>
+                    {% for post in site.tags.livestock %}
+                      {% if post.priority == "medium" %}
+                          <a href="{{ post.permalink }}">{{ post.title }}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </li>
+                  <li><b>Lower priority:</b>
+                    {% for post in site.tags.livestock %}
+                      {% if post.priority == "lower" %}
+                          <a href="{{ post.permalink }}">{{ post.title }}</a>
+                      {% endif %}
+                    {% endfor %}
+                  </li>
+                </ul>
+                <p>These priorities are based on feedback from MAIL.</p>
+                <p><a href="http://www.cimmyt.org/">CIMMYT</a> and <a href="http://irri.org/">IRRI</a> are two excellent sources of information. Visit the Cereal Knowledge Bank: http://www.knowledgebank.irri.org</p>
+              </div>
+              <div class="category-picture">
+              </div>
+            </div>
+                <h2>Overview</h2>
+                <p>Animals graze pastures in spring and summer and are fed in the home compound during the lean feed periods of winter and early spring. Availability of feed and water is often an issue.  Severe overgrazing and recent drought have contributed to a steep decline in the livestock population over the past 15 years.</p>
+        <h2>Choose Type of Animal</h2>
+        <div id="main-boxes">
+            {% for post in site.tags.livestock %}
+              <div class="main-box">
+                <a href="{{ post.permalink }}">
+                  <h2> {{ post.title }}</h2>
+                  <h2> {{ post.arabic }}</h2>
+                  <img src="{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+    </div>
+</div>
+</div>
