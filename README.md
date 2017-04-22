@@ -23,3 +23,7 @@ missing content:
 
 Broken link:
 - wheat page (CIMMYT or FAO)
+
+Missing pdf:
+- cattle costridial (dari)
+- cattle Echinococcosis (dari)
