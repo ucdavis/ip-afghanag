@@ -306,6 +306,10 @@ pre {
     position: relative;
 }
 
+.dropdown {
+  display: inline;
+}
+
 .dropdown-submenu>.dropdown-menu {
     top: 0;
     left: 100%;

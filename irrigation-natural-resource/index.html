@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Natural Resource Management آبیاری و تنظیم منابع طبعی</h1>
+        <br></br>
+        <p>After three decades of conflict and loss of local knowledge, Afghanistan faces severe natural resource management issues.  Addressing these problems can have a positive impact on agriculture, food security and livelihoods.</p>
+        <div class="category_contents">
+            <div class="description">
+            <h2>Priorities</h2>
+            <ul>
+              {% for post in site.tags.management %}
+                <li><a href="{{post.permalink}}">{{post.title}}</a></li>
+            </ul>
+            {% endfor %}
+          </div>
+              <div class="category-picture">
+                  <img src="media/management.jpg">
+              </div>
+          </div>
+        <h2>Considerations</h2>
+        <p>Afghanistan's mountainous and arid landscape is highly subject to environmental pressures. Drought, floods, deforestation, overgrazing, landslides and erosion present substantial challenges to Afghanistan's agricultural sector. However, the negative effects of these issues can be reduced through improved natural resource management.</p>
+        <h2>Choose a Topic</h2>
+        <div id="main-boxes">
+            {% for post in site.tags.management %}
+              <div class="main-box">
+                <a href="{{ post.permalink }}">
+                  <h2> {{ post.title }}</h2>
+                  <h2> {{ post.arabic }}</h2>
+                  <img src="{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+    </div>
+</div>
+</div>
