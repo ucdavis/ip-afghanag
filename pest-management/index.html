@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Pest Management مدیریت امراض و آفات</h1>
+        <br></br>
+        <div class="category_contents">
+            <div class="description">
+            <h2>Overview of Pest Management</h2>
+            <p>Integrated Pest Management PPT as PDF (English and Pashto) (4.4MB) (AFSA)</p>
+          </div>
+              <div class="category-picture">
+                  <img src="media/management.jpg">
+              </div>
+          </div>
+          <div class="hing-content">
+            <h2>Beneficial Insects</h2>
+            <ul>
+              <li>Ladybird (Ladybeetle) Identification Card in English and پشتو (Pashto) (UC IPM)</li>
+              <li>Common Beneficial Insects Poster (1.9 MB) (UC IPM) presents families of natural predators that are common in most ecosystems, including ecosystems of Afghanistan and other South/Central Asian countries.  The exact species occurring in Asia regions may vary from those listed here.  Syrphid fly has not been confirmed to occur in the South/Central Asia. </li>
+              <li>Resistance to Pesticides PPT as PDF (AFSA)</li>
+            </ul>
+          </div>
+
+        <h2>Pest Management by Crop</h2>
+        <div id="main-boxes">
+            {% for post in site.tags.pest %}
+              <div class="main-box">
+                <a href="{{ post.permalink }}">
+                  <h2> {{ post.title }}</h2>
+                </a>
+              </div>
+            {% endfor %}
+    </div>
+</div>
+</div>

@@ -6,9 +6,98 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Apr 2017 12:42:17 -0700</pubDate>
-    <lastBuildDate>Fri, 28 Apr 2017 12:42:17 -0700</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2017 18:05:51 -0700</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2017 18:05:51 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
+    
+      <item>
+        <title>Apples</title>
+        <description>
+</description>
+        <pubDate>Fri, 28 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/pest-management/apples</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/pest-management/apples</guid>
+        
+        <category>management</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Weather</title>
+        <description>&lt;div class=&quot;hing-content&quot;&gt;
+  &lt;h2&gt;Climate Data: Climate Normals&lt;/h2&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Climate Preduction Center Website (NOAA)&lt;/li&gt;
+    &lt;li&gt;Climate Records 1939-1984 Website (NOAA)&lt;/li&gt;
+    &lt;li&gt;Computed by the Afghan Meteorological Authority (Ministry of Transport and Civil Aviation), these Afghan normals cover the period roughly from 1956-1983. The set of data are provided by the US Air Force Combat Climatology Center. Please click on the image below to get to the interactive map and retrieve climate normals.&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;img src=&quot;../media/weather-jpsantos.jpeg&quot; /&gt;
+  &lt;p&gt;by J.P. Santos, 2013&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;hing-content&quot;&gt;
+    &lt;h2&gt;FEWS NET  - Afghanistan (Famine Early Warning Systems network)&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;FEWS NET is a USAID-funded activity that collaborates with international, regional and national partners to provide timely and rigorous early warning and vulnerability information on emerging and evolving food security issues. It includes food security updates, weather hazards, and agro-climatic monitoring, among others.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;hing-content&quot;&gt;
+    &lt;h2&gt;The Afghanistan Agrometeorology Monthly/Seasonal Bulletin&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;By the Agro-Meteorology Project, scientists with the USGS Agro-Meteorology (Agromet) Program assist the Afghan Government in the collection and analysis of agricultural and meteorological data as it relates to crop production, irrigation, water supply, energy, and aviation.&lt;/li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;2010 – 2011 Seasonal Bulletin and Annex&lt;/li&gt;
+        &lt;li&gt;2009 – 2010 Seasonal Bulletin and Annex&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;hing-content&quot;&gt;
+    &lt;h2&gt;Daily data&lt;/h2&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Weekly Reports Website (Select Our Info --&amp;gt; Weather) (MAIL)&lt;/li&gt;
+    &lt;li&gt;Daily data for Kabul and Herat Website (NOAA)&lt;/li&gt;
+    &lt;li&gt;Daily data of numerous stations in Afghanistan on temperature (mean, max, min), precipitation, snow depth, and others is provided through the Climate Data Online tool (US National Climatic Data Center, NOAA).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;hing-content&quot;&gt;
+    &lt;h2&gt;Climate Maps&lt;/h2&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Precipitation, Hours of Sunshine and Climatic Regions JPEG Map (AIMS) &lt;/li&gt;
+      &lt;li&gt;Average Monthly Rainfall JPEG Map (AIMS)&lt;/li&gt;
+      &lt;li&gt;Average Seasonal Temperature JPEG Map (AIMS)&lt;/li&gt;
+      &lt;li&gt;Climatic Variable Averages PDF Map (6.0 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Evapotranspiration Variability PDF Map (4.0 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Rainfall Variability PDF Map (4.2 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Historic Snow Water Equivalent Versus November 2014 PDF Map (1.26 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Snowfall Persistence Variability PDF Map (5.6 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Temperature Variability PDF Map (4.1 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Wind Speed Variability PDF Map (3.9 MB) (iMMAP)&lt;/li&gt;
+      &lt;li&gt;Thematic Maps (FAO)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;div class=&quot;hing-content&quot;&gt;
+    &lt;h2&gt;Flood Risk Maps&lt;/h2&gt;
+    &lt;p&gt;&lt;b&gt;Maps detailing potential flood risks nationally and in select provinces, created by iMMAP&lt;/b&gt;&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;National Flood Risk PDF Map April 2013 (1.4 MB), JPEG Map April 2013 and PDF Map January 2011 (1.9 MB)&lt;/li&gt;
+      &lt;li&gt;Eastern Region PDF Map February 2012 (10.9 MB) &lt;/li&gt;
+      &lt;li&gt;Northeast Region PDF Map February 2012 (2.2 MB)&lt;/li&gt;
+      &lt;li&gt;Northern Region PDF Map February 2012 (6.7 MB)&lt;/li&gt;
+      &lt;li&gt;Western Region PDF Map July 2012 (2.0 MB)&lt;/li&gt;
+      &lt;li&gt;Balkh Province PDF Map July 2012&lt;/li&gt;
+      &lt;li&gt;Ghor Province PDF Map July 2012 (1.1 MB)&lt;/li&gt;
+      &lt;li&gt;Samangan PDF Map July 2012 (1.0 MB)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/irrigation-natural-resource/resources/weather</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/irrigation-natural-resource/resources/weather</guid>
+        
+        <category>management</category>
+        
+        
+      </item>
     
       <item>
         <title>Watersheds and Forestry</title>
@@ -433,115 +522,6 @@
         <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/camels</guid>
         
         <category>livestock</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bees</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Pollination&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Pollination &lt;a href=&quot;../files/bee-almond-pollination.pdf&quot;&gt;Fact Sheet &lt;/a&gt;(UC Davis for Roots of Peace)&lt;/li&gt;
-    &lt;li&gt;Major Crops that Benefit from Bee Pollination &lt;a href=&quot;../files/bee-crops.pdf&quot;&gt;Info Sheet &lt;/a&gt;(UC Davis)&lt;/li&gt;
-    &lt;li&gt;Pollination in Cucurbits &lt;a href=&quot;../files/bee-pollination-cucurbits.pdf&quot;&gt;Manual&lt;/a&gt; (UCD)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/div&gt;
-</description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/livestock/livestock/bees</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/bees</guid>
-        
-        <category>livestock</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Wheat</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Production&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;General Wheat Production &lt;a href=&quot;../files/wheat-production-pashto.pdf&quot;&gt;پشتو (Pashto)&lt;/a&gt; (IRD)&lt;/li&gt;
-    &lt;li&gt;Issues and Options in Wheat Production Fact Sheet &lt;a href=&quot;../files/wheat-key-issues.pdf&quot;&gt;English&lt;/a&gt;, &lt;a href=&quot;../files/wheat-problems-dari.pdf&quot;&gt;دری&lt;/a&gt; (Dari), and &lt;a href=&quot;../files/wheat-problems-pashto.pdf&quot;&gt;پشتو &lt;/a&gt;(Pashto) (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Food and Food Security &lt;a href=&quot;../files/food-security.pdf&quot;&gt;Info Sheet&lt;/a&gt; (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Cropping 101 Short &lt;a href=&quot;../files/crop-basic.pdf&quot;&gt;Manual (UC Davis)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Seed and Seed Systems Webpage&lt;/li&gt;
-    &lt;li&gt;Fertilization&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../files/wheat-fertilization.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (IFA)&lt;/li&gt;
-      &lt;li&gt;Nitrogen Requirements of Annual Crops &lt;a href=&quot;../files/soil-annual-crops.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (UC Davis)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;Wheat Growth Stages (Feekes scale) Fact Sheet &lt;a href=&quot;../files/wheat-growth.pdf&quot;&gt;English&lt;/a&gt; and &lt;a href=&quot;../files/wheat-growth-pashto.pdf&quot;&gt;پشتو &lt;/a&gt;(Pashto) (RONNA)&lt;/li&gt;
-    &lt;li&gt;Planting and Harvesting &lt;a href=&quot;../files/wheat-cropping-calendar.jpg&quot;&gt;Dates&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;Wheat Planting  icon video Videos Afghanistan and USA&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://wheatdoctor.org/&quot;&gt;Wheat Doctor &lt;/a&gt;(CIMMYT on-line diagnostic tool)&lt;/li&gt;
-    &lt;li&gt;Water Management&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Field Observations for Irrigation Scheduling &lt;a href=&quot;../files/wheat-irrigation-schedule.pdf&quot;&gt;  Fact Sheet &lt;/a&gt;(UC Davis)&lt;/li&gt;
-      &lt;li&gt;Too Much or Too Little? &lt;a href=&quot;../files/wheat-water-management.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (UC Davis)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Production Maps by Province&lt;/h2&gt;
-  &lt;h3&gt;Total Wheat Production&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Production by Province Interactive Map (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Cultivated Area by Province Interactive Map (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Total area Wheat Yield Comparison 2010-2011 &lt;a href=&quot;../files/total-yield.pdf&quot;&gt;PDF Map&lt;/a&gt; (1.46 MB) (iMMAP)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3&gt;Irrigated Wheat Production &lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Production by Province Interactive Map (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Cultivated Area by ProvinceInteractive Map (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Yield and Production Comparison 2010-2011 &lt;a href=&quot;../files/wheat-yield.pdf&quot;&gt;PDF Map&lt;/a&gt; (1.24 MB) (iMMAP)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3&gt;Rainfed Wheat Production&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Production by Province Interactive Map (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Cultivated Area by Province Interactive Map (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Yield and Production Comparison 2010-2011 &lt;a href=&quot;../files/rainfed-yield.pdf&quot;&gt;PDF Map&lt;/a&gt; (1.24 MB) (iMMAP)&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Pest Management&lt;/h2&gt;
-  &lt;h3&gt;Disease&lt;/h3&gt;
-  &lt;ul&gt;
-    &lt;li&gt;UG 99 is a new (potentially devastating) race of the disease stem rust. UG 99-resistant wheat varieties have been developed. Contact CIMMYT or FAO.&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3&gt;Insects&lt;/h3&gt;
-  &lt;div id=&quot;main-boxes&quot;&gt;
-        &lt;div class=&quot;main-box&quot;&gt;
-          &lt;a href=&quot;&quot;&gt;
-            &lt;h2&gt;Moroccan Locust&lt;/h2&gt;
-            &lt;p&gt;&lt;a href=&quot;../files/moroccan-locust.pdf&quot;&gt;Factsheet&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;For more information see &lt;a href=&quot;http://www.fao.org/ag/locusts-CCA/en/1010/1018/1076/index.html&quot;&gt;FAO&lt;/a&gt; and &lt;a href=&quot;http://www.plantwise.org/knowledgebank/datasheet.aspx?dsid=19438&quot;&gt;Plantwise&lt;/a&gt;&lt;/p&gt;
-            &lt;img src=&quot;../media/moroccan-locust.jpeg&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-        &lt;div class=&quot;main-box&quot;&gt;
-          &lt;a href=&quot;&quot;&gt;
-            &lt;h2&gt;Sunn Pest&lt;/h2&gt;
-            &lt;p&gt;&lt;a href=&quot;../files/sunn-pest.pdf&quot;&gt;Brochure&lt;/a&gt;&lt;/p&gt;
-            &lt;p&gt;(ICARDA)&lt;/p&gt;
-            &lt;img src=&quot;../media/sunn-pest.jpeg&quot; /&gt;
-          &lt;/a&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Postharvest&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Dry seed to less than 14% moisture and clean, then use the IRRI Superbag &lt;a href=&quot;../files/wheat-super-bags.pdf&quot;&gt;Fact sheet&lt;/a&gt; (IRRI) or PIC bag icon videoVideo (Purdue) &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 12 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/grain-field-crops/crops/wheat</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/grain-field-crops/crops/wheat</guid>
-        
-        <category>crops</category>
         
         
       </item>
