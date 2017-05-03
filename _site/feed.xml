@@ -6,532 +6,116 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 May 2017 12:59:28 -0700</pubDate>
-    <lastBuildDate>Mon, 01 May 2017 12:59:28 -0700</lastBuildDate>
+    <pubDate>Wed, 03 May 2017 13:53:01 -0700</pubDate>
+    <lastBuildDate>Wed, 03 May 2017 13:53:01 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
-        <title>Apples</title>
+        <title>Colorado Beetle</title>
         <description>
 </description>
-        <pubDate>Fri, 28 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/pest-management/apples</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/pest-management/apples</guid>
-        
-        <category>management</category>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/colorado-beetle/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/colorado-beetle/</guid>
         
         
       </item>
     
       <item>
-        <title>Weather</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Climate Data: Climate Normals&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Climate Preduction Center Website (NOAA)&lt;/li&gt;
-    &lt;li&gt;Climate Records 1939-1984 Website (NOAA)&lt;/li&gt;
-    &lt;li&gt;Computed by the Afghan Meteorological Authority (Ministry of Transport and Civil Aviation), these Afghan normals cover the period roughly from 1956-1983. The set of data are provided by the US Air Force Combat Climatology Center. Please click on the image below to get to the interactive map and retrieve climate normals.&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;img src=&quot;../media/weather-jpsantos.jpeg&quot; /&gt;
-  &lt;p&gt;by J.P. Santos, 2013&lt;/p&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;FEWS NET  - Afghanistan (Famine Early Warning Systems network)&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;FEWS NET is a USAID-funded activity that collaborates with international, regional and national partners to provide timely and rigorous early warning and vulnerability information on emerging and evolving food security issues. It includes food security updates, weather hazards, and agro-climatic monitoring, among others.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;The Afghanistan Agrometeorology Monthly/Seasonal Bulletin&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;By the Agro-Meteorology Project, scientists with the USGS Agro-Meteorology (Agromet) Program assist the Afghan Government in the collection and analysis of agricultural and meteorological data as it relates to crop production, irrigation, water supply, energy, and aviation.&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;2010 – 2011 Seasonal Bulletin and Annex&lt;/li&gt;
-        &lt;li&gt;2009 – 2010 Seasonal Bulletin and Annex&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Daily data&lt;/h2&gt;
-    &lt;ul&gt;
-    &lt;li&gt;Weekly Reports Website (Select Our Info --&amp;gt; Weather) (MAIL)&lt;/li&gt;
-    &lt;li&gt;Daily data for Kabul and Herat Website (NOAA)&lt;/li&gt;
-    &lt;li&gt;Daily data of numerous stations in Afghanistan on temperature (mean, max, min), precipitation, snow depth, and others is provided through the Climate Data Online tool (US National Climatic Data Center, NOAA).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Climate Maps&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Precipitation, Hours of Sunshine and Climatic Regions JPEG Map (AIMS) &lt;/li&gt;
-      &lt;li&gt;Average Monthly Rainfall JPEG Map (AIMS)&lt;/li&gt;
-      &lt;li&gt;Average Seasonal Temperature JPEG Map (AIMS)&lt;/li&gt;
-      &lt;li&gt;Climatic Variable Averages PDF Map (6.0 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Evapotranspiration Variability PDF Map (4.0 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Rainfall Variability PDF Map (4.2 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Historic Snow Water Equivalent Versus November 2014 PDF Map (1.26 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Snowfall Persistence Variability PDF Map (5.6 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Temperature Variability PDF Map (4.1 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Wind Speed Variability PDF Map (3.9 MB) (iMMAP)&lt;/li&gt;
-      &lt;li&gt;Thematic Maps (FAO)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Flood Risk Maps&lt;/h2&gt;
-    &lt;p&gt;&lt;b&gt;Maps detailing potential flood risks nationally and in select provinces, created by iMMAP&lt;/b&gt;&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;National Flood Risk PDF Map April 2013 (1.4 MB), JPEG Map April 2013 and PDF Map January 2011 (1.9 MB)&lt;/li&gt;
-      &lt;li&gt;Eastern Region PDF Map February 2012 (10.9 MB) &lt;/li&gt;
-      &lt;li&gt;Northeast Region PDF Map February 2012 (2.2 MB)&lt;/li&gt;
-      &lt;li&gt;Northern Region PDF Map February 2012 (6.7 MB)&lt;/li&gt;
-      &lt;li&gt;Western Region PDF Map July 2012 (2.0 MB)&lt;/li&gt;
-      &lt;li&gt;Balkh Province PDF Map July 2012&lt;/li&gt;
-      &lt;li&gt;Ghor Province PDF Map July 2012 (1.1 MB)&lt;/li&gt;
-      &lt;li&gt;Samangan PDF Map July 2012 (1.0 MB)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/irrigation-natural-resource/resources/weather</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/irrigation-natural-resource/resources/weather</guid>
-        
-        <category>management</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Watersheds and Forestry</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Options for Resource Conservation&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Soil and Water Conservation PPT as PDF Series (USDA)&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Spring Development English (2.6 MB) and (Dari) دری (2.7 MB)&lt;/li&gt;
-      &lt;li&gt;Cisterns English (1.3 MB)and (Dari) دری (1.4 MB)&lt;/li&gt;
-      &lt;li&gt;Windbreaks English (3.7 MB) and (Dari) دری (3.8 MB)&lt;/li&gt;
-      &lt;li&gt;Bucket Drip Irrigation English (2.5 MB) and (Dari) دری (2.5 MB)&lt;/li&gt;
-      &lt;li&gt;Nursery Water Collection and Delivery English (1.5 MB) and (Dari) دری (1.5 MB)&lt;/li&gt;
-      &lt;li&gt;Gabion Construction English (2.9 MB)&lt;/li&gt;
-      &lt;li&gt;Check Dams English (5.6 MB) and (Dari) دری (2.2 MB)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;Watershed Conservation Management and Rehabilitation PPT as PDF&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Part 1 English (2.7 MB) and (Dari) دری (2.6 MB)&lt;/li&gt;
-      &lt;li&gt;Part 2 English and (Dari) دری (2.9 MB)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;Soil and Water Conservation Poster Booklet English and (Dari) دری (5.9 MB) (USDA)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Planning Watershed Management&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Regional Aerial View&lt;/li&gt;
-      &lt;li&gt;Watershed Surveying and Management Manual (FAO) and Surveying Guide PPT as PDF (USDA)&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Understanding Micro Watersheds&lt;/b&gt; PPT as PDF Series (USDA)&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Assessment English (1.4 MB) and (Dari) دری (1.6 MB)&lt;/li&gt;
-        &lt;li&gt;Micro Watershed Zone English (3.3 MB) and (Dari) دری (3.5 MB)&lt;/li&gt;
-        &lt;li&gt;Advantages of Vegetation English (3.1 MB) and (Dari) دری (2.9 MB)&lt;/li&gt;
-        &lt;li&gt;Planting Dry Areas English (2.9 MB) and (Dari) دری (2.9 MB)&lt;/li&gt;
-        &lt;li&gt;Terraces English (1.2 MB) and (Dari) دری (1.3 MB)&lt;/li&gt;
-        &lt;li&gt;Riparian Buffers English (2.6 MB) and (Dari) دری (2.6 MB)&lt;/li&gt;
-        &lt;li&gt;Riparian Buffers English (2.6 MB) and (Dari) دری (2.6 MB)&lt;/li&gt;
-        &lt;li&gt;Soil Bioengineering English (9.7 MB) and (Dari) دری (10 MB)&lt;/li&gt;
-        &lt;li&gt;Stone (Riprap) Stream Protection English (2.1 MB) and (Dari) دری (1.4 MB) &lt;/li&gt;
-        &lt;li&gt;Seedbeds and Seed Drilling English (4.8 MB) and (Dari) دری (5 MB)&lt;/li&gt;
-        &lt;li&gt;Stream Deflectors English (1.3 MB)&lt;/li&gt;
-        &lt;li&gt;Water Storage Ponds English (2.7 MB)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;&lt;b&gt;Planning for Use of Trees&lt;/b&gt;&lt;/li&gt;
-      &lt;ul&gt;
-      &lt;li&gt;Framework for Reforestation&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Manual English (2.6 MB) and (Dari) دری (7.6 MB) (MAIL, USDA, USAID)&lt;/li&gt;
-        &lt;li&gt;PPT as PDF (MAIL, USDA, USAID)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Tree Plantations and Reforestation for New Year PPT as PDF (Dari) دری (1.7 MB) (MAIL)&lt;/li&gt;
-      &lt;li&gt;Planning and Forest Management PPT as PDF English (7.4 MB) (Dari) دری (9.5 MB) (USDA)&lt;/li&gt;
-      &lt;li&gt;Community-Based Forest Management Province Example PPT as PDF (USDA Conference)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;&lt;b&gt;Pistachios as Productive Woodlands&lt;/b&gt;&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Pistachio Woodlands PPT as PDF (4.1 MB) (USDA)&lt;/li&gt;
-        &lt;li&gt;Community-Based Pistachio Forest Management PPT as PDF (1.8 MB) (USDA)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Measuring Results PPT as PDF (USDA)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Using Trees for Management&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;b&gt;Establishing Trees&lt;/b&gt;&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;What to Know Before Planting Trees in Afghanistan PPT as PDF (2 MB) (UNOPS)&lt;/li&gt;
-        &lt;li&gt;Simple Methods for Raising Seedlings English (8.4 MB) (Dari) دری (3.6 MB) (USAID and USDA)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Desirable Trees PPT as PDF (SIU)&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Nursery Management&lt;/b&gt; PPT as PDF Series (USDA)&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Bareroot Seedling English (2 MB) and (Dari) دری (2.4 MB)&lt;/li&gt;
-        &lt;li&gt;Greenhouses and Shadehouses English and (Dari) دری (1.8 MB)&lt;/li&gt;
-        &lt;li&gt;Grafting and Budding English and (Dari) دری (1.2 MB)&lt;/li&gt;
-        &lt;li&gt;Soil Moisture English (1.2 MB) and (Dari) دری (1.5 MB)&lt;/li&gt;
-        &lt;li&gt;Spring Sapling Harvest English (1.6MB) and (Dari) دری (1.5MB)&lt;/li&gt;
-        &lt;li&gt;Spring Sapling Planting English (2.6 MB) and (Dari) دری (2.7 MB)&lt;/li&gt;
-        &lt;li&gt;Spring Sapling Sowing and Propagation English (2.2 MB) and (Dari) دری (2.3 MB)&lt;/li&gt;
-        &lt;li&gt;Water Collection and Delivery English (1.3 MB)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Fodder Tree Options Info Sheet (UC Davis from FAO)&lt;/li&gt;
-      &lt;li&gt;Riparian Buffers Info Sheet (GPFA)&lt;/li&gt;
-      &lt;li&gt;Soil Testing Kit PPT as PDF English (6.5 MB) and (Dari) دری (6.8 MB) (USDA)&lt;/li&gt;
-      &lt;li&gt;Seed Collection PPT as PDF (1.0 MB) (USDA)&lt;/li&gt;
-      &lt;li&gt;Tree Borer Fact Sheet (UC Davis)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Using Physical Structures for Management&lt;/h2&gt;
-    &lt;ul&gt;
-    &lt;li&gt;&lt;b&gt;Equipment&lt;/b&gt;&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Build and Use an A-frame Level for Terrace Surveying icon video Video&lt;/li&gt;
-      &lt;li&gt;How to Build and Use a Water Level for Terrace Surveying icon video Video&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;&lt;b&gt;Managing River Flow&lt;/b&gt;&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Check Dams Project (SIU and UC Davis)&lt;/li&gt;
-      &lt;li&gt;Check Dams Fact Sheet (GPFA)&lt;/li&gt;
-      &lt;li&gt;Gabion Info Sheet (SIU and UC Davis) and Gabion Construction Fact Sheet (GPFA)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;li&gt;&lt;b&gt;Manage Erosion on Slopes&lt;/b&gt;&lt;/li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Soil Erosion Info Sheet (NRCS)&lt;/li&gt;
-      &lt;li&gt;Gully erosion control: Watershed Management Manual Manual (FAO)&lt;/li&gt;
-      &lt;li&gt;Hillside Terracing Fact Sheet (GPFA)&lt;/li&gt;
-      &lt;li&gt;Hillside Terrace Ditches Fact Sheet (GPFA)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Flood Risk Maps&lt;/h2&gt;
-    &lt;p&gt;&lt;b&gt;Maps detailing potential flood risks nationally and in select provinces, created by iMMAP&lt;/b&gt;&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;National Flood Risk PDF Map April 2013 (1.4 MB), JPEG Map April 2013 (0.6 MB) and PDF Map January 2011 (1.9 MB) &lt;/li&gt;
-      &lt;li&gt;Eastern Region PDF Map February 2012 (10.9 MB) &lt;/li&gt;
-      &lt;li&gt;Northeast Region PDF Map February 2012 (2.2 MB)&lt;/li&gt;
-      &lt;li&gt;Northern Region PDF Map February 2012 (6.7 MB)&lt;/li&gt;
-      &lt;li&gt;Western Region PDF Map July 2012 (2.0 MB)&lt;/li&gt;
-      &lt;li&gt;Balkh Province PDF Map July 2012&lt;/li&gt;
-      &lt;li&gt;Ghor Province PDF Map July 2012 (1.1 MB)&lt;/li&gt;
- &lt;li&gt;Samangan PDF Map July 2012 (1.0 MB)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Province Watershed Studies&lt;/h2&gt;
-    &lt;p&gt;A limited number or studies are available; they are uploaded here as they become available.&lt;/p&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Wardak Province (GPFA)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/irrigation-natural-resource/resources/watershed</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/irrigation-natural-resource/resources/watershed</guid>
-        
-        <category>management</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Soils</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Soil Fertilizer&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Fertilizer Use in Afghanistan &lt;a href=&quot;../files/soil-fertilizer.pdf&quot;&gt;Info Sheet&lt;/a&gt;  (UC Davis)&lt;/li&gt;
-    &lt;li&gt;Types of Fertilizers: Urea (White fertilizer) &lt;a href=&quot;../files/soil-urea.pdf&quot;&gt;Info Sheet&lt;/a&gt;  and DAP (Black fertilizer) &lt;a href=&quot;../files/soil-diammonium.pdf&quot;&gt;Info Sheet&lt;/a&gt; &lt;/li&gt;
-    &lt;li&gt;Testing Urea Fertilizer Quality &lt;a href=&quot;../files/soiling-urea-testing.pdf&quot;&gt;Info Sheet&lt;/a&gt;  and  icon video Video&lt;/li&gt;
-    &lt;li&gt;Nitrogen Requirements (Annual Crops) &lt;a href=&quot;../files/soil-annual-crops.pdf&quot;&gt;Fact Sheet&lt;/a&gt;  &lt;/li&gt;
-    &lt;li&gt;Soil Nitrate Quick Test &lt;a href=&quot;../files/soil-nitrate-quick-test.pdf&quot;&gt;Fact Sheet&lt;/a&gt;  and icon video Video (NRCS)&lt;/li&gt;
-    &lt;li&gt;Near East Fertilizer &lt;a href=&quot;../files/soil-manual-fertilizer.pdf&quot;&gt;Manual&lt;/a&gt; (2.4 MB) (FAO)&lt;/li&gt;
-    &lt;li&gt;Fertilizer Products PPT as PDF:  &lt;a href=&quot;../files/soil-fertilizer-products.pdf&quot;&gt;English&lt;/a&gt; and &lt;a href=&quot;../files/soil-fertilizer-products-dari.pdf&quot;&gt;پشتو (Pashto)&lt;/a&gt; (IFDC)&lt;/li&gt;
-    &lt;li&gt;Proper Fertilizer Use PPT as PDF: &lt;a href=&quot;../files/soil-method-fertilizer.pdf&quot;&gt;English&lt;/a&gt; (3.3 MB) and &lt;a href=&quot;../files/soil-method-fertilizer-pashto.pdf&quot;&gt;پشتو (Pashto)&lt;/a&gt; (7.4 MB) (IFDC)&lt;/li&gt;
-    &lt;li&gt;Fertilizer Handling and Storage PPT as PDF &lt;a href=&quot;../files/soil-handling-storage-pashto.pdf&quot;&gt;پشتو (Pashto)&lt;/a&gt; (IFDC)
-    &lt;/li&gt;
-    &lt;/ul&gt;
-  
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Soil Assessment&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Field Assessment &lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Soil Texture by Feel &lt;a href=&quot;../files/soil-texturefeel.pdf&quot;&gt;Fact Sheet&lt;/a&gt; and icon video Video&lt;/li&gt;
-        &lt;li&gt;Soil Moisture by Feel &lt;a href=&quot;../files/soil-lookfeel.pdf&quot;&gt;Fact Sheet&lt;/a&gt; and icon video Video&lt;/li&gt;
-        &lt;li&gt;Soil Drainage and Percolation Test &lt;a href=&quot;../files/soil-drainage.pdf&quot;&gt;Fact Sheet&lt;/a&gt; and  icon video Video&lt;/li&gt;
-        &lt;li&gt;Soil Infiltration Rate &lt;a href=&quot;../files/soil-infiltration.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (UC Davis)&lt;/li&gt;
-        &lt;li&gt;Soil and Water Assessment in Afghanistan &lt;a href=&quot;../files/soil-access-water.pdf&quot;&gt;Report&lt;/a&gt; (1.0 MB) (ICARDA)&lt;/li&gt;
-        &lt;li&gt;&quot;Soil Doctor&quot; &lt;a href=&quot;http://hortsoildr.weebly.com/&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Testing and Test Kits&lt;/li&gt;
-      &lt;ul&gt;
-      &lt;li&gt;Soil Test Kits &lt;a href=&quot;../files/soil-test-kit.pdf&quot;&gt;Info Sheet&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Soil Testing &lt;a href=&quot;../files/soil-quality-testkit.pdf&quot;&gt;Manual&lt;/a&gt; (1.5 MB) (USDA) and &lt;a href=&quot;../files/soil-testing-manual.pdf&quot;&gt;Manual&lt;/a&gt; (3.2 MB) (Roots of Peace)&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Soil Erosion&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Soil Erosion &lt;a href=&quot;../files/soil-erasion-factsheet.pdf&quot;&gt;Info Sheet&lt;/a&gt; (NRCS)&lt;/li&gt;
-      &lt;li&gt;Estimating Residue with the Line-Transect Method &lt;a href=&quot;../files/soil-line-transect.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (Univ of Wisconsin)&lt;/li&gt;
-      &lt;li&gt;Gully Erosion Control: Watershed Management Manual: Gully Control &lt;a href=&quot;http://www.fao.org/docrep/006/ad082e/AD082e00.htm&quot;&gt;Link&lt;/a&gt; (FAO)&lt;/li&gt;
-      &lt;li&gt;Soil and Water Conservation Poster Booklet English and&lt;a href=&quot;../files/soil-water-conservation-english-dari.pdf&quot;&gt; دری (Dari)&lt;/a&gt; (5.9 MB)(USDA)&lt;/li&gt;
-      &lt;li&gt;Watershed Conservation Management and Rehabilitation PPT as PDF&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Part 1 &lt;a href=&quot;&quot;&gt;English &lt;/a&gt;(2.7 MB)&lt;a href=&quot;../files/soil-watershed-conservation-dari.pdf&quot;&gt; دری (Dari)&lt;/a&gt;(2.6 MB)&lt;/li&gt;
-        &lt;li&gt;Part 2 &lt;a href=&quot;&quot;&gt;English &lt;/a&gt;(631 kB)&lt;a href=&quot;&quot;&gt;  دری (Dari)&lt;/a&gt;(2.6 MB)&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Soil Management&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Soil and Water &lt;a href=&quot;../files/soil-water-vegetable.pdf&quot;&gt;Info Sheet&lt;/a&gt;  &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Growing Media&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Making Compost icon video Video&lt;/li&gt;
-      &lt;li&gt;Composting &lt;a href=&quot;../files/soil-lasagna-composting.pdf&quot;&gt;Fact Sheet&lt;/a&gt;  (Cornell)&lt;/li&gt;
-      &lt;li&gt;Different Types &lt;a href=&quot;../files/soil-peat-moss.pdf&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Common Mixes &lt;a href=&quot;../files/soil-growing-mixes.pdf&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Media Management &lt;a href=&quot;../files/soil-management-considerations.pdf&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Peat Moss &lt;a href=&quot;../files/soil-peatmoss.pdf&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;Peat and Lime Requirements &lt;a href=&quot;../files/soil-peat-lime.pdf&quot;&gt;Fact Sheet&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/irrigation-natural-resource/resources/soil</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/irrigation-natural-resource/resources/soil</guid>
-        
-        <category>management</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Irrigation</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Infrastructure&lt;/h2&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Irrigation Infrastructure Development &amp;amp; Water Management Practices &lt;a href=&quot;../files/irrigation-infrastructure.pdf&quot;&gt;English&lt;/a&gt;(4.5 MB)and &lt;a href=&quot;../files/irrigation-infrastructure-pashto.pdf&quot;&gt; پشتو (Pashto)&lt;/a&gt; (4.9MB) (UIUC NWFP AU)&lt;/li&gt;   
-    &lt;li&gt;Village-Level Well Repair and Rehabilitation &lt;a href=&quot;../files/irrigation-well-repair.pdf&quot;&gt;Manual&lt;/a&gt; (1.4 MB) (U.S. Army Corps of Engineers)&lt;/li&gt;
-    &lt;li&gt;Spring Development &lt;a href=&quot;../files/irrigation-spring-production.pdf&quot;&gt;PPT as PDF&lt;/a&gt;(2.8 MB) (USDA)&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Land leveling&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Land Leveling &lt;a href=&quot;../files/irrigation-land-leveling.pdf&quot;&gt;Info Sheet&lt;/a&gt; (UC Davis) &lt;/li&gt;
-      &lt;li&gt;Laser Land Leveling &lt;a href=&quot;../files/irrigation-laser-manual.pdf&quot;&gt;Manual&lt;/a&gt;  (ICAR)&lt;/li&gt;
-      &lt;li&gt;Basic Surveying PPT as PDF &lt;a href=&quot;../files/irrigation-basic-surveying.pdf&quot;&gt;English&lt;/a&gt; (2.4 MB) and &lt;a href=&quot;../files/irrigation-basic-surveying-dari.pdf&quot;&gt;(Dari) در &lt;/a&gt; (USDA)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Crop water requirements &lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;../files/irrigation-crop-water-need.pdf&quot;&gt;Info Sheet &lt;/a&gt; (UC Davis) &lt;/li&gt;
-      &lt;li&gt;Field observations to schedule irrigation (with wheat as an example) &lt;a href=&quot;../files/irrigation-wheat-scheduling.pdf&quot;&gt; Fact Sheet&lt;/a&gt;  (UC Davis)&lt;/li&gt;
-      &lt;li&gt;Water Supply PPT as PDF &lt;a href=&quot;../files/irrigation-water-supply.pdf&quot;&gt;English&lt;/a&gt; (4.2 MB)(USDA)&lt;/li&gt;
-      &lt;li&gt;Soil Moisture by Feel &lt;a href=&quot;../files/irrigation-lookfeel.pdf&quot;&gt;Fact Sheet &lt;/a&gt; and icon video Video&lt;/li&gt;
-      &lt;li&gt;Soil Infiltration Rate &lt;a href=&quot;../files/irrigation-soil-infiltration.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (UC Davis)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-    &lt;h2&gt;Irrigation Methods&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Irrigation System Selection &lt;a href=&quot;../files/irrigation-system-selection.pdf&quot;&gt;Info Sheet&lt;/a&gt; (UC Davis) &lt;/li&gt;
-      &lt;li&gt;Irrigation Principals icon video Video &lt;/li&gt;
-      &lt;li&gt;Irrigation Methods icon video Video&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Surface Irrigation&lt;/b&gt; PPT as PDF &lt;a href=&quot;../files/irrigation-surface.pdf&quot;&gt;English&lt;/a&gt; (2.4 MB) and &lt;a href=&quot;../files/irrigation-surface-dari.pdf&quot;&gt;(Dari) در &lt;/a&gt;(USDA)&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Furrow Irrigation&lt;/b&gt;&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Overview &lt;a href=&quot;../files/irrigation-furrow.pdf&quot;&gt;Info Sheet &lt;/a&gt; (UC Davis)&lt;/li&gt;
-        &lt;li&gt;Furrow Length &lt;a href=&quot;../files/irrigation-furrow-length.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (UC Davis)&lt;/li&gt;
-        &lt;li&gt;Irrigation Duration &lt;a href=&quot;../files/irrigation-furrow-duration.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (UC Davis)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Irrigation - Perennial Crop Support Series &lt;a href=&quot;../files/irrigation-manual-2008.pdf&quot;&gt;Manual &lt;/a&gt; (1.8 MB) (Roots of Peace and DAI)&lt;/li&gt;
-      &lt;li&gt;Principals of Irrigation of Trees and Vines PPT as PDF  &lt;a href=&quot;../files/irrigation-trees-vines.pdf&quot;&gt;English&lt;/a&gt; (4.8 MB) and &lt;a href=&quot;../files/irrigation-trees-vines-dari.pdf&quot;&gt;(Dari) در &lt;/a&gt; (UC Davis)&lt;/li&gt;
-      &lt;li&gt;Drip Irrigation&lt;/li&gt;
-      &lt;ul&gt;
-      &lt;li&gt;Issues with Drip &lt;a href=&quot;../files/irrigation-drip.pdf&quot;&gt;Info Sheet&lt;/a&gt; (UC Davis)&lt;/li&gt;
-      &lt;li&gt;Economic Feasibility of Drip Irrigation in Afghanistan &lt;a href=&quot;../files/irrigation-feasibility.pdf&quot;&gt;Report&lt;/a&gt;. (ALP/S)&lt;/li&gt;
-      &lt;li&gt;Drip Irrigation &lt;a href=&quot;../files/irrigation-micro-systems.pdf&quot;&gt;Manual&lt;/a&gt; (11.7MB) (IDE)&lt;/li&gt;
-      &lt;li&gt;Drip Irrigation Fact Sheet &lt;a href=&quot;../files/irrigation-drip-dari.pdf&quot;&gt;(Dari) دری &lt;/a&gt;(USAID)&lt;/li&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;Irrigation with Flexiflume &lt;a href=&quot;../files/irrigation-flexiflume.pdf&quot;&gt;PPT as PDF&lt;/a&gt; (Tom Brown)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/div&gt;
-</description>
-        <pubDate>Thu, 27 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/irrigation-natural-resource/resources/irrigation</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/irrigation-natural-resource/resources/irrigation</guid>
-        
-        <category>management</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Sheep</title>
+        <title>Codling Moth</title>
         <description>
 </description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/livestock/livestock/sheep</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/sheep</guid>
-        
-        <category>livestock</category>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/codling-moth/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/codling-moth/</guid>
         
         
       </item>
     
       <item>
-        <title>Poultry</title>
+        <title>Carob Moth</title>
         <description>
 </description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/livestock/livestock/poultry</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/poultry</guid>
-        
-        <category>livestock</category>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/carob-moth/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/carob-moth/</guid>
         
         
       </item>
     
       <item>
-        <title>Goats</title>
+        <title>Branch and Twig Borer </title>
         <description>
 </description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/livestock/livestock/goats</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/goats</guid>
-        
-        <category>livestock</category>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/branch-twig-borer/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/branch-twig-borer/</guid>
         
         
       </item>
     
       <item>
-        <title>Cattle</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;About Cattle in Afghanistan&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Afghanistan National Livestock Census 2006 &lt;a href=&quot;../files/afghan-livestock-census-2006.pdf&quot;&gt;Report&lt;/a&gt; (11 MB) (FAO)&lt;/li&gt;
-      &lt;li&gt;Status Genetic Resources &lt;a href=&quot;../files/live-afgh-livestock-fao.pdf&quot;&gt;Report&lt;/a&gt; (1.4 MB) (FAO)&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Pasture and Fodder&lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Animals graze pastures in spring and summer, and are fed in the home compound during the lean feed periods of winter and early spring.&lt;/li&gt;
-      &lt;li&gt;Challenges to Grazing Land &lt;a href=&quot;../files/grazing-challenge.pdf&quot;&gt;Info Sheet&lt;/a&gt; (UC Davis and SIU)&lt;/li&gt;
-      &lt;li&gt;Fodder&lt;/li&gt;
-      &lt;ul&gt;
-      &lt;li&gt;Crop Options &lt;a href=&quot;../files/afghan-feed-crop.pdf&quot;&gt;Fact Sheet&lt;/a&gt;  (UC Davis, SIU and U Georgia)&lt;/li&gt;
-      &lt;li&gt;Tree Options &lt;a href=&quot;../files/fodder-tree.pdf&quot;&gt;Info Sheet&lt;/a&gt; (UC Davis from FAO)&lt;/li&gt;
-      &lt;li&gt;Alfalfa Role and Establishment &lt;a href=&quot;../files/alfalfa.pdf&quot;&gt;Report&lt;/a&gt; (1.9 MB) (FAF Developments)&lt;/li&gt;
-      &lt;li&gt;Pasture/Forage Resources Profile  &lt;a href=&quot;http://www.fao.org/ag/agp/AGPC/doc/Counprof/afgan/afgan.htm&quot;&gt;Report&lt;/a&gt; (FAO) &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Cattle General&lt;/h2&gt;
-   &lt;ul&gt;
-      &lt;li&gt;&lt;b&gt;Handling Cattle&lt;/b&gt;&lt;/li&gt;
-      &lt;ul&gt;
-      &lt;li&gt;Approaching and Handling &lt;a href=&quot;../files/live-approaching.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (SIU and UC Davis) &lt;a href=&quot;../files/live-cattle-handling.pdf&quot;&gt;Manual&lt;/a&gt; (Texas A&amp;amp;M University)&lt;/li&gt;
-      &lt;li&gt;Humans and Brucellosis &lt;a href=&quot;../files/camels-brucellosis.pdf&quot;&gt;Fact Sheet&lt;/a&gt; (UC Davis)&lt;/li&gt;
-      &lt;li&gt;Moving Around and Approaching a Herd of Cattle icon video Video (UC Davis)&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Dairy&lt;/h2&gt;
-   &lt;ul&gt;
-      &lt;li&gt;Dairy Industry Revitalization Project &lt;a href=&quot;../files/cattle-revitalization.pdf&quot;&gt;Case Study&lt;/a&gt; (USAID)&lt;/li&gt;
-      &lt;li&gt;Production and Processing in Afghanistan &lt;a href=&quot;../files/cattle-dairy-production.pdf&quot;&gt;Case Study&lt;/a&gt; (1.7 MB) (MAIL)&lt;/li&gt;
-      &lt;li&gt;Milk Quality Control &lt;a href=&quot;../files/cattle-milk-quality.pdf&quot;&gt;Manual&lt;/a&gt;  (ICARDA)&lt;/li&gt;
-      &lt;li&gt;Milk Processing Technologies for Small-Scale Producers &lt;a href=&quot;../files/camel-milk-processing.pdf&quot;&gt;Manual&lt;/a&gt;  (1.6 MB) (ICARDA)&lt;/li&gt;
-      &lt;li&gt;Pasteurizing Milk &lt;a href=&quot;../files/milk-pasteurization.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (UC Davis) (1.6 MB) (ICARDA)&lt;/li&gt;
-      &lt;/ul&gt;
-    
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Beef&lt;/h2&gt;
-   &lt;ul&gt;
-      &lt;li&gt;Care Practices &lt;a href=&quot;../files/cattle-beef-manual.pdf&quot;&gt;Manual&lt;/a&gt;   (UCD)&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Diseases&lt;/h2&gt;
-   &lt;ul&gt;
-      &lt;li&gt;&lt;b&gt;Always be cautious around sick animals as some diseases can be spread to humans by touching.&lt;/b&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Diagnostics:&lt;/b&gt; Disease or Poor Nutrition? &lt;a href=&quot;../files/live-assessing-health.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (SIU with UC Davis)&lt;/li&gt;
-      &lt;li&gt;&lt;b&gt;Disease Prevention (Biosecurity)&lt;/b&gt;&lt;/li&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Limiting Disease Spread &lt;a href=&quot;../files/live-biosecurity.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (SIU with UC Davis)&lt;/li&gt;
-        &lt;li&gt;From the Illustrated Manual of Infectious Diseases of Livestock In Afghanistan (Fort Valley State University):&lt;/li&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Cleaning and Disinfecting Fact Sheet &lt;a href=&quot;../files/cleaning-disinfection.pdf&quot;&gt;English&lt;/a&gt;,&lt;a href=&quot;../files/cleaning-disinfection-dari.pdf&quot;&gt; دری&lt;/a&gt; (Dari), and &lt;a href=&quot;../files/cleaning-disinfection-pashto.pdf&quot;&gt;پشتو &lt;/a&gt;(Pashto)&lt;/li&gt;
-          &lt;li&gt;Carcass Disposal Fact Sheet &lt;a href=&quot;../files/carcass-disposal.pdf&quot;&gt;English&lt;/a&gt;,&lt;a href=&quot;../files/carcass-disposal-dari.pdf&quot;&gt; دری&lt;/a&gt; (Dari), and &lt;a href=&quot;../files/carcass-disposal-pashto.pdf&quot;&gt;پشتو &lt;/a&gt;(Pashto)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/ul&gt;
-      &lt;li&gt;&lt;b&gt;Specific diseases&lt;/b&gt;&lt;/li&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Anthrax &lt;a href=&quot;../files/live-anthrax.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (DCA)&lt;/li&gt;
-          &lt;li&gt;Brucellosis and Other Diseases Causing Abortions &lt;a href=&quot;../files/cattle-abortion.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (Fort Valley State University)&lt;/li&gt;
-          &lt;li&gt;Clostridial Diseases Fact Sheet English, &lt;a href=&quot;../files/cattle-clostridial.pdf&quot;&gt;English&lt;/a&gt;,&lt;a href=&quot;../files/cattle-clostridial-dari.pdf&quot;&gt; دری&lt;/a&gt; (Dari), and &lt;a href=&quot;../files/cattle-clostridial-pashto.pdf&quot;&gt;پشتو &lt;/a&gt;(Pashto) (Fort Valley State University)&lt;/li&gt;
-          &lt;li&gt;Echinococcosis Fact Sheet  &lt;a href=&quot;../files/cattle-echinococcosis.pdf&quot;&gt;English&lt;/a&gt;,&lt;a href=&quot;../files/cattle-echinococcosis-dari.pdf&quot;&gt; دری&lt;/a&gt; (Dari), and &lt;a href=&quot;../files/cattle-echinococcosis-pashto.pdf&quot;&gt;پشتو &lt;/a&gt;(Pashto) (Fort Valley State University)&lt;/li&gt;
-          &lt;li&gt;Foot and Mouth Disease &lt;a href=&quot;../files/live-footmouthdisease.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (DCA)&lt;/li&gt;
-          &lt;li&gt;Johne&#39;s Disease &lt;a href=&quot;../files/live-johness-disease.pdf&quot;&gt;Fact Sheet &lt;/a&gt; (SIU and UC Davis)&lt;/li&gt;
-          &lt;li&gt;Rabies &lt;a href=&quot;../files/live-rabies.pdf&quot;&gt;Fact Sheet &lt;/a&gt;(DCA)&lt;/li&gt;
-        &lt;/ul&gt;      
-    &lt;/ul&gt;
-&lt;/div&gt;
+        <title>Beetle Aeolesthes Sarta</title>
+        <description>
 </description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/livestock/livestock/cattle</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/cattle</guid>
-        
-        <category>livestock</category>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/beetle-sarta/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/beetle-sarta/</guid>
         
         
       </item>
     
       <item>
-        <title>Camels</title>
-        <description>&lt;div class=&quot;hing-content&quot;&gt;
-  &lt;h2&gt;Pasture and Fodder &lt;/h2&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Animals graze pastures in spring and summer, and are fed in the home compound during the lean feed periods of winter and early spring.&lt;/li&gt;
-      &lt;li&gt;Challenges to Grazing Land &lt;a href=&quot;../files/grazing-challenge.pdf&quot;&gt;Info Sheet&lt;/a&gt;  (UC Davis and SIU)&lt;/li&gt;
-      &lt;li&gt;Fodder&lt;/li&gt;
-      &lt;ul&gt;
-      &lt;li&gt;Crop Options &lt;a href=&quot;../files/afghan-feed-crop.pdf&quot;&gt;Fact Sheet&lt;/a&gt;  (UC Davis, SIU and U Georgia)&lt;/li&gt;
-      &lt;li&gt;Tree Options &lt;a href=&quot;../files/fodder-tree.pdf&quot;&gt;Info Sheet&lt;/a&gt;  (UC Davis from FAO)&lt;/li&gt;
-      &lt;li&gt;Alfalfa Role and Establishment &lt;a href=&quot;../files/alfalfa.pdf&quot;&gt;Report&lt;/a&gt; (1.9 MB) (FAF Developments)&lt;/li&gt;
-      &lt;li&gt;Pasture/Forage Resources Profile  &lt;a href=&quot;http://www.fao.org/ag/agp/AGPC/doc/Counprof/afgan/afgan.htm&quot;&gt;Report&lt;/a&gt; (FAO) &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
+        <title>Beet Armyworm</title>
+        <description>
 </description>
-        <pubDate>Thu, 20 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/livestock/livestock/camels</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/livestock/livestock/camels</guid>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/beet-armyworm/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/beet-armyworm/</guid>
         
-        <category>livestock</category>
+        
+      </item>
+    
+      <item>
+        <title>Apple Maggots</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/apple-maggots/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/apple-maggots/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Asian Citrus</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/apple-asian-citrus/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/apple-asian-citrus/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Aphids (General) </title>
+        <description>
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/aphids/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/aphids/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ants and Termites</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/ants/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/ants/</guid>
         
         
       </item>

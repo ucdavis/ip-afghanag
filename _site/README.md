@@ -30,3 +30,7 @@ Missing pdf:
 
 soil:
 - watershed management (part 1 dari + part 2)
+
+weather:
+- missing links in precipitation hour, average monthly rainfalls, average seasonal temperature,
+- daily data in kabul and herat is no longer available
