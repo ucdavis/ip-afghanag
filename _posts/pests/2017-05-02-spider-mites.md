@@ -1,5 +1,6 @@
 ---
 tags:
+  - pest-grapes
 title: "Spider Mites "
 file-names: "spider-mites"
 pest-id: ""
