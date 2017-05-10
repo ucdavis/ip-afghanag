@@ -1,0 +1,19 @@
+---
+layout: pest
+tags: pest
+permalink: /pest-management/onions-garlic
+intro:
+---
+<div id="main-boxes">
+    {% for post in site.tags.pest-onions %}
+      <div class="main-box">
+      <h2>{{post.title}}</h2>
+        <a href="./files/{{ post.file-names }}.pdf">Fact Sheet</a>
+          <img src="./media/{{post.file-names}}.jpeg">
+        </a>
+      </div>
+    {% endfor %}
+</div>
+
+
+red mites missing

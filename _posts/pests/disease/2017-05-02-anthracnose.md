@@ -3,6 +3,7 @@ tags:
   - pest-almonds
   - pest-grapes
   - pest-melons
+  - pest-tomatoes
 title: "Anthracnose"
 file-names: "anthracnose"
 pest-id: ""

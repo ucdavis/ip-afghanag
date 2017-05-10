@@ -6,8 +6,8 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 May 2017 13:55:52 -0700</pubDate>
-    <lastBuildDate>Wed, 10 May 2017 13:55:52 -0700</lastBuildDate>
+    <pubDate>Wed, 10 May 2017 16:21:15 -0700</pubDate>
+    <lastBuildDate>Wed, 10 May 2017 16:21:15 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -64,6 +64,8 @@
         <link>http://epakag.ucdavis.edu/2017/05/02/tuberworm/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/tuberworm/</guid>
         
+        <category>pest-potatoes</category>
+        
         
       </item>
     
@@ -99,6 +101,8 @@
         
         <category>pest-citrus</category>
         
+        <category>pest-onions</category>
+        
         
       </item>
     
@@ -120,6 +124,8 @@
         <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/2017/05/02/sunn-pest/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/sunn-pest/</guid>
+        
+        <category>pest-wheat</category>
         
         
       </item>

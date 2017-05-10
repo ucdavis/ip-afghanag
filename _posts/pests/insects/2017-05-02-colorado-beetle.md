@@ -1,5 +1,6 @@
 ---
 tags:
+  - pest-potatoes
 title: "Colorado Beetle"
 file-names: "colorado-beetle"
 pest-id: ""
