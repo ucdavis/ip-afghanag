@@ -1,5 +1,6 @@
 ---
 tags:
+  - pest-insects
 title: "Corn Leafhopper"
 file-names: "corn-leafhopper"
 pest-id: ""

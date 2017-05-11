@@ -1,6 +1,7 @@
 ---
 tags:
   - pest-tomatoes
+  - pest-bacteria
 title: "Late Blight"
 file-names: "late-blight"
 pest-id: ""

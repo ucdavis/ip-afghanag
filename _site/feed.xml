@@ -6,8 +6,8 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 May 2017 16:21:15 -0700</pubDate>
-    <lastBuildDate>Wed, 10 May 2017 16:21:15 -0700</lastBuildDate>
+    <pubDate>Wed, 10 May 2017 17:06:14 -0700</pubDate>
+    <lastBuildDate>Wed, 10 May 2017 17:06:14 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -20,6 +20,8 @@
         
         <category>pest-apples</category>
         
+        <category>pest-insects</category>
+        
         
       </item>
     
@@ -30,6 +32,8 @@
         <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/2017/05/02/wooly-aphids/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/wooly-aphids/</guid>
+        
+        <category>pest-insects</category>
         
         
       </item>
@@ -42,6 +46,8 @@
         <link>http://epakag.ucdavis.edu/2017/05/02/whiteflies/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/whiteflies/</guid>
         
+        <category>pest-insects</category>
+        
         
       </item>
     
@@ -52,6 +58,8 @@
         <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/2017/05/02/vinegar-flies/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/vinegar-flies/</guid>
+        
+        <category>pest-insects</category>
         
         
       </item>
@@ -66,6 +74,8 @@
         
         <category>pest-potatoes</category>
         
+        <category>pest-insects</category>
+        
         
       </item>
     
@@ -77,6 +87,8 @@
         <link>http://epakag.ucdavis.edu/2017/05/02/tree-borer/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/tree-borer/</guid>
         
+        <category>pest-insects</category>
+        
         
       </item>
     
@@ -87,6 +99,8 @@
         <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/2017/05/02/tomato-fruitworm/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/tomato-fruitworm/</guid>
+        
+        <category>pest-insects</category>
         
         
       </item>
@@ -103,6 +117,8 @@
         
         <category>pest-onions</category>
         
+        <category>pest-insects</category>
+        
         
       </item>
     
@@ -113,6 +129,8 @@
         <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/2017/05/02/tenlined-june-beetle/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/tenlined-june-beetle/</guid>
+        
+        <category>pest-insects</category>
         
         
       </item>
@@ -126,6 +144,8 @@
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/sunn-pest/</guid>
         
         <category>pest-wheat</category>
+        
+        <category>pest-insects</category>
         
         
       </item>
