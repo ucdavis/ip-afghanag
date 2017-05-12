@@ -23,6 +23,9 @@ layout: default
 			{% if page.production %}
 				<li> <a target="_blank" href="/#production">Production</a></li>
 			{% endif %}
+			{% if page.diagnosis %}
+				<li> <a target="_blank" href="/#diagnosis">Diagnosis and Identification</a></li>
+			{% endif %}
 			{% if page.pest-management %}
 				<li> <a target="_blank" href="/#pest-management">Pest Management</a></li>
 			{% endif %}
@@ -85,6 +88,14 @@ layout: default
 <h3>Crop Calendar</h3>
 <ul>
 {% for row in page.crop-calendar %}
+	<li>{{row}}</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% if page.diagnosis %}
+<h3>Diagnosis and Identification</h3>
+<ul>
+{% for row in page.diagnosis %}
 	<li>{{row}}</li>
 {% endfor %}
 </ul>
