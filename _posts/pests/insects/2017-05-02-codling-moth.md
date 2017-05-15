@@ -7,6 +7,8 @@ file-names: "codling-moth"
 pest-id: ""
 dari: true
 pashto: true
-fact-sheet:
+factsheet: true
+pestid-english: true
+pestid-pashto: true
 
 ---

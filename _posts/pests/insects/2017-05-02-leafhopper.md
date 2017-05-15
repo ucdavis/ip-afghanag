@@ -5,7 +5,8 @@ tags:
   - pest-insects
 title: "Leafhopper"
 file-names: "leafhopper"
-pest-id: ""
-fact-sheet:
+factsheet: true
+pestid-english: true
+pestid-pashto: true
 
 ---

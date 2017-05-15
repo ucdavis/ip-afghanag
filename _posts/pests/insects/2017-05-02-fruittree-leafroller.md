@@ -4,7 +4,6 @@ tags:
   - pest-insects
 title: "Fruit Tree Leafroller"
 file-names: "fruittree-leafroller"
-pest-id: ""
-fact-sheet:
+factsheet: true
 
 ---

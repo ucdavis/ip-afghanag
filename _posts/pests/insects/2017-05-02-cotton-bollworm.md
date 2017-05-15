@@ -4,6 +4,6 @@ tags:
 title: "Cotton Bollworm"
 file-names: "cotton-bollworm"
 pest-id: ""
-fact-sheet:
-
+factsheet: true
+extra: "Herat Farms IPM Excerpt <a href='/pest-management/files/cotton-bollworm-ucipm.pdf'> دری (Dari) </a>"
 ---

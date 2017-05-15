@@ -3,7 +3,7 @@ tags:
   - pest-insects
 title: "Whiteflies"
 file-names: "whiteflies"
-pest-id: ""
-fact-sheet:
+factsheet: true
+extra: "Herat Farm IPM Excerpt <a href='/pest-management/files/whiteflies-ucipm.pdf'> دری (Dari)</a>"
 
 ---

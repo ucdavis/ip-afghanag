@@ -6,8 +6,8 @@
 </description>
     <link>http://epakag.ucdavis.edu/</link>
     <atom:link href="http://epakag.ucdavis.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 May 2017 16:18:07 -0700</pubDate>
-    <lastBuildDate>Fri, 12 May 2017 16:18:07 -0700</lastBuildDate>
+    <pubDate>Mon, 15 May 2017 13:21:13 -0700</pubDate>
+    <lastBuildDate>Mon, 15 May 2017 13:21:13 -0700</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -45,21 +45,6 @@
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/bermuda-grass/</guid>
         
         <category>pest-weed</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Wooly Apple Aphids</title>
-        <description>
-</description>
-        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
-        <link>http://epakag.ucdavis.edu/2017/05/02/wooly-apple-aphid/</link>
-        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/wooly-apple-aphid/</guid>
-        
-        <category>pest-apples</category>
-        
-        <category>pest-insects</category>
         
         
       </item>
@@ -138,6 +123,23 @@
         <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
         <link>http://epakag.ucdavis.edu/2017/05/02/tomato-fruitworm/</link>
         <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/tomato-fruitworm/</guid>
+        
+        <category>pest-insects</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Thrips</title>
+        <description>
+</description>
+        <pubDate>Tue, 02 May 2017 00:00:00 -0700</pubDate>
+        <link>http://epakag.ucdavis.edu/2017/05/02/thrips/</link>
+        <guid isPermaLink="true">http://epakag.ucdavis.edu/2017/05/02/thrips/</guid>
+        
+        <category>pest-citrus</category>
+        
+        <category>pest-onions</category>
         
         <category>pest-insects</category>
         

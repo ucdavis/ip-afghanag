@@ -5,6 +5,7 @@ tags:
 title: "European Red Mite"
 file-names: "european-red-mite"
 pest-id: ""
-fact-sheet:
+factsheet: true
+pestid-english: true
 
 ---

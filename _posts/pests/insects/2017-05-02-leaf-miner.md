@@ -5,7 +5,8 @@ tags:
   - pest-insects
 title: "Leaf Miner"
 file-names: "leaf-miner"
-pest-id: ""
-fact-sheet:
+factsheet: true
+pestid-english: true
+pestid-pashto: true
 
 ---

@@ -4,7 +4,7 @@ tags:
   - pest-insects
 title: "Mealy Plum Aphid"
 file-names: "mealy-plum-aphid"
-pest-id: ""
-fact-sheet:
+factsheet: true
+pestid-english: true
 
 ---

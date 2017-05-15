@@ -4,7 +4,8 @@ tags:
   - pest-insects
 title: "Shothole Borer "
 file-names: "shothole-borer"
-pest-id: ""
-fact-sheet:
+factsheet: true
+pestid-english: true
+pestid-pashto: true
 
 ---

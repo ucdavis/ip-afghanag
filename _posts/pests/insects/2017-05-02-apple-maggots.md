@@ -5,6 +5,6 @@ tags:
 title: "Apple Maggots"
 file-names: "apple-maggots"
 pest-id: ""
-fact-sheet:
+factsheet: true
 
 ---

@@ -4,7 +4,7 @@ tags:
   - pest-insects
 title: "Soft Scales"
 file-names: "soft-scales"
-pest-id: ""
-fact-sheet:
-
+factsheet: true
+pestid-english: true
+pestid-pashto: true
 ---
