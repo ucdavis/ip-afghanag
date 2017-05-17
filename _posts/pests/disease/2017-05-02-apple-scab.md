@@ -6,5 +6,8 @@ title: "Apple Scab"
 file-names: "apple-scab"
 pest-id: ""
 fact-sheet:
+factsheet: true
+
+
 
 ---

@@ -6,5 +6,6 @@ title: "Brown Rot Blossom"
 file-names: "brown-rot-blossom"
 pest-id: ""
 fact-sheet:
+factsheet: true
 
 ---

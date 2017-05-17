@@ -7,5 +7,6 @@ title: "Bacterial Canker"
 file-names: "bacterial-canker"
 pest-id: ""
 fact-sheet:
+factsheet: true
 
 ---

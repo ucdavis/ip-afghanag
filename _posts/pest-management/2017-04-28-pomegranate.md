@@ -7,13 +7,33 @@ intro:
   - "See Pest Identification Cards and general Pest Management Page"
 ---
 <div id="main-boxes">
-    {% for post in site.tags.pest-pomegranate %}
-      <div class="main-box">
-      <h2>{{post.title}}</h2>
-        <a href="./files/{{ post.file-names }}.pdf">Fact Sheet</a>
-          <img src="./media/{{post.file-names}}.jpeg">
-        </a>
-      </div>
+    {% for post in site.tags.pest-pomegranate reversed %}
+    <div class="main-box">
+    <h2>{{post.title}}</h2>
+    {% if post.factsheet %}
+      <a href="/pest-management/files/{{ post.file-names }}.pdf">Fact Sheet</a><br>
+      {% endif %}
+    {% if post.dari %}
+    <a href="/pest-management/files/{{ post.file-names }}-dari.pdf">Dari</a><br>
+    {% endif %}
+    {% if post.pashto %}
+    <a href="/pest-management/files/{{ post.file-names }}-pashto.pdf">Pashto</a><br>
+    {% endif %}
+    {% if post.pestid-english %}
+    <a href="/pest-management/files/{{ post.file-names }}-pestid.pdf">Pest ID Card</a><br>
+    {% endif %}
+    {% if post.pestid-dari %}
+    <a href="/pest-management/files/{{ post.file-names }}-pestid-dari.pdf">Pest ID Card Dari</a><br>
+    {% endif %}
+    {% if post.pestid-pashto %}
+    <a href="/pest-management/files/{{ post.file-names }}-pestid-pashto.pdf">Pest ID Card Pashto</a><br>
+    {% endif %}
+    {% if post.extra %}
+    {{post.extra}}
+    {% endif %}
+        <img src="/pest-management/media/{{post.file-names}}.jpeg">
+      </a>
+    </div>
     {% endfor %}
 </div>
 

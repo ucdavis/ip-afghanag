@@ -19,27 +19,15 @@ layout: default
           <div class="hing-content">
             <h2>Choose a Type of Pest</h2>
             <div id="main-boxes">
-                  <div class="main-box">
-                    <a href="pest-management/pest/insects">
-                      <h2>Insects</h2>
-                      <h2>حشرات </h2></a>
-                      <img src="./media/insects.jpg">
-                    </a>
-                  </div>
-                  <div class="main-box">
-                    <a href="pest/fungus-and-bacteria">
-                      <h2>Fungi and Bacteria</h2>
-                      <h2> قارچ ها و بکتیریا</h2></a>
-                      <img src="./media/fungus-baceteria.jpeg">
-                    </a>
-                  </div>
-                  <div class="main-box">
-                    <a href="pest/weeds">
-                      <h2>Weeds</h2>
-                      <h2>گیاهان هرزه</h2></a>
-                      <img src="./media/weeds.jpg">
-                    </a>
-                  </div>
+                {% for post in site.tags.pest-main %}
+                <div class="main-box">
+                  <a href="{{post.permalink}}">
+                    <h2>{{post.title}}</h2>
+                    <h2>{{post.arabic}}</h2></a>
+                    <img src="/pest-management/media/{{post.file-names}}.jpeg">
+                  </a>
+                </div>
+                {% endfor %}
             </div>
           </div>
           <div class="hing-content">
@@ -53,7 +41,7 @@ layout: default
 
         <h2>Pest Management by Crop</h2>
         <div id="main-boxes">
-            {% for post in site.tags.pest %}
+            {% for post in site.tags.pest reversed %}
               <div class="main-box">
                 <a href="{{ post.permalink }}">
                   <h2> {{ post.title }}</h2>

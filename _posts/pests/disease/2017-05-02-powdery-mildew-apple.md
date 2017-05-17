@@ -5,8 +5,6 @@ tags:
 title: "Apple Powdery Mildew"
 file-names: "powdery-mildew-apple"
 pest-id: ""
-dari: true
-pashto: true
-fact-sheet:
-
+factsheet: true
+extra: "<a href='/pest-management/files/powdery-mildew-pestid.pdf'>Pest ID Card</a><br><a href='/pest-management/files/powdery-mildew-pestid-pashto.pdf'>Pest ID Card Pashto</a>"
 ---

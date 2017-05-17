@@ -9,5 +9,9 @@ title: "Anthracnose"
 file-names: "anthracnose"
 pest-id: ""
 fact-sheet:
+factsheet: true
+
+
+
 
 ---
