@@ -34,3 +34,8 @@ soil:
 weather:
 - missing links in precipitation hour, average monthly rainfalls, average seasonal temperature,
 - daily data in kabul and herat is no longer available
+
+
+other-topics:
+- knowledge bank link (extension) doesn't work
+- not sure how to add this: http://afghanag.ucdavis.edu/other-topic/culture-and-extension/extension-hort-kb
