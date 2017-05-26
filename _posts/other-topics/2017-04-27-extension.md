@@ -19,10 +19,17 @@ overview:
   - "Ten Rules of Effective Extension (TREE) Fact Sheet (Roots of Peace)"
   - "System Elements Enhancing Development Fact Sheet (UC Davis)"
 content-table:
-  - "Infrastructure"
-  - "Land leveling"
-  - "Crop water requirements"
-  - "Irrigation Methods"
+  - "Overview"
+  - "Plan Implementation"
+  - "Developing a Program (The 'ASK ME' model)"
+  - "Audience and Needs"
+  - "Solutions"
+  - "Key Message"
+  - "Message Form and Delivery"
+  - "Evaluation"
+  - "Extension Theory"
+  - "Culture Aspects"
+  - "Links"
 management:
 disease:
 market-information-link: ""
