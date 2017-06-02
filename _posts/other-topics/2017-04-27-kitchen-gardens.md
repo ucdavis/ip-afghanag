@@ -8,12 +8,12 @@ image: "/other-topics/media/kitchen-gardens.jpeg"
 pictures: "/other-topics/media/kitchen.jpeg"
 problem-opportunities:
   - "<b>Priority problems</b>"
-  - "<ul><li><b>Production:</b> poor soil structure (due to repeated deep tilling and high clay content), low soil fertility (note: many clay soils are low in organic content), poor planting bed preparation, pests [aphids, white cabbage moth (cabbage), nematodes (potato), white fly (onion)].</li>"
-  - "<li><b>Post harvest:</b> storage losses, inadequate family nutrition (few vegetables in the diet, over cooking, little variety in the diet).</li></ul>"
+  - "<ul><li><b>Production:</b> poor <a href=''>soil structure</a> (due to repeated deep tilling and high clay content), low <a href=''>soil fertility</a> (note: many clay soils are low in organic content), poor <a href=''>planting bed preparation</a>, pests [<a href=''>aphids</a>, white cabbage moth (cabbage), nematodes (potato), <a href=''>white fly</a> (onion)].</li>"
+  - "<li><b>Post harvest:</b> <a href=''>storage losses</a>, <a href=''>inadequate family nutrition</a> (few vegetables in the diet, over cooking, little variety in the diet).</li></ul>"
   - "<b>Priority opportunities</b>"
-  - "<ul><b>Production:</b> composting, promoting planting a wide variety of crops to reduce pest problems and improve home nutrition, crop rotation, planting off-season using low tunnels, trellising and staking, winter cover crops, mulching, container gardens."
-  - "<b>Pest management:</b> pest identification and companion planting."
-  - "<b>Post harvest:</b> pickling, drying, and cooking with fresh vegetables.</ul>"
+  - "<ul><b>Production:</b> <a href=''>composting</a>, promoting planting a<a href=''> wide variety</a> of crops to reduce pest problems and improve home nutrition, <a href=''>crop rotation</a>, planting off-season using <a href=''>low tunnels</a>, trellising and staking, winter cover crops, mulching, container gardens."
+  - "<b>Pest management:</b> <a href=''>pest identification and <a href=''>companion planting</a>."
+  - "<b>Post harvest:</b> <a href=''>pickling</a>, <a href=''>drying</a>, and <a href=''>cooking with fresh vegetables.</a></ul>"
 overview:
 content-table:
 - "Problems and Opportunities "
