@@ -1,0 +1,73 @@
+---
+layout: default
+---
+<div class="main">
+	<div class="main_contents">
+		<h1>{{page.title}} {{page.arabic}}</h1>
+		<div class="category_contents">
+		<div class="description">
+			<p>{{page.intro}}</p>
+		<h3>Content</h3>
+		<ul>
+			{% if page.problem-opportunities %}
+				<li> <a target="_blank" href="/#problem-opportunities">Problems and Opportunities</a></li>
+			{% endif %}
+			{% if page.overview %}
+				<li> <a target="_blank" href="/#overview">Overview</a></li>
+			{% endif %}
+			{% if page.content-table %}
+				{% for row in page.content-table %}
+					<li><a target="_blank" href="/#{{row}}">{{row}}</a></li>
+				{% endfor %}
+			{% endif %}
+		</ul>
+	</div>
+	<div class="category-picture hing-pics">
+		{% if page.pictures %}
+			<img src="{{ page.pictures }}">
+				{% endif %}
+	</div>
+</div>
+		{% if page.care %}
+			<p>{{page.care}}</p>
+		</ul>
+		{% endif %}
+		{% if page.problem-opportunities %}
+		<h3>Problems and Opportunities</h3>
+		<ul>
+		{% for row in page.problem-opportunities %}
+			{% if row contains "ul>" %}
+				{{row}}
+			{% else %}
+					<li>{{row}}</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.overview %}
+	<h3>Overview</h3>
+	<ul>
+	{% for row in page.overview %}
+	{% if row contains "ul>" %}
+		{{row}}
+		{% else %}
+				<li>{{row}}</li>
+			{% endif %}
+	{% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.management %}
+	<h3>Management of {{page.title}}</h3>
+	<ul>
+	{% for row in page.management %}
+	{% if row contains "ul>" %}
+		{{row}}
+		{% else %}
+				<li>{{row}}</li>
+			{% endif %}
+	{% endfor %}
+	</ul>
+	{% endif %}
+{{ content }}
+	</div>
+</div>

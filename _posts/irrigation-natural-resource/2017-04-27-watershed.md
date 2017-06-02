@@ -1,11 +1,13 @@
 ---
 layout: management
-tags: management
+tags:
+- management
+- food-security
 permalink: /irrigation-natural-resource/resources/watershed
 title:  "Watersheds and Forestry"
 arabic: "آبریزه ها و جنگنلات"
-image: "./media/watershed.jpeg"
-pictures: "../media/watershed.jpeg"
+image: "/irrigation-natural-resource/media/watershed.jpeg"
+pictures: "/irrigation-natural-resource/media/watershed.jpeg"
 care: "The country’s limited forest resources suffered depletion to meet demands from lucrative export markets and for firewood. Severe overgrazing and the recent drought have contributed to the decline of the livestock population, and reduction in ground cover in hillsides has led to floods, widespread soil erosion, and reduced water retention in aquifers. (from World Bank  <a href='http://www.worldbank.org/en/topic/agriculture/x/sar'>Report</a>)"
 problem-opportunities:
   - "<b>Upper watershed (mountains and non-irrigated plateaus)</b>"

@@ -105,19 +105,13 @@
               </ul>
           </div>
           <div class="dropdown">
-              <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/fruits-nuts-vegetables">
-                  Fruits, Nuts & Vegetables <span class="caret"></span>
+              <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/country-info">
+                  Country Info <span class="caret"></span>
               </a>
-          <ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
-                </li>
-                <li class="dropdown-submenu">
-                  <a tabindex="-1" href="/fruits-nuts-vegetables/Nuts">Vegetables</a>
-                  <ul class="dropdown-menu">
-                    {% for post in site.tags.vegetables %}
-                      <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
-                    {% endfor %}
-                  </ul>
-                </li>
+              <ul class="dropdown-menu">
+                {% for post in site.tags.country-info %}
+                  <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
+                {% endfor %}
               </ul>
           </div>
 
