@@ -2,15 +2,15 @@
 layout: province
 tags: province
 permalink: /country-info/province/Badakhshan
-title:  "Badakhsan"
+title:  "Badakhshan"
 arabic: "بدخشان"
-map: "/country-info/media/badakshan.jpg"
-pictures: /country-info/media/badakshan-2.jpg"
-major-ag: "Badakshan is famous for producing rugs, carpets, grapes, and nuts (particularly almonds). Herders raise sheep and goats in several districts. Badakshan has massive untapped mineral reserves."
+map: "/country-info/media/Badakhshan.jpg"
+pictures: /country-info/media/Badakhshan-2.jpg"
+major-ag: "Badakhshan is famous for producing rugs, carpets, <a href='/fruits-nuts-vegetables/fruits/grapes'>grapes</a>, and nuts (particularly <a href='/fruits-nuts-vegetables/nuts/almonds'>almonds</a>). Herders raise<a href='/livestock/livestock/sheep'> sheep</a> and<a href='/livestock/livestock/goats'> goat</a>s in several districts. Badakhshan has massive untapped mineral reserves."
 potential-dev: "Potential areas for development include value-adding (product processing), pasture improvement, post-harvest technology, and irrigation system improvement."
 summary:
-  - "Province Overview Info Sheet"
-  - "Crop Calendar Info Sheet"
+  - "Province Overview <a href='/country-info/files/overview-Badakhshan.pdf'>Info Sheet</a> "
+  - "Crop Calendar <a href='/country-info/province/files/calendar-.pdf'>Info Sheet</a>"
   - "Afghanistan Provincial Indicators Link (CFC)"
 report:
   - "Ministry Report (MRRD)"
@@ -20,7 +20,7 @@ report:
 maps:
   - "Province Map (2002) (1.3 MB) (AIMS)"
 district-maps:
-  - "Darayim District Map (2011) (2.2 MB) (iMMAP)"
-  - "Yamgan Girwan District Map (2011) (2.3 MB) (iMMAP)"
+  - "Darayim District Map (2011) (2.2 MB) (<a href='http://immap.org/'>iMMAP</a>)"
+  - "Yamgan Girwan District Map (2011) (2.3 MB) (<a href='http://immap.org/'>iMMAP</a>)"
 
 ---

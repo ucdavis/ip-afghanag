@@ -22,17 +22,20 @@ links: ""
 <div class="hing-content">
   <h2>Provinces</h2>
   {% for post in site.tags.province %}
+    <p>
     <a href="{{post.permalink}}">
-      <p>{{post.title}}</p>
-    </a>
+    {{post.title}}
+    </a></p>
   {% endfor %}
 </div>
 <div class="hing-content">
   <h2>Socio-Economic and Demographic Profile Reports by Province</h2>
   <b>(2003-2005) (UNFPA)</b>
   {% for post in site.tags.province %}
-    <a href="{{post.permalink}}">
-      <p>{{post.title}}</p>
+    <p>
+    <a href="/country-info/files/All-{{post.title}}.pdf">
+    {{post.title}}
     </a>
+    </p>
   {% endfor %}
 </div>

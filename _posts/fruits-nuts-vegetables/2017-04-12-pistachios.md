@@ -2,10 +2,10 @@
 layout: fruits
 tags: nuts
 priority: high
-permalink: /fruits-nuts-vegetables/nuts/almonds
+permalink: /fruits-nuts-vegetables/nuts/pistachio
 title:  "Pistachio"
 arabic: "پسته"
-image: "../media/pistachios.jpeg"
+image: "../media/<a href='/fruits-nuts-vegetables/nuts/pistachio'>pistachios</a>.jpeg"
 pictures: "../media/pistachio_pic.jpeg"
 seasons:
 time:
@@ -13,8 +13,8 @@ tree-management:
 care:
   - "Pistachio trees grow wild in Afghanistan and are wild-harvested for sale, but are not yet domesticated for orchard production."
 problem-opportunities:
-  - "<b>Priority problems</b> include deforestation of pistachio forests.  The pistachios harvested from semi-domestic systems are wild varieties.  No work has been done on which domestic varieties may be best suited to Afghanistan. "
-  - "<b>Priority opportunities</b> include the dual purpose of pistachios for both reforestation and crop production.  They can be used in stabilizing slopes and producing nuts. Male wild pistachio trees produce no nuts, however, once male seedling are established, they can serve as rootstocks for desired (female) scion grafts."
+  - "<b>Priority problems</b> include deforestation of pistachio forests.  The <a href='/fruits-nuts-vegetables/nuts/pistachio'>pistachios</a> harvested from semi-domestic systems are wild varieties.  No work has been done on which domestic varieties may be best suited to Afghanistan. "
+  - "<b>Priority opportunities</b> include the dual purpose of <a href='/fruits-nuts-vegetables/nuts/pistachio'>pistachios</a> for both reforestation and crop production.  They can be used in stabilizing slopes and producing nuts. Male wild pistachio trees produce no nuts, however, once male seedling are established, they can serve as rootstocks for desired (female) scion grafts."
   - "These problems and opportunities are based on feedback from Tom Brown, Louise Jackson, and Zia Mirzada."
 overview:
   - "About Pistachio Fact Sheet (UC Davis)"

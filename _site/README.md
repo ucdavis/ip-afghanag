@@ -44,3 +44,4 @@ other-topics:
 
 Provinces:
 - balkh image is not Working
+- ghazni all-ghazni pdf cant be found

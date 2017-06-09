@@ -1,9 +1,9 @@
 ---
 layout: fruits
 tags: fruit
-url: "/fruits-nuts-vegetables/Fruits/Apricots.html"
-permalink: /fruits-nuts-vegetables/fruits/apricots
-title:  "Apricots"
+url: "/fruits-nuts-vegetables/Fruits/<a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a>.html"
+permalink: /fruits-nuts-vegetables/fruits/<a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a>
+title:  "<a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a>"
 priority: "medium"
 arabic: "زردآلو"
 image: "../media/apricot.jpeg"
@@ -12,16 +12,16 @@ seasons: "Winter"
 time: "mid December through mid March"
 care:
   - "Spray trees with dormant oil to control San Jose scale, aphid eggs, mite eggs and peach twig borer."
-  - "Do not use sulfur on apricots, ever."
+  - "Do not use sulfur on <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a>, ever."
 problem-opportunities:
   - "<b>Priority problems</b> include: include: pollination, planting (bed preparation), grafting, training & pruning, variety selection, Apricot Late Frost"
-  - "<b>Priority opportunities</b> include: marketing of fresh and dried apricots to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
+  - "<b>Priority opportunities</b> include: marketing of fresh and dried <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a> to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
 overview:
-  - "About Apricots Fact Sheet (UC Davis)"
+  - "About <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a> Fact Sheet (UC Davis)"
 crop-calendar:
   - "Fact Sheet (UC Davis)"
 pest-management:
-  - "Common pests in apricots include: shot hole disease, bacterial canker, verticillium wilt, brown rot blossom & twig blight, peach twig borer, mealy plum aphid."
+  - "Common pests in <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a> include: shot hole disease, bacterial canker, verticillium wilt, brown rot blossom & twig blight, peach twig borer, mealy plum aphid."
   - "See Pest Identification Cards and general Pest Management Page"
   - "Nursery Weed Management Fact Sheet English and(Dari) دری  (UC Davis for Roots of Peace)"
 post-harvest:

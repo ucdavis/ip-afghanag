@@ -6,21 +6,21 @@ title:  "Nangarhar"
 arabic: "لوگر"
 map: "/country-info/media/Nangarhar.jpeg"
 pictures: "/country-info/media/Nangarhar-2.jpeg"
-major-ag: "Nangarhar produces a range of fruits and vegetables including grapes, olivse, oranges, watermelon, okra, tomato, and spinach.  "
+major-ag: "Nangarhar produces a range of fruits and vegetables including <a href='/fruits-nuts-vegetables/fruits/grapes'>grapes</a>, olivse, oranges, watermelon, <a href='/fruits-nuts-vegetables/vegetables/okra'>okra</a>, <a href='/fruits-nuts-vegetables/vegetables/tomatoes'>tomatoes</a>, and spinach.  "
 potential-dev: "Financial services for farmers (credit), animal husbandry, horticultural project (nursery improvement), value adding (product processing), post-harvest technology, and irrigation system improvement are some potential areas for development."
 summary:
-  - "Province Overview <a href='/country-info/province/files/.pdf'>Info Sheet</a>"
-  - "Crop Calendar <a href='/country-info/province/files/.pdf'>Info Sheet</a>"
+  - "Province Overview <a href='/country-info/province/files/overview-.pdf'>Info Sheet</a>"
+  - "Crop Calendar <a href='/country-info/province/files/calendar-.pdf'>Info Sheet</a>"
   - "Afghanistan Provincial Indicators <a href=''>Link</a> (CFC)"
 report:
   - "Ministry Report (MRRD)"
-  - "Socio-Economic and Demographic Profile <a href='/country-info/province/files/.pdf'>Report</a> (2003-2005) (3.4 MB) (UNFPA)"
+  - "Socio-Economic and Demographic Profile <a href='/country-info/province/files/social-.pdf'>Report</a> (2003-2005) (3.4 MB) (UNFPA)"
   - "Social Assessment Profile Fact Sheet (2012) (NHLP)"
   - "World Food Program <a href=''>Link</a>"
 
 maps:
-  - "Province<a href='/country-info/province/files/.pdf'>Map</a> (2002) (AIMS)"
-  - "Satellite Image<a href='/country-info/province/files/.pdf'>Map</a> (2011) (3.3 MB) (iMMAP)"
+  - "Province<a href='/country-info/province/files/map-.pdf'>Map</a> (2002) (AIMS)"
+  - "Satellite Image<a href='/country-info/province/files/.pdf'>Map</a> (2011) (3.3 MB) (<a href='http://immap.org/'>iMMAP</a>)"
 district-maps:
   - "<a href='/country-info/province/files/.pdf'>Acheen, Kot and Rodat Districts </a>"
   - "<a href='/country-info/province/files/.pdf'>Bati Kot, Lal Por and Goshta Districts (1.0 MB)</a>"
