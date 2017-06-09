@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<div class="main">
+	<div class="main_contents">
+		<h1>{{page.title}} {{page.arabic}}</h1>
+		<div class="category_contents">
+		<div class="description">
+			<h3>Major Agricultural Activities</h3>
+			<p>{{page.major-ag}}</p>
+	</div>
+	<div class="category-picture hing-pics">
+		{% if page.map %}
+			<img src="{{ page.map }}">
+				{% endif %}
+		{% if page.pictures %}
+			<img src="{{ page.pictures }}">
+				{% endif %}
+	</div>
+</div>
+		{% if page.care %}
+		<h3>Potential Development Themes</h3>
+			<p>{{page.potential-dev}}</p>
+		</ul>
+		{% endif %}
+		{% if page.summary %}
+		<h3>Province Summaries</h3>
+		<ul>
+		{% for row in page.summary %}
+			{% if row contains "ul>" %}
+				{{row}}
+			{% else %}
+					<li>{{row}}</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.report %}
+	<h3>Province Reports</h3>
+	<ul>
+	{% for row in page.report %}
+	{% if row contains "ul>" %}
+		{{row}}
+		{% else %}
+				<li>{{row}}</li>
+			{% endif %}
+	{% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.maps %}
+	<h3>Province Maps</h3>
+	<ul>
+	{% for row in page.maps %}
+	{% if row contains "ul>" %}
+		{{row}}
+		{% else %}
+				<li>{{row}}</li>
+			{% endif %}
+	{% endfor %}
+	</ul>
+	{% endif %}
+	{% if page.district-maps %}
+	<h3>Available District Maps</h3>
+	<ul>
+	{% for row in page.district-maps %}
+	{% if row contains "ul>" %}
+		{{row}}
+		{% else %}
+				<li>{{row}}</li>
+			{% endif %}
+	{% endfor %}
+	</ul>
+	{% endif %}
+{{ content }}
+	</div>
+</div>

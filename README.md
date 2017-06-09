@@ -41,3 +41,6 @@ other-topics:
 - not sure how to add this: http://afghanag.ucdavis.edu/other-topic/culture-and-extension/extension-hort-kb
 -  Codex of Maximum Allowable Pesticide Residue Levels does not work
 - country specific export standards also not Working
+
+Provinces:
+- balkh image is not Working
