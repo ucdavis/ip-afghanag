@@ -13,7 +13,7 @@ summary:
   - "Crop Calendar <a href='/country-info/province/files/calendar-.pdf'>Info Sheet</a>"
   - "Afghanistan Provincial Indicators Link (CFC)"
 report:
-  - "Ministry Report (MRRD)"
+  - "Ministry <a href='/country-info/province/files/gov-.pdf'>Report</a> (MRRD)"
   - "Socio-Economic and Demographic Profile Report (2003-2005) (3.7 MB) (UNFPA)"
   - "Social Assessment Profile <a href='/country-info/province/files/social-.pdf'>Fact Sheet</a> (2012) (NHLP)"
   - "Data Link (CFC)"

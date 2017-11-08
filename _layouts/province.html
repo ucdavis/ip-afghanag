@@ -26,14 +26,10 @@ layout: default
 		{% if page.summary %}
 		<h3>Province Summaries</h3>
 		<ul>
-		{% for row in page.summary %}
-			{% if row contains "ul>" %}
-				{{row}}
-			{% else %}
-					<li>{{row}}</li>
-			{% endif %}
-		{% endfor %}
-	</ul>
+			<li>Province Overview <a href='/country-info/province/files/overview-{{page.title}}.pdf'>Info Sheet</a></li>
+			<li>Crop Calendar <a href='/country-info/province/files/calendar-{{page.title}}.pdf'>Info Sheet</a></li>
+			<li>Afghanistan Provincial Indicators <a href=''>Link</a> (CFC)</li>
+		</ul>
 	{% endif %}
 	{% if page.report %}
 	<h3>Province Reports</h3>
