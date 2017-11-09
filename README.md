@@ -46,3 +46,7 @@ Provinces:
 - balkh image is not Working
 - ghazni all-ghazni pdf cant be found
 - Faryab satellite map doesn't work
+
+interactive-map:
+- wheat cultivated area doesn't work
+- all interactive map does not work except wheat Production
