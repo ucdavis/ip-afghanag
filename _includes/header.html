@@ -114,6 +114,16 @@
                 {% endfor %}
               </ul>
           </div>
+          <div class="dropdown">
+              <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/educational-materials">
+                  Educational Materials <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                {% for post in site.tags.educational %}
+                  <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
+                {% endfor %}
+              </ul>
+          </div>
 
   	</div>
   </div>

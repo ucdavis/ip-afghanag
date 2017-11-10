@@ -50,3 +50,10 @@ Provinces:
 interactive-map:
 - wheat cultivated area doesn't work
 - all interactive map does not work except wheat Production
+
+educational-materials:
+missing:
+- http://afghanag.ucdavis.edu/educational-materials/principes-of-soil/soil-ppt-presentations/PPT_Lamotte_Soil_Test_Kit_USDA_English.pdf
+- http://afghanag.ucdavis.edu/educational-materials/principes-of-soil/soil-ppt-presentations/PPT_Lamotte_Soil_Test_Kit_USDA_Dari.pdf
+- http://afghanag.ucdavis.edu/educational-materials/principes-of-soil/soil-ppt-presentations/AJAY.training-soil-and-crop-mgnt.pdf
+- http://afghanag.ucdavis.edu/educational-materials/extension/edliveafgpurdueunitblesson3animalreproductiontechnologylp.pdf

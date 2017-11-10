@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="main">
+    <div class="main_contents">
+        <h1>Educational Materials مواد آموزشی</h1>
+        <br></br>
+        <p>These materials are designed to assist vocational instructors, professors, and extension workers in planning and implementing agricultural lessons. Unlike other materials on e-Afghan Ag, these materials assume some prior knowledge of agriculture.</p>
+        <div id="main-boxes">
+            {% for post in site.tags.educational %}
+              <div class="main-box">
+                <a href="{{ post.permalink }}">
+                  <h2> {{ post.title }}</h2>
+                  <h2> {{ post.arabic }}</h2>
+                  <img src="{{ post.image }}">
+                </a>
+              </div>
+            {% endfor %}
+    </div>
+</div>
+</div>

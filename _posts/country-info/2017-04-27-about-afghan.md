@@ -12,9 +12,7 @@ intro: "Afghanistan at a glance Info sheet (from FAO)"
 content-table:
 management:
 disease:
-market-information-<a href="">Link</a>: ""
 photo-gallery: ""
-<a href="">Link</a>s: ""
 ---
 <div class="hing-content">
   <h2>National Constraints (from World Bank) </h2>
