@@ -47,7 +47,7 @@ links: ""
       <li><a href='../files/irrigation-crop-water-need.pdf'>Info Sheet </a> (UC Davis) </li>
       <li>Field observations to schedule irrigation (with wheat as an example) <a href='../files/irrigation-wheat-scheduling.pdf'> Fact Sheet</a>  (UC Davis)</li>
       <li>Water Supply PPT as PDF <a href='../files/irrigation-water-supply.pdf'>English</a> (4.2 MB)(USDA)</li>
-      <li>Soil Moisture by Feel <a href='../files/irrigation-lookfeel.pdf'>Fact Sheet </a> and icon video Video</li>
+      <li>Soil Moisture by Feel <a href='../files/irrigation-lookfeel.pdf'>Fact Sheet </a> and icon <a href='/video/'>video</a></li>
       <li>Soil Infiltration Rate <a href='../files/irrigation-soil-infiltration.pdf'>Fact Sheet </a> (UC Davis)</li>
     </ul>
   </div>
@@ -55,8 +55,8 @@ links: ""
     <h2>Irrigation Methods</h2>
     <ul>
       <li>Irrigation System Selection <a href='../files/irrigation-system-selection.pdf'>Info Sheet</a> (UC Davis) </li>
-      <li>Irrigation Principals icon video Video </li>
-      <li>Irrigation Methods icon video Video</li>
+      <li>Irrigation Principals icon <a href='/video/'>video</a> </li>
+      <li>Irrigation Methods icon <a href='/video/'>video</a></li>
       <li><b>Surface Irrigation</b> PPT as PDF <a href='../files/irrigation-surface.pdf'>English</a> (2.4 MB) and <a href='../files/irrigation-surface-dari.pdf'>(Dari) در </a>(USDA)</li>
       <li><b>Furrow Irrigation</b></li>
       <ul>

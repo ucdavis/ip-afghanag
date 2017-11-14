@@ -139,8 +139,8 @@ links: ""
     <ul>
     <li><b>Equipment</b></li>
     <ul>
-      <li>Build and Use an A-frame Level for Terrace Surveying icon video Video</li>
-      <li>How to Build and Use a Water Level for Terrace Surveying icon video Video</li>
+      <li>Build and Use an A-frame Level for Terrace Surveying icon <a href='/video/'>video</a></li>
+      <li>How to Build and Use a Water Level for Terrace Surveying icon <a href='/video/'>video</a></li>
     </ul>
     <li><b>Managing River Flow</b></li>
     <ul>

@@ -66,11 +66,11 @@ links: ""
     <h2>Planting</h2>
     <ul>
     <li>Vegetable Spacing Guides <a href='/other-topics/files/garden/vegetable-spacing.pdf'>Info Sheet</a> (U Maryland)</li>
-    <li>Training and Pruning Tomatoes <a href='/other-topics/files/garden/pruining-training-tomatoes.pdf'>Fact Sheet</a> (UC Davis)  and  icon video Video English/دری(Dari) (37.3 MB) (AAEP)</li>
+    <li>Training and Pruning Tomatoes <a href='/other-topics/files/garden/pruining-training-tomatoes.pdf'>Fact Sheet</a> (UC Davis)  and  icon <a href='/video/'>video</a> English/دری(Dari) (37.3 MB) (AAEP)</li>
     <li>Companion Planting <a href='/other-topics/files/garden/companion-planting.pdf'>Info Sheet</a> and Images <a href='/other-topics/files/garden/companion-planting-ppt.pdf'>PPT as PDF</a> (1.3 MB) (U Maryland) and <a href='/other-topics/files/garden/companion-planting-cornell.pdf'>Info Sheet</a> (U Cornell)</li>
     <li>Seed Starting <a href='/other-topics/files/garden/seed-starting.pdf'>PPT as PDF</a> (U Maryland)</li>
-    <li>Pitcher Planting icon video Video English and Dari (UC Davis and U Maryland)</li>
-    <li>Low Tunnel Construction icon video Video</li>
+    <li>Pitcher Planting icon <a href='/video/'>video</a> English and Dari (UC Davis and U Maryland)</li>
+    <li>Low Tunnel Construction icon <a href='/video/'>video</a></li>
     <li>Low Plastic Tunnels <a href='/other-topics/files/garden/low-tunnels.pdf'>Info Sheet</a> (USDA)</li>
     </ul>
   </div>

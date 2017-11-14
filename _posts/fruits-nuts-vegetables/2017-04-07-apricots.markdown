@@ -25,7 +25,7 @@ pest-management:
   - "See Pest Identification Cards and general Pest Management Page"
   - "Nursery Weed Management Fact Sheet English and(Dari) دری  (UC Davis for Roots of Peace)"
 post-harvest:
-  - "Apricot Drying videos"
+  - "Apricot Drying <a href='/video/apricots-video'>videos</a>"
   - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
   - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
   - "Example of Standards Fact Sheet (Fresh Spec)"
