@@ -16,7 +16,7 @@ def main():
 	linksNotWorking = ""
 
 	for names in listNames:
-		if "pdf" in names.get('href'):
+		if "pdf" in names.get('href') or ".doc" in names.get('href') or ".ppt" in names.get('href'):
 			#print names
 		  	link = names.get('href')
 			print link
@@ -33,6 +33,8 @@ def main():
 			except:
 				print "not working: " + link
 				linksNotWorking += link + "\n"
+		else:
+			print names
 
 	print "LINKS NOT WORKING\n"
 	print linksNotWorking

@@ -14,48 +14,86 @@ care:
   - "Prune out any crossing, broken, or shaded out branches from the interior of the tree. No topping or hedging is necessary and removal of the skirts around the lower portion of the tree's bearing capacity."
   - "If scale insects are present (appear as small bumps on twigs and a black sooty mold on the leaves), spray the tree with volk or superior oil. The best time to treat is February during cool weather. Thorough coverage is important."
 problem-opportunities:
-  - "<b>Priority problems</b> for Afghanistan Citrus include: a lack of tested varieties (see PHDP), and Tristeza virus in bitter orange rootstock."
-  - "These draft priority problems are based on feedback from agricultural consultants, Afghan specialists, and Tom Brown."
+- "<b>Priority problems</b> for Afghanistan Citrus include: a lack of tested varieties (see PHDP), and Tristeza virus in bitter orange rootstock."
+- "These draft priority problems are based on feedback from agricultural consultants, Afghan specialists, and Tom Brown."
 overview:
-  - "About Citrus Fact Sheet (Sweet Oranges)"
+- 'About Citrus <a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Oranges.pdf" class="internal-link" title="Citrus - overview - Sweet oranges"><strong>Fact</strong><strong> Sheet</strong></a> (Sweet Oranges)<strong><br /></strong>'
 crop-calendar:
-  - "Citrus crop calendar Fact Sheet (for California-like conditions) (UC Davis)"
+- 'Citrus crop calendar <strong><a title="Crop Calendar Citrus" href="/fruits-nuts-vegetables/Fruits/files/citrus/IS_Fruit_Citrus_Crop_Calendar" class="internal-link" >Fact Sheet</a></strong> (for California-like conditions) (UC Davis)<strong><br /></strong>'
 pest-management:
-  - "See Pest Identification Cards and general Pest Management Page"
-  - "Nursery Weed Management Fact Sheet English and(Dari) دری  (UC Davis for Roots of Peace)"
+- "See Pest Identification Cards and general Pest Management Page"
+- 'Nursery Weed Management Fact Sheet<strong> </strong><strong><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/fs-nursery-weeds.pdf" class="internal-link" target="_self">English</a></span></strong> and <strong><span class="rtl" dir="rtl"><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" target="_self">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
 post-harvest:
-  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
-  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
-  - "Production and Post Harvest Manual English (2.5 MB) and (Dari) دری"
+- '
+<p>Production and Post Harvest Manual <strong><a title="Citrus manual" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Fruit_Citrus_Prod_red.pdf" class="internal-link" target="_self">English</a> </strong>(2.5 MB) and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/citrus/Citrus.pdf" class="internal-link" title="Citrus Production Manual (Dari Language)">(Dari) دری </a></span></strong></p>
+'
+- '
+<p>10 Principles of Postharvest Management <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles">Fact </a></strong><strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles">Sheet</a></strong><span> (UC Davis)</span></p>
+'
+- '
+<p>Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)</p>
+'
+nursery-management:
+- '
+<p>Propagation Overview <a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Citrus_Propagation.pdf" class="internal-link" title="Citrus - Propagation"><strong>Fact Sheet</strong></a> (UC Davis)</p>
+'
+- '
+<p>Seed for Rootstock <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Citrus_Seed.doc" class="internal-link" title="Citrus Seed for Rootstock">Fact Sheet</a></strong> (UC Davis)</p>
+'
+- '
+<p>Budding <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Budding.doc" class="internal-link" title="Citrus Budding">Fact Sheet</a></strong> (UC Davis)</p>
+'
+- '
+<p>Grafting Cleft <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Grafting_cleft.doc" class="internal-link" title="Citrus Grafting Cleft">Fact Sheet</a></strong> (UC Davis)</p>
+'
+- '
+<p>Grafting Whip <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Grafting_whip.doc" class="internal-link" title="Citrus Grafting Whip">Fact Sheet</a></strong> (UC Davis)</p>
+'
 market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
-
-<div class="production">
-  <ul>
-    <li>Production and Post Harvest Manual English (2.5 MB) and (Dari) دری (2.5 MB) (UC Davis)</li>
-    <li>Variety Selection:</li>
-      <ul>
-        <li>For certified saplings contact PHDP (Perennial Horticulture Development Project)</li>
-        <li>PHDP Varietal Selection and Production English (excerpt), دری (Dari) (9.9 MB) and پشتو (Pashto) (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
-        <li>National Nursery Growers' Association Locations and Contacts PDF (ANNGO Catalog 2013, PHDP/EU)</li>
-      </ul>
-    <li>Site Selection Fact Sheet  (UC Davis)</li>
-    <li>Site Layout Fact Sheet  (UC Davis)</li>
-    <li>Orchard Establishment Fact Sheet (UC Davis)</li>
-    <li>Planting Fact Sheet  (UC Davis)</li>
-    <li>Intercropping Fact sheet (UC Davis)</li>
-    <li>Shaping Fact Sheet  (UC Davis)</li>
-    <li>General Pruning Manual پشتو  (Pashto)</li>
-    <li>Fertilization Fact Sheet (IFA)</li>
-    <li>Irrigation:</li>
-    <ul>
-      <li>Underground Irrigation System Fact Sheet  (UC Davis)</li>
-      <li>Scheduling Fact Sheet  (UC Davis)</li>
-      <li>Irrigation of Perennial Crops Manual (3.4 MB) (Roots of Peace)</li>
-      <li>Principles of Irrigation of Trees and Vines PPT as PDF English (2.8MB) and (Dari) دری (4.6 MB) (UC Davis)</li>
-      <li>Drip Irrigation Manual (11.7MB) (IDE)</li>
-    </ul>
-  </ul>
-</div>
+<ul><li>
+<p>Production and Post Harvest Manual <strong><a title="Citrus manual" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Fruit_Citrus_Prod_red.pdf" class="internal-link" >English</a></strong> (2.5 MB) and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/citrus/Citrus.pdf" class="internal-link" title="Citrus Production Manual (Dari Language)">(Dari) دری</a></span></strong> (2.5 MB) (UC Davis)</p>
+</li>
+</ul><ul><li>Variety Selection:</li>
+<ul><li>For certified saplings contact <a class="external-link" href="http://afghanistanhorticulture.org/"><strong>PHDP </strong></a>(Perennial Horticulture Development Project)<strong></strong></li>
+<li>PHDP Varietal Selection and Production <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocitruspdf.pdf" class="internal-link" ><strong>English</strong></a> (excerpt), <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocatalogue201314dari.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (9.9 MB) and <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocatalogue201314pashto.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
+<li>National Nursery Growers' Association Locations and Contacts<a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/ananngonationalnurserygrowersassociationpdf.pdf" class="internal-link" ><strong> PDF</strong></a> (ANNGO Catalog 2013, PHDP/EU)</li>
+</ul></ul><ul><li>
+<p>Site Selection <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_site_selection.doc" class="internal-link" title="Citrus - Site Selection">Fact Sheet</a></strong>  (UC Davis)</p>
+</li>
+<li>
+<p>Site Layout <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Layout.doc" class="internal-link" title="Citrus - Site Layout">Fact Sheet</a></strong>  (UC Davis)</p>
+</li>
+<li>
+<p>Orchard Establishment <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Establishment.doc" class="internal-link" title="Citrus Orchard Establishment">Fact Sheet</a></strong>  (UC Davis)</p>
+</li>
+<li>
+<p>Planting <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_planting.doc" class="internal-link" title="Citrus - Planting">Fact Sheet</a></strong>  (UC Davis)</p>
+</li>
+<li><span>Intercropping </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/fs-tree-intercrop.pdf" class="internal-link" >Fact sheet</a></strong><span> (UC Davis)</span></li>
+<li>Shaping <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_shaping.doc" class="internal-link" title="Citrus - Shaping">Fact Sheet</a></strong>  (UC Davis)</li>
+<li><span>General Pruning </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/Prunning-1.doc" class="internal-link" >Manual <strong>پشتو </strong> (Pashto)</a></strong></li>
+<li>
+<p>Fertilization <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Citrus_Fert_WFUM_IFA.pdf" class="internal-link" title="Citrus Fertilization IFA">Fact Sheet</a></strong> (IFA)</p>
+</li>
+<li>
+<p>Irrigation</p>
+</li>
+<ul><li>
+<p>Underground Irrigation System <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Irrigation.doc" class="internal-link" title="Citrus - Irrigation">Fact Sheet</a></strong>  (UC Davis)</p>
+</li>
+<li>
+<p>Scheduling <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Irrigation_sched.doc" class="internal-link" title="Citrus - Irrigation Schedule">Fact Sheet</a></strong>  (UC Davis)</p>
+</li>
+<li>
+<p>Irrigation of Perennial Crops <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/Irrigation_Manual_August_2008.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (3.4 MB) (Roots of Peace)</p>
+</li>
+<li>
+<p>Principles of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) and <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</p>
+</li>
+<li>
+<p>Drip Irrigation <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Irr_Drip_Technical_IDE.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (11.7MB) (IDE)</p>
+</li>
+</ul></ul>

@@ -57,3 +57,11 @@ missing:
 - http://afghanag.ucdavis.edu/educational-materials/principes-of-soil/soil-ppt-presentations/PPT_Lamotte_Soil_Test_Kit_USDA_Dari.pdf
 - http://afghanag.ucdavis.edu/educational-materials/principes-of-soil/soil-ppt-presentations/AJAY.training-soil-and-crop-mgnt.pdf
 - http://afghanag.ucdavis.edu/educational-materials/extension/edliveafgpurdueunitblesson3animalreproductiontechnologylp.pdf
+
+
+
+fruits missing:
+- http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/apples/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
+Apple production by province Interactive Map (UC Davis)
+Cultivated Area by Province Interactive Map (UC Davis)
+does not work

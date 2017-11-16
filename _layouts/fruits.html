@@ -24,6 +24,9 @@ layout: default
 			{% if page.pest-management %}
 				<li> <a target="_blank" href="/#pest-management">Pest Management</a></li>
 			{% endif %}
+			{% if page.nursery-management %}
+				<li> <a target="_blank" href="/#pest-management">Pest Management</a></li>
+			{% endif %}
 			{% if page.post-harvest %}
 				<li> <a target="_blank" href="/#post-harvest">Post Harvest</a></li>
 			{% endif %}
@@ -85,6 +88,14 @@ layout: default
 <h3>Pest Management for {{page.title}}</h3>
 <ul>
 {% for row in page.pest-management %}
+	<li>{{row}}</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% if page.nursery-management %}
+<h3>Nusery Management for {{page.title}}</h3>
+<ul>
+{% for row in page.nursery-management %}
 	<li>{{row}}</li>
 {% endfor %}
 </ul>
