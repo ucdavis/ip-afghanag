@@ -47,7 +47,7 @@ links: ""
 
 <h3><a name="nursery-management" id="nursery-management"></a> <strong>Nursery management<br /></strong></h3>
 <ul><li>Grapevine Nursery Management <strong><a title="Multiplication of Grapevines in Nurseries" href="/fruits-nuts-vegetables/Fruits/files/grapes/manuals/Production_Manual_grapes.pdf" class="internal-link" >Manual</a></strong> (3 MB) (UC Davis and Roots of Peace)</li>
-<li>Cutting Management <a title="" href="/fruits-nuts-vegetables/Fruits/files/grapes/ExtensionToolkitNotes10_PropagationofGrapevines.pdf.pdf" class="internal-link" ><strong><span class="internal-link">Fact Sheet</span></strong></a> (Roots of Peace)</li>
+<li>Cutting Management <a title="" href="/fruits-nuts-vegetables/Fruits/files/grapes/ExtensionToolkitNotes10_PropagationofGrapevines.pdf" class="internal-link" ><strong><span class="internal-link">Fact Sheet</span></strong></a> (Roots of Peace)</li>
 <li>Grafting <strong><a href="/fruits-nuts-vegetables/Fruits/files/grapes/FS_Fruit_Grape_grafting.doc" class="internal-link" title="Grape - Grafting">Fact Sheet</a></strong> (UC Davis)</li>
 </ul><ol></ol><ul><li>Grafting Chip</a></strong>,<strong> <a href="/videos/t-bud-graft-in-the-field" class="internal-link" title="T-Bud Graft in the Field">T-Bud</a></strong>,<strong> </strong>and <a href="/videos/bench-graft" class="internal-link" title="Bench Graft"><strong>Bench</strong></a> (From commercial company sources)<strong><br /></strong></li>
 </ul><ol></ol><h3><a name="production" id="production"></a><strong>Production</strong> </h3>
