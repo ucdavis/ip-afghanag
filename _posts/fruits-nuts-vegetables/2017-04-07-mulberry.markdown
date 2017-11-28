@@ -17,20 +17,30 @@ problem-opportunities:
   - "<b>Priority opportunities</b> include: improved drying practices (sanitation, cleanliness, such as solar drier) and training in proper processing to meet standards for sale and export."
   - "These priorities and opportunities based on feedback from Sharif Shah Reshteen."
 overview:
-  - "About Mulberries Info Sheet (UC Davis)"
-  - "Fresh and dried mulberries are famous in the northern provinces, especially the provinces along the highway from Kabul to Balkh province.  The provinces with the most prominent commercial production are: Badakhshan, Kapisa, Kunar, Laghman, Nangharhar, Nimroz, Nuristan, Parwan, Panjshir, Samanghan, Takhar.  During the harvest season (June-September) you can find fruit stands every 500 meters selling mulberries and grapes on the highway from Kabul to the north of the country."
+  - 'About Mulberries <a href="/fruits-nuts-vegetables/Fruits/files/mulberry/IS_Fruit_Mulberry.pdf" class="internal-link" title="Mulberry overview">Info Sheet</a>'
+  - "Fresh and dried mulberries are famous in the northern provinces, especially the provinces along the highway from Kabul to Balkh province.  The provinces with the most prominent commercial production are: Badakhshan, Kapisa, Kunar, Laghman, Nangharhar, Nimroz, Nuristan, Parwan, Panjshir, Samanghan, Takhar.  During the harvest season (June-September) you can find fruit stands every 500 meters selling mulberries and mulberry on the highway from Kabul to the north of the country."
 crop-calendar:
   - "Grape Crop Calendar Fact Sheet (for California-like conditions) (UC Davis)"
 pest-management:
-  - "Mulberries are generally free of pests and diseases, although cankers and dieback can occur. In some areas \"popcorn disease\" is an occasional problem, in which fruits swell to resemble popped corn.  M. alba and M. rubra hybrids are particularly prone to this condition. Significant pests include fig tree borer."
+  - "Mulberries are generally free of pests and diseases, although cankers and dieback can occur. In some areas \"popcorn disease\" is an occasional problem, in which fruits swell to resemble popped corn.  M. alba and M. rubra hybrids are particularly prone to this condition. Significant pests include fig <a href=''>tree borer.</a>"
   - "See Pest Identification Cards and general Pest Management Page"
-  - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
+  - 'Nursery Weed Management Fact Sheet<strong> </strong><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/nursery-weed-management-fact-sheet" class="internal-link" target="_self">English</a></strong> and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/mulberry/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" title="Almond Weeding - Dari">(Dari) دری</a></span> </strong>(UC Davis for Roots of Peace)'
 post-harvest:
   - "The fruits of mulberries are often harvested by spreading a sheet on the ground and shaking the limbs. A significant quantity can be gathered from a comparatively small and young tree."
-  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
-  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
+  - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Fruits/files/mulberry/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
+  - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/mulberry/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
 
 market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+<ul>
+<li>Production <a href="/fruits-nuts-vegetables/Fruits/files/mulberry/Man_Fruit_Mulberry_CRFG.pdf" class="internal-link" title="Mulberry Manual"><strong>Manual</strong></a> (California Rare Fruit Growers)</li>
+<li>Fertilization <a href="/fruits-nuts-vegetables/Fruits/files/mulberry/FS_Mulberry_Fert_WFUM_IFA.pdf" class="internal-link" title="Mulberry Fertilization"><strong>Fact Sheet</strong></a> (IFA)</li>
+<li><span>Intercropping </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/fact-sheet-orchards-intecropping" class="internal-link" >Fact sheet</a></strong><span> (UC Davis)</span></li>
+<li><span>General Pruning </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/Prunning-1.doc" class="internal-link" >Manual <strong>پشتو </strong> (Pashto)</a></strong></li>
+<li>Water management
+<ul><li>Irrigation of Perennial Crops <a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/Irrigation_Manual_August_2008.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (3.4 MB) (Roots of Peace)</li>
+<li>Principals of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/PPT_Irr_Mgt_Trees_Vines" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</li>
+<li>Drip irrigation <a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/Man_Irr_Drip_Technical_IDE.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (11.7MB) (IDE)</li>
+</ul></li>

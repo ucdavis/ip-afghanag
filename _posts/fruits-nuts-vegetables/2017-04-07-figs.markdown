@@ -26,6 +26,16 @@ pest-management:
 <h4>Tree Borer</h4>
 <p><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/figs/figs-tree-borer-fact-sheet" class="internal-link" >Fact Sheet </a></strong>(UC Davis)</p>
 <a title="Insect - Aphids" href="/fruits-nuts-vegetables/Fruits/files/figs/fig-stem-borer" class="internal-link" ><img src="/fruits-nuts-vegetables/Fruits/files/figs/b61e4ee5-35c6-41b5-8b62-059180079a40.jpeg" alt="Aphid general" class="image-inline" title="Fig Stem Borer" /></a></div>'
+post-harvest:
+- '
+<p>10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Fruits/files/figs/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)</p>
+'
+- '
+<p>Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/figs/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)</p>
+'
+- '
+<p>Maintaining Postharvest Quality <a href="/fruits-nuts-vegetables/Fruits/files/figs/FS_Fruit_Fig_PH_RIC.pdf" class="internal-link" title="Post-harvest quality"><strong>Fact Sheet</strong></a> (UC Davis PHTC)</p>
+'
 market-information-link: ""
 photo-gallery: ""
 links: ""

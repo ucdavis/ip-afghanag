@@ -21,25 +21,50 @@ problem-opportunities:
   - "<b>Priority opportunities</b>  include improved harvesting techniques to prevent fruit splitting, and improved grading and sorting practices. "
   - "These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants, Afghan specialists, Muhammad Aziz Saeedi (PHDC-Jalalabad/ANHDO), agricultural experts at Kandahar University, Kandahar DAIL, and Tom Brown."
 overview:
-  - "Crop Overview Fact Sheet (UC Davis)"
-  - "Pomegranates Checklist Fact Sheet (Paul Sommers)"
-  - "Status of Pomegranate Production in Afghanistan PPT as a PDF (Dr Samadi, Kabul University)"
-  - "Pomegranate Production by Province Interactive Map (UC Davis)"
-  - "Cultivated Area by Province Interactive Map (UC Davis)"
+- 'Crop Overview <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Fruit_Pomegranates.pdf" class="internal-link" title="Pomegranate Overview">Fact Sheet</a></strong> (UC Davis)'
+- 'Pomegranates Checklist <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Pomegranate_Checklist_Sommers.pdf" class="internal-link" title="Pomegranate Checklist">Fact Sheet</a></strong> (Paul Sommers)'
+- 'Status of Pomegranate Production in Afghanistan <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/pomegranate-powerpoint-presentations/Status-Pomegranate-cultivation-Afghanistan.ppt" class="internal-link" target="_self"><span class="internal-link"><strong>PPT</strong></span><strong> as a PDF</strong></a> (Dr Samadi, Kabul University) '
+- 'Pomegranate Production by Province <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/province-pomegranate-production-by-volume-2011-2012" class="internal-link" title="Province Pomegranate Production by Volume 2011-2012"><strong>Interactive Map</strong></a> (UC Davis)'
+- 'Cultivated Area by Province <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/province-pomegranate-production-by-area-2011-2012" class="internal-link" title="Province Pomegranate Production by Area 2011-2012">Interactive Map</a></strong> (UC Davis)'
 crop-calendar:
-  - "Fact Sheet (UC Davis)"
+- '<strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/IS_Fruit_Pomegranate_calendar.pdf" class="internal-link" title="Pomegranate Cropping Calendar">Fact Sheet</a></strong> (UC Davis)'
 pest-management:
   - "See Pest Identification Cards and general Pest Management Page"
   - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
 post-harvest:
-  - "Improved cultural practices can help prevent fruit splitting. Pick fruits at optimal timing: when fully ripe they should make a metallic sound when tapped.  The ripe fruit should be carefully selected and picked by hand and not pulled from the tree. Grade according to quality and keep different qualities separate."
-  - "10 Principles of Postharvest Management Fact Sheet (UC Davis)"
-  - "Principles of GAP (Good Agricultural Practices) Fact Sheet (UC Davis)"
-  - "Postharvest Options PPT as PDF (1.3 MB) (Ludhiana University, India)"
-  - "Maintaining Quality of Pomegranates PPT as PDF (4.2 MB) (UC Davis)"
-  - "Example of Standards Fact Sheet (Fresh Spec)"
-  - "General Postharvest Page"
+- "Improved cultural practices can help prevent fruit splitting. Pick fruits at optimal timing: when fully ripe they should make a metallic sound when tapped.  The ripe fruit should be carefully selected and picked by hand and not pulled from the tree. Grade according to quality and keep different qualities separate."
+- '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
+- 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
+- 'Postharvest Options <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/pomegranate-powerpoint-presentations/PPT_Fruit_Pomeg_Postharvest_CIPHET_Ludhiana" class="internal-link" target="_self"><strong><span class="internal-link">PPT as PDF</span></strong></a> (1.3 MB) (Ludhiana University, India)'
+- 'Maintaining Quality of Pomegranates <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/pomegranate-powerpoint-presentations/PPT_Fruit_Pomeg_Postharvest_UCD.pdf" class="internal-link" title="Maintaining quality of Pomegranates"><strong>PPT as PDF</strong></a> (4.2 MB) (UC Davis)'
+- 'Example of Standards <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate_Specification.pdf" class="internal-link" target="_self"><strong><span class="internal-link">Fact Sheet</span></strong></a> (Fresh Spec)'
+- 'General Postharvest <a title="" href="http://afghanag.ucdavis.edu/other-topic/postharvest" class="internal-link" target="_self"><strong>Page</strong></a>'
 market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+<ul>
+<li>
+<p>Full Production Manual <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate%20manuals/Pomegranate_manual.pdf" class="internal-link" title="Pomegranate Manual">English</a></strong> (1 MB), <strong><span class="internal-link"><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate%20manuals/Pomegranate_production_in_Afghan_Dari_2.pdf" class="internal-link" >(Dari) دری</a> </span></span></strong><span class="internal-link">(1 MB) and</span> <strong><a title="Pomegranate production in Afghanistan - Pashto" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate%20manuals/Pomegranate_Product_in_Afghanistan_Pashto.pdf" class="internal-link" >پشتو (Pashto) </a></strong>(1 MB) (UC Davis)</p>
+</li>
+<li>
+<p>Quality and Productivity Improvement Manual <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate%20manuals/Man_Pomegranate_quality_productivity_improvement_English.pdf" class="internal-link" title="Manual Pomegranate Quality and Productivity Improvement - English">English</a></strong> (4.2 MB) and <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate%20manuals/Man_Pomegranate_quality_productivity_improvement_Pashto.pdf" class="internal-link" title="Manual Pomegranate Quality and Productivity Improvement - Pashto"><strong>پشتو (Pashto)</strong></a> (3.9 MB) (RONNA)</p>
+</li>
+<li>Variety Options <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate_Varieties_Locations_Production_Area.xls" class="internal-link" ><strong><span class="internal-link">Fact Sheet</span></strong></a> (UC Davis) </li>
+</ul><ul style="text-align: start; "><ul><li>For certified sapling contact<span class="Apple-converted-space"> </span><a class="external-link" href="http://afghanistanhorticulture.org/"><strong>PHDP<span class="Apple-converted-space"> </span></strong></a>(Perennial Horticulture Development Project)<strong></strong></li>
+<li>PHDP Varietal Selection and Production<span class="Apple-converted-space"> </span><a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate%20manuals/mananngopomegranatepdf.pdf" class="internal-link" ><strong>English</strong></a><span class="Apple-converted-space"></span> (excerpt), <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/mananngocatalogue201314dari.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (9.9 MB) and <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/mananngocatalogue201314pashto.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
+<li>National Nursery Growers' Association Locations and Contacts<a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/mananngonationalnurserygrowersassociationpdf.pdf" class="internal-link" ><strong><span class="Apple-converted-space"> </span>PDF</strong></a><span class="Apple-converted-space"> </span>(ANNGO Catalog 2013, PHDP/EU)</li>
+</ul></ul><ul><li>Planting</li>
+</ul><ol></ol><ul><li>Planning<strong> </strong>Fact Sheet<strong> <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Fruit_Pomeg_Establishment.doc" class="internal-link" title="Pomegranate - Orchard Site Establishment I">English</a></strong> and <span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Fruit_Pomeg_Establishment_I_Dari.pdf" class="internal-link" title="Pomegranate Orchard Site Establishment I - Dari"><strong>(Dari) دری</strong></a></span> (UC Davis)</li>
+</ul><ul><li>Establishing <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Fruit_Pomeg_Establishment%20II.doc" class="internal-link" title="Pomegranate - Orchard Site Establishment II"><strong>Fact Sheet</strong></a> (UC Davis)  </li>
+</ul><ul><li><span>Intercropping </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/fact-sheet-orchards-intecropping" class="internal-link" >Fact sheet</a></strong><span> (UC Davis)</span></li>
+<li>Training and Pruning Fact Sheet <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Fruit_Pomeg_shaping.doc" class="internal-link" title="Pomegranate - Shaping Trees"><strong>English</strong></a> and <span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_Fruit_Pomeg_Shaping_Dari.pdf" class="internal-link" title="Pomegranate - Shaping trees - Dari"><strong>(Dari) دری</strong></a></span> (UC Davis) </li>
+<li><span>General Pruning </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Prunning-1.doc" class="internal-link" >Manual <strong>پشتو </strong> (Pashto)</a></strong></li>
+<li>Irrigation</li>
+<ul><li>Irrigation of Perennial Crops <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Irrigation_Manual_August_2008.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (3.4 MB) (Roots of Peace)</li>
+<li>Principals of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/PPT_Irr_Mgt_Trees_Vines" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) and <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</li>
+<li>Drip Irrigation <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Man_Irr_Drip_Technical_IDE.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (11.7MB) (IDE)</li>
+</ul></ul><div>
+<ul><li>Production by Province <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/province-pomegranate-production-by-volume-2011-2012" class="internal-link" title="Province Pomegranate Production by Volume 2011-2012">Interactive Map</a></strong> (UC Davis)</li>
+<li>Cultivated Area by Province <strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/province-pomegranate-production-by-area-2011-2012" class="internal-link" title="Province Pomegranate Production by Area 2011-2012">Interactive Map</a></strong> (UC Davis)</li>
+</ul>

@@ -65,3 +65,13 @@ fruits missing:
 Apple production by province Interactive Map (UC Davis)
 Cultivated Area by Province Interactive Map (UC Davis)
 does not work
+http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/figs-1/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
+http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/mulberry/Nut_Almond_tree_borer.doc
+http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/mulberry/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
+http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/plum/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
+
+http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/apples/mananngocatalogue201314dari.pdf
+http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/pomegranate/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
+
+
+nuts missing:

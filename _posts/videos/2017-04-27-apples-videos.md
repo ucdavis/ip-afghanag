@@ -1,8 +1,8 @@
 ---
 layout: country-info
-title: Video- Fruit Thinning
+title: Video - Fruit Thinning
 arabic:
-permalink: /video/fruit-thinning
+permalink: /video/video-fruit-thinning
 intro: "N. Omarkhil (ANHDO) explains why thinning fruit trees is important and demonstrates how to prune (thin) apples."
 overview:
 tags: video
