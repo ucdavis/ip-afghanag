@@ -72,6 +72,7 @@ http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/plum/fact-sheets-farsi-d
 
 http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/apples/mananngocatalogue201314dari.pdf
 http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/pomegranate/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
+http://afghanag.ucdavis.edu/a_horticulture/nut-trees/pistachios/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx
 
 
 nuts missing:
