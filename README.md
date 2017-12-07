@@ -77,3 +77,9 @@ http://afghanag.ucdavis.edu/a_horticulture/nut-trees/pistachios/fact-sheets-fars
 
 nuts missing:
 http://afghanag.ucdavis.edu/a_horticulture/nut-trees/almonds/fact-sheets/FS_Almond_Orchard%20GAP_EC.doc
+
+vegetables missing:
+http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber/Nut_Almond_bacterial_canker.doc
+http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber/Nut_Almond_bacterial_canker.doc
+http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber/Nut_Almond_bacterial_canker.doc
+http://afghanag.ucdavis.edu/c_livestock/bees/FS_Veg_Honey_bee_pollination_cucurbits_UCD.pdf
