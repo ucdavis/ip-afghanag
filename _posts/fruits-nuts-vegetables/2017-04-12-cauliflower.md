@@ -35,6 +35,7 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+<ul>
 <li>Cauliflower Production Excerpt<strong> <a title="" href="/fruits-nuts-vegetables/Vegetables/files/cauliflower/manhortusaidcauliflowerproductionmgmntpashto.pdf" class="internal-link" target="_self">پشتو (Pashto)</a></strong> (USAID ADP/E)</li>
 <ul><li>Problem Diagnosis <a href="/fruits-nuts-vegetables/Vegetables/files/cauliflower/FS_Veg_Cauliflower_Prob_Diag_UCD_VRIC.pdf" class="internal-link" title="Cauliflower - Problem Diagnosis"><strong>Fact Sheet</strong></a> (UC Davis VRIC)</li>
 <li>Cauliflower Fertilization <a href="/fruits-nuts-vegetables/Vegetables/files/cauliflower/FS_Veg_Cauliflower_Fert_IFA.pdf" class="internal-link" title="Cauliflower fertilization - IFA"><strong>Fact Sheet</strong></a> (IFA)</li>

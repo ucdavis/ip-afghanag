@@ -83,3 +83,6 @@ http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber/Nut_Almond_bacteri
 http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber/Nut_Almond_bacterial_canker.doc
 http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber/Nut_Almond_bacterial_canker.doc
 http://afghanag.ucdavis.edu/c_livestock/bees/FS_Veg_Honey_bee_pollination_cucurbits_UCD.pdf
+
+http://afghanag.ucdavis.edu/a_horticulture/row-crops/potatoes/Nut_Almond_leaf_scorch.doc
+http://afghanag.ucdavis.edu/a_horticulture/row-crops/potatoes/Nut_Almond_leaf_scorch.doc
