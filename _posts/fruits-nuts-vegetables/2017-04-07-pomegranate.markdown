@@ -29,7 +29,7 @@ overview:
 crop-calendar:
 - '<strong><a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/IS_Fruit_Pomegranate_calendar.pdf" class="internal-link" title="Pomegranate Cropping Calendar">Fact Sheet</a></strong> (UC Davis)'
 pest-management:
-  - "See Pest Identification Cards and general Pest Management Page"
+  - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
   - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
 post-harvest:
 - "Improved cultural practices can help prevent fruit splitting. Pick fruits at optimal timing: when fully ripe they should make a metallic sound when tapped.  The ripe fruit should be carefully selected and picked by hand and not pulled from the tree. Grade according to quality and keep different qualities separate."

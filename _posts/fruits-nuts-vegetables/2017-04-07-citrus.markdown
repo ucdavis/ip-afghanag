@@ -21,7 +21,7 @@ overview:
 crop-calendar:
 - 'Citrus crop calendar <strong><a title="Crop Calendar Citrus" href="/fruits-nuts-vegetables/Fruits/files/citrus/IS_Fruit_Citrus_Crop_Calendar" class="internal-link" >Fact Sheet</a></strong> (for California-like conditions) (UC Davis)<strong><br /></strong>'
 pest-management:
-- "See Pest Identification Cards and general Pest Management Page"
+- 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 - 'Nursery Weed Management Fact Sheet<strong> </strong><strong><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/fs-nursery-weeds.pdf" class="internal-link" target="_self">English</a></span></strong> and <strong><span class="rtl" dir="rtl"><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" target="_self">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
 post-harvest:
 - '

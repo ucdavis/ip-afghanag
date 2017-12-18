@@ -30,7 +30,7 @@
                 <li class="dropdown-submenu">
                   <a tabindex="-1" href="/fruits-nuts-vegetables/Fruits">Fruits</a>
                   <ul class="dropdown-menu">
-                    {% for post in site.tags.fruit %}
+                    {% for post in site.tags.fruit reversed  %}
               				<li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
               			{% endfor %}
                   </ul>
@@ -38,7 +38,7 @@
                 <li class="dropdown-submenu">
                   <a tabindex="-1" href="/fruits-nuts-vegetables/Nuts">Nuts</a>
                   <ul class="dropdown-menu">
-                    {% for post in site.tags.nuts %}
+                    {% for post in site.tags.nuts reversed %}
                       <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                     {% endfor %}
                   </ul>
@@ -46,7 +46,7 @@
                 <li class="dropdown-submenu">
                   <a tabindex="-1" href="/fruits-nuts-vegetables/Nuts">Vegetables</a>
                   <ul class="dropdown-menu">
-                    {% for post in site.tags.vegetables %}
+                    {% for post in site.tags.vegetables reversed %}
                       <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                     {% endfor %}
                   </ul>
@@ -58,7 +58,7 @@
                   Grains & Field Crops <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.crops %}
+                {% for post in site.tags.crops reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>
@@ -68,7 +68,7 @@
                   Livestock <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.livestock %}
+                {% for post in site.tags.livestock reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>
@@ -78,7 +78,7 @@
                   Irrigation and Natural Resource Management <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.management %}
+                {% for post in site.tags.management reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>
@@ -88,7 +88,7 @@
                   Pest Management <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.pest-main %}
+                {% for post in site.tags.pest-main reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
                 <li><a tabindex="-1" href="/pest-management/pesticide-use">Pesticide Use and Safety</a></li>
@@ -99,7 +99,7 @@
                   Other Topics <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.other-topics %}
+                {% for post in site.tags.other-topics reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>
@@ -109,7 +109,7 @@
                   Country Info <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.country-info %}
+                {% for post in site.tags.country-info reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>
@@ -119,7 +119,7 @@
                   Educational Materials <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.educational %}
+                {% for post in site.tags.educational reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>
@@ -129,7 +129,7 @@
                   Contact Link<span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
-                {% for post in site.tags.contact-link %}
+                {% for post in site.tags.contact-link reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
               </ul>

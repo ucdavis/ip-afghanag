@@ -16,7 +16,7 @@ problem-opportunities:
 overview:
   - 'About Figs <a href="/fruits-nuts-vegetables/Fruits/files/figs/FS-Fruits_Fig.pdf" class="internal-link" title="Figs Factsheet">Fact Sheet</a> (UC Davis)'
 pest-management:
-- "See Pest Identification Cards and general Pest Management Page"
+- 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 - 'Nursery Weed Management Fact Sheet<strong> <a title="" href="/fruits-nuts-vegetables/Fruits/nursery-weed-management-fact-sheet" class="internal-link" >English</a> </strong>and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/figs/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" title="Almond Weeding - Dari">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
 - '<div class="menuitem">
 <h4>Mosaic Virus</h4>

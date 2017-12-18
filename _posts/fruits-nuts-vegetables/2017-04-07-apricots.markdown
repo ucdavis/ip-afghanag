@@ -22,7 +22,7 @@ crop-calendar:
   - '<a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Fruit_Apricots_calendar.doc.docx" class="internal-link" title="Apricot Calendar"><strong>Fact Sheet</strong></a> (UC Davis)'
 pest-management:
   - "Common pests in <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a> include: shot hole disease, bacterial canker, verticillium wilt, brown rot blossom & twig blight, peach twig borer, mealy plum aphid."
-  - "See Pest Identification Cards and general Pest Management Page"
+  - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
   - 'Nursery Weed Management Fact Sheet<strong> <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" >English</a> </strong> and<span class="rtl" dir="rtl"><strong><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Nut_Almond_Nursery_Dari.pdf" class="internal-link" >(Dari) دری</a>  </strong></span>(UC Davis for Roots of Peace)'
 post-harvest:
   - 'Apricot Drying <a href="/video/apricots-drying-video" class="internal-link" title="Apricot Drying Video">Video</a>'

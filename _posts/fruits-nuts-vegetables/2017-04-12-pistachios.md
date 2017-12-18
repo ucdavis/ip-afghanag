@@ -29,7 +29,7 @@ nursery-management:
 pest-management:
 - 'Pest Management <a title="" href="/fruits-nuts-vegetables/Nuts/files/pistachio/Pistachio_Pests_Diseases_HASNA.pptx" class="internal-link" ><strong><span class="internal-link">PPT as PDF</span></strong></a> (2.8 MB) (UC Davis)'
 - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
-- "See Pest Identification Cards and general Pest Management Page"
+- 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 post-harvest:
 - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Nuts/files/pistachio/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
 - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Nuts/files/pistachio/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'

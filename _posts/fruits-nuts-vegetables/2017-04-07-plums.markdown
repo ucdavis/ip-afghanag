@@ -21,7 +21,7 @@ overview:
 crop-calendar:
 - 'Plum Crop Calendar <strong><span class="internal-link"><a title="" href="/fruits-nuts-vegetables/Fruits/files/plums/FS_Fruit_Plum_Calendar_Geisel_Unruh_Vossen" class="internal-link" target="_self">Fact Sheet</a> </span></strong><span class="internal-link">(for California-like conditions)</span> (UC Davis) '
 pest-management:
-- "See Pest Identification Cards and general Pest Management Page"
+- 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 - 'Nursery Weed Management Fact Sheet<strong> </strong><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/mulberry/nursery-weed-management-fact-sheet" class="internal-link" target="_self">English</a></strong> and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/mulberry/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" title="Almond Weeding - Dari">(Dari) دری</a></span> </strong>(UC Davis for Roots of Peace)'
 post-harvest:
 - 'Harvesting and Storage <strong><a href="/fruits-nuts-vegetables/Fruits/files/plums/FS_Fruit_Plums_PH_UC%20IPM.pdf" class="internal-link" title="Harvesting and storage">Fact Sheet</a></strong> (UC IPM)'

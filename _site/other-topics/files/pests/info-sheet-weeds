@@ -1,0 +1,648 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="A repository of agricultural materials designed to help farmers in Afghanistan. This initiative grew out of the efforts of FAS in Afghanistan.&#10;&#10;&#10;&#10;&#10;&#10;&#10;&#10;For site information, contact Dr Mark Bell mozbell@ucdavis.edu " name="description" /><link rel="stylesheet" type="text/css" media="screen" href="http://afghanag.ucdavis.edu/portal_css/Sunburst%20Theme/A.reset-cachekey-36f547eb411f1cb4a8ea5f0c300c2ccd.css+base-cachekey-797055012f9b2a19901df690abaf33da.css+collective.js.jqueryui.custom.min-cachekey-9c5a76b0a9eae8551a41ffb1896f0187.css+columns-cachekey-3581b39477d58b2f2bae366d76f73f00.css,Mcc.Q8RcTtwNXI.css.pagespeed.cf.U0oU5ftKbe.css" /><link rel="stylesheet" type="text/css" media="screen" href="http://afghanag.ucdavis.edu/portal_css/Sunburst%20Theme/resourcetinymce.stylesheetstinymce-cachekey-5dc12ea3ebc27da78bbe6f8c778bfbce.css" /><link rel="stylesheet" href="http://afghanag.ucdavis.edu/portal_css/Sunburst%20Theme/A.print-cachekey-4bc0913b2f39f0ae945f8df18735c6d9.css.pagespeed.cf.DwxklRrsDX.css" type="text/css" /><link rel="stylesheet" type="text/css" media="screen" href="http://afghanag.ucdavis.edu/portal_css/Sunburst%20Theme/A.dropdown-menu-cachekey-6570331cedec4df670d90641074285a7.css.pagespeed.cf.lVXW_8waod.css" /><style>.kupu-save-message{color:#fff;font-weight:bold;background-color:red;padding:.3em;position:fixed;top:0;right:0;z-index:999}#toolbar{background-color:#fff;width:auto;border:none}#toolbar button{border-color:#fff}#kupu-editor-iframe-text{border:1px solid #000}#kupu-colorchooser{display:none}</style><style media="screen">@media screen{div.overlay{width:auto;height:auto;display:none;margin:1em}div.overlay-iframe,div.overlay-ajax{width:60%;min-height:100px;z-index:99}div.overlay-iframe{height:60%}div.overlaybg div.close,div.overlay div.close{background-image:url(portal_css/Sunburst%20Theme/x++resource++plone.app.jquerytools.pb_close.png.pagespeed.ic.XoTisD0xiA.png);position:absolute;left:-14px;top:-14px;cursor:pointer;height:30px;width:30px}.pb-ajax{overflow-y:auto}.pb-ajax,.pb-image{background-color:#fff;border:1px solid #999;white-space:normal;box-shadow:0 0 3em .5em #666;-moz-box-shadow:0 0 3em .5em #666;-webkit-box-shadow:0 0 3em #666}.pb-ajax>div{width:92%;padding:1em}.pb-ajax .documentActions{display:none}div.overlay div.close span{display:block;height:1px;margin:-1px 0 0 -1px;overflow:hidden;padding:0;width:1px}div.overlay textarea{width:100%}div.overlay .link-parent{display:none}div.overlay #createGroup legend{display:none}div.overlay #createGroup fieldset{border:none}div.overlay p{margin-bottom:1em}div.overlay label{margin-bottom:.25em}div.overlay a:hover{color:#75ad0a}div.overlay a.selected{color:#000}div.overlay .formTab{margin-right:1em;font-weight:bold}div.overlay .formTab.lastFormTab{margin-right:0em}div.overlay .formControls a{display:block;margin:.75em}}</style><style media="all">@media all{.managePortletsAboveLink,.managePortletsBelowLink,.manageFooterPortletsLink,.manageInHeaderPortletsLink,.managePortletsBelowTitleLink{text-align:center;margin:0 auto 1em;clear:both}.portlet-manager-row .porlet-well_manager{width:30%;float:left;margin:1%}.portlet-manager-row{width:100%;float:left}div.width-1\:5{width:17.75%}div.width-2\:5{width:37.75%}div.width-3\:5{width:57.75%}div.width-4\:5{width:77.75%}div.position-1\:5{margin-left:-78.875%}div.position-2\:5{margin-left:-58.875%}div.position-3\:5{margin-left:-38.875%}div.position-4\:5{margin-left:-18.875%}div.width-1\:6{width:14.416%}div.width-5\:6{width:81.083%}div.position-1\:6{margin-left:-82.208%}div.position-5\:6{margin-left:-15.542%}ul.submenu a.state-published:hover,.selected ul.submenu .state-published{color:#335379!important}.rtl{display:inline-block;padding:0 3px}}</style><script type="text/javascript" src="http://afghanag.ucdavis.edu/portal_javascripts/Sunburst%20Theme/resourceplone.app.jquery-cachekey-b5d5d1873dc0eaef400fcb6e81eca73a.js.pagespeed.jm.GOw1iaIyeC.js"></script><script type="text/javascript">//<![CDATA[
+
+//]]></script><script type="text/javascript" src="http://afghanag.ucdavis.edu/portal_javascripts/Sunburst%20Theme/kss-bbb-cachekey-f72e751420b1e204d2da8d45feed3dc1.js.pagespeed.jm.H02NXP5coa.js"></script><link rel="shortcut icon" type="image/x-icon" href="http://afghanag.ucdavis.edu/favicon.ico" /><link rel="apple-touch-icon" href="http://afghanag.ucdavis.edu/touch_icon.png" /><link rel="alternate" href="http://afghanag.ucdavis.edu/RSS" title="Afghan Agriculture - RSS 1.0" type="application/rss+xml" /><link rel="alternate" href="http://afghanag.ucdavis.edu/rss.xml" title="Afghan Agriculture - RSS 2.0" type="application/rss+xml" /><link rel="alternate" href="http://afghanag.ucdavis.edu/atom.xml" title="Afghan Agriculture - Atom" type="application/rss+xml" /><link rel="search" href="http://afghanag.ucdavis.edu/@@search" title="Search this site" /><script type="text/javascript">//<![CDATA[
+function cookiesEnabled(){var c="areYourCookiesEnabled=0";document.cookie=c;var dc=document.cookie;if(dc.indexOf(c)==-1)return 0;c="areYourCookiesEnabled=1";document.cookie=c;dc=document.cookie;if(dc.indexOf(c)==-1)return 0;document.cookie="areYourCookiesEnabled=; expires=Thu, 01-Jan-70 00:00:01 GMT";return 1;}
+function setLoginVars(user_name_id,alt_user_name_id,password_id,empty_password_id,js_enabled_id,cookies_enabled_id){if(js_enabled_id){el=document.getElementById(js_enabled_id);if(el){el.value=1;}}
+if(cookies_enabled_id){el=document.getElementById(cookies_enabled_id);if(el){el.value=cookiesEnabled();}}
+if(user_name_id&&alt_user_name_id){user_name=document.getElementById(user_name_id)
+alt_user_name=document.getElementById(alt_user_name_id)
+if(user_name&&alt_user_name){alt_user_name.value=user_name.value;}}
+if(password_id&&empty_password_id){password=document.getElementById(password_id)
+empty_password=document.getElementById(empty_password_id)
+if(password&&empty_password){if(password.value.length==0){empty_password.value='1';}else{empty_password.value='0';}}}
+return 1;}
+function showCookieMessage(msg_id){msg=document.getElementById(msg_id)
+if(msg){if(cookiesEnabled()){msg.style.display='none';}else{msg.style.display='block';}}}
+function showEnableCookiesMessage(){showCookieMessage('enable_cookies_message')}
+registerPloneFunction(showEnableCookiesMessage);
+//]]></script><meta name="generator" content="Plone - http://plone.org" /><base href="http://afghanag.ucdavis.edu/" /><title>Afghan Agriculture</title><link href="http://v-ipo.caes.ucdavis.edu/Video/Diazo/css/ucdavis.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="http://use.typekit.net/mhk0waz.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script src="http://v-ipo.caes.ucdavis.edu/Video/Diazo/js/modernizr-2.6.2-respond-1.1.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1" /></head><body class="diazoed template-login_form portaltype-plone-site site-AfghanAg userrole-anonymous"><div id="portal-personaltools-wrapper">
+<p class="hiddenStructure">Personal tools</p>
+<ul class="actionMenu deactivated" id="portal-personaltools"><li id="anon-personalbar">
+<a href="http://afghanag.ucdavis.edu/login" id="personaltools-login">Log in</a>
+</li>
+</ul></div><section class="header"><div class="ucdavis-brand">
+<a href="http://ucdavis.edu"><img src="http://v-ipo.caes.ucdavis.edu/Video/Diazo/img/ucdavis-logo.png" alt="UC Davis Home" /></a>
+</div>
+<div id="portal-logo"><h1><h1 class="sitetitle"><a title="" href="http://afghanag.ucdavis.edu/new-front" class="internal-link" target="_self">Afghan Agriculture</a></h1></h1></div>
+<div id="portal-searchbox">
+<form id="searchGadget_form" action="http://afghanag.ucdavis.edu/@@search">
+<div class="LSBox">
+<label class="hiddenStructure" for="searchGadget">Search Site</label>
+<input name="SearchableText" type="text" size="18" title="Search Site" placeholder="Search Site" accesskey="4" class="searchField" id="searchGadget" /><input class="searchButton" type="submit" value="Search" /><div class="searchSection">
+<span class="dari">از اینجا برای جستجوی مواد دری و پشتو استفاده کنید </span>
+
+</div>
+<div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+</div>
+</form>
+<div id="portal-advanced-search" class="hiddenStructure">
+<a href="http://afghanag.ucdavis.edu/@@search" accesskey="5">
+Advanced Search…
+</a>
+</div>
+</div>
+<nav><ul><li id="portaltab-a_horticulture" class="plain"><a href="http://afghanag.ucdavis.edu/a_horticulture" class="plain" title="Horticulture related extension materials">Fruits, Nuts &amp; Vegetables</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees" class="state-published hasDropDown" title="">
+Fruits
+</a>
+<ul class="submenu navTree navTreeLevel1"><li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/apricots" class="state-published" title="">
+Apricots
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/apples" class="state-published" title="The initial priority problems for Afghanistan apples include:&#10;A.  Pollination&#10;B.  Planting (bed preparation) &#10;C.  Training &amp; Pruning&#10;D.  Variety selection&#10;E.  Integrated Pest Management:&#10;Codling moth, powdery mildew, apple scab, fire blight, wholly apple aphid, San Jose scale, green fruit worm, European red mite, green apple aphids, Bermuda grass.&#10;These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants and local people at the field level.&#10;">
+Apples
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/citrus" class="state-published" title="">
+Citrus
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/figs-1" class="state-published" title="">
+Figs
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/grapes" class="state-published" title="The initial priority problems for Afghanistan Grapes include:&#10;A.  Trellising&#10;B.  Pruning&#10;C.  Variety selection&#10;D.  Gibberellin application&#10;E.  Market information&#10;F.  IPM:&#10;&#9;Downy mildew, powdery mildew, cicadas, spider mites.&#10;&#10;These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants and local people at the field level.&#10;">
+Grapes and Raisins
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/mulberry" class="state-published" title="">
+Mulberry
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/peach" class="state-published" title="The initial priority problems for Afghanistan Apricots include:&#10;A.  Pollination &#10;B.  Planting (bed preparation) &#10;C.  Grafting&#10;D.  Training &amp; Pruning&#10;E.  Variety selection&#10;F.  Apricot Late Frost&#10;G.  IPM:&#10;Shot hole disease, bacterial canker, verticillium wilt, brown rot blossom &amp; twig blight, peach twig borer, mealy plum aphid.&#10;&#10;These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants and local people at the field level.&#10;">
+Peach and Nectarine
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/plum" class="state-published" title="">
+Plums and Prunes
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/fruits-trees/pomegranate" class="state-published" title="The initial priority problems for Afghanistan Pomegranates include:&#13;&#10;A.  Pollination&#13;&#10;B.  Training &amp; Pruning&#13;&#10;C.  IPM:&#13;&#10;&#9;Fruit borer (careb moth), aphids.&#13;&#10;&#13;&#10;These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants and local people at the field level.&#13;&#10;">
+Pomegranate
+</a>
+</li>
+</ul></li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/nut-trees" class="state-published hasDropDown" title="Materials (manuals, factsheets, power points, etc) ">
+Nuts
+</a>
+<ul class="submenu navTree navTreeLevel1"><li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/nut-trees/almonds" class="state-published" title="The initial priority problems for Afghanistan Almonds include:&#13;&#10;A.  Training &amp; Pruning&#13;&#10;B.  IPM&#13;&#10;European red mite, fruit tree leaf roller, San Jose scale, tree borers, bacterial canker, brown rot blossom blight, shot hole disease.&#13;&#10;&#13;&#10;These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants and local people at the field level.&#13;&#10;">
+Almonds
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/nut-trees/pistachios" class="state-published" title="&#13;&#10;">
+Pistachios
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/nut-trees/walnuts" class="state-published" title="">
+Walnuts
+</a>
+</li>
+</ul></li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops" class="state-published hasDropDown" title="Materials (manuals, factsheets, power points, etc) involving field vegetables and fruits (EG: tomatoes, melons, carrots, cabbage, etc).  ">
+Vegetables
+</a>
+<ul class="submenu navTree navTreeLevel1"><li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/carrot" class="state-published" title="">
+Carrot
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/cauliflower" class="state-published" title="">
+Cauliflower
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/cucumber" class="state-published" title="">
+Cucumber
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/eggplant" class="state-published" title="">
+Eggplant
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/leek" class="state-published" title="">
+Leek
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/melons" class="state-published" title="The initial priority problems for Afghanistan Melons include:&#13;&#10;A.  Pollination&#13;&#10;B.  IPM:&#13;&#10;Melon fly, white fly, cut worm, melon aphids, powdery mildew, anthracnose, fusarium wilt&#13;&#10;&#13;&#10;These draft priority problems are based on feedback from Afghanistan based on discussions with agricultural consultants and local people at the field level.&#13;&#10;">
+Melons
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/okra" class="state-published" title="">
+Okra
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/onions" class="state-published" title="">
+Onions and Garlic
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/peppers" class="state-published" title="">
+Peppers
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/potatoes" class="state-published" title="">
+Potatoes
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/tomato" class="state-published" title="">
+Tomato
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/a_horticulture/row-crops/other-vegetables" class="state-published" title="">
+Other Vegetable Crops
+</a>
+</li>
+</ul></li>
+</ul></li><li id="portaltab-b_field-crops" class="plain"><a href="http://afghanag.ucdavis.edu/b_field-crops" class="plain" title="CIMMYT and IRRI are two excellent sources of information for Wheat, Maize and Rice. Visit the Cereal knowledge Bank (See link below) or visit at: http://www.knowledgebank.irri.org ">Grains &amp; Field Crops</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/cotton" class="state-published" title="">
+Cotton
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/chickpea" class="state-published" title="">
+Chickpea
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/maize-1" class="state-published" title="">
+Maize
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/rice-1" class="state-published" title="">
+Rice
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/saffron-1" class="state-published" title="">
+Saffron
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/wheat-1" class="state-published" title="">
+Wheat
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/other" class="state-published hasDropDown" title="">
+Other
+</a>
+<ul class="submenu navTree navTreeLevel1"><li>
+<a href="http://afghanag.ucdavis.edu/b_field-crops/other/hing" class="state-published" title="">
+Hing
+</a>
+</li>
+</ul></li>
+</ul></li><li id="portaltab-c_livestock" class="plain"><a href="http://afghanag.ucdavis.edu/c_livestock" class="plain" title="No materials yet loaded">Livestock</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/c_livestock/bees" class="state-published" title="">
+Bees
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/c_livestock/camels" class="state-published" title="">
+Camels
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/c_livestock/cattle" class="state-published" title="">
+Cattle
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/c_livestock/goats" class="state-published" title="">
+Goats
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/c_livestock/poultry" class="state-published" title="">
+Poultry
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/c_livestock/sheep" class="state-published" title="">
+Sheep
+</a>
+</li>
+</ul></li><li id="portaltab-natural-resource-management" class="plain"><a href="http://afghanag.ucdavis.edu/natural-resource-management" class="plain" title="">Irrigation and Natural Resource Management</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/natural-resource-management/irrigation" class="state-published" title="">
+Irrigation
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/natural-resource-management/soil-topics" class="state-published" title="">
+Soils
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/natural-resource-management/forest-watershed-man" class="state-published" title="">
+Watersheds and Forestry
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/natural-resource-management/weather" class="state-published" title="Links to GPFA weather data - requires user sign in">
+Weather
+</a>
+</li>
+ </ul></li><li id="portaltab-pest-management" class="plain"><a href="http://afghanag.ucdavis.edu/pest-management" class="plain" title="">Pest Management</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/pest-management/insects" class="state-published" title="">
+Insects
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/pest-management/fungus-and-bacteria" class="state-published" title="">
+Fungus and Bacteria
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/pest-management/weeds" class="state-published" title="">
+Weeds
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/pest-management/pest-management-1" class="state-published" title="">
+Pesticide Use and Safety
+</a>
+</li>
+</ul></li><li id="portaltab-other-topic" class="plain"><a href="http://afghanag.ucdavis.edu/other-topic" class="plain" title="Topics that cross commodities - e.g., irrigation, soils, extension, etc.">Other Topics</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/other-topic/culture-and-extension" class="state-published" title="">
+Extension
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/other-topic/kitchen-gardens" class="state-published" title="">
+Kitchen Gardens
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/other-topic/markets" class="state-published" title="">
+Markets
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/other-topic/postharvest" class="state-published" title="">
+Postharvest
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/other-topic/seed" class="state-published" title="">
+Seed
+</a>
+</li>
+</ul></li><li id="portaltab-country-info" class="plain"><a href="http://afghanag.ucdavis.edu/country-info" class="plain" title="">Country Info and Food Security</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/country-info/country-info" class="state-published" title="">
+About Afghanistan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/culture-and-working-locally" class="state-published" title="">
+Culture and Working Locally
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/food-security" class="state-published" title="">
+Food Security
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/e-afghan-ag-maps-1" class="state-published" title="Collection of maps related to Afghan agriculture.">
+Maps
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles" class="state-published hasDropDown" title="">
+Province Info
+</a>
+<ul class="submenu navTree navTreeLevel1"><li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/badakshan" class="state-published" title="Province information for Badakshan">
+Badakshan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/badghis-province-information" class="state-published" title="">
+Badghis
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/baghlan" class="state-published" title="">
+Baghlan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/balkh" class="state-published" title="">
+Balkh
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/bamyan" class="state-published" title="">
+Bamyan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/daykundi" class="state-published" title="">
+Daikundy
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/farah" class="state-published" title="">
+Farah
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/faryab" class="state-published" title="">
+Faryab
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/ghazni" class="state-published" title="">
+Ghazni
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/ghor" class="state-published" title="">
+Ghor
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/helmand" class="state-published" title="">
+Helmand
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/hirat-herat" class="state-published" title="">
+Herat
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/jawzjan" class="state-published" title="">
+Jawzjan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/kabul" class="state-published" title="">
+Kabul
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/kandahar" class="state-published" title="">
+Kandahar
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/kapisa" class="state-published" title="">
+Kapisa
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/khost" class="state-published" title="">
+Khost
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/kunar" class="state-published" title="">
+Kunar
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/kunduz" class="state-published" title="">
+Kunduz
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/laghman" class="state-published" title="">
+Laghman
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/logar" class="state-published" title="">
+Logar
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/nangarhar" class="state-published" title="">
+Nangarhar
+ </a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/nimroz" class="state-published" title="">
+Nimroz
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/nuristan" class="state-published" title="">
+Nuristan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/paktika" class="state-published" title="">
+Paktika
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/paktya" class="state-published" title="">
+Paktya
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/panjher" class="state-published" title="">
+Panjshir
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/parwan" class="state-published" title="">
+Parwan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/samangan" class="state-published" title="">
+Samangan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/sar-e-pul" class="state-published" title="">
+Sar-e-Pul
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/takhar" class="state-published" title="">
+Takhar
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/uruzgan" class="state-published" title="">
+Uruzgan
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/wardak" class="state-published" title="">
+Wardak
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/country-info/Province-agriculture-profiles/zabul" class="state-published" title="The most important field crops grown in Zabul are wheat, maize, and flax. Potential opportunities for improvement include: Irrigation system (Kareze), bee keeping, financial services for farmers (Credit), field fertility/fertilizer, certified seeds, animal husbandry, value adding (product processing), and postharvest technology.">
+Zabul
+</a>
+</li>
+</ul></li>
+</ul></li><li id="portaltab-educational-materials" class="plain"><a href="http://afghanag.ucdavis.edu/educational-materials" class="plain" title="Materials designed for educators">Educational Materials</a>
+<ul class="mega submenu"><li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/a" class="state-published" title="">
+Agriculture Machinery
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/cattle-management" class="state-published" title="">
+Cattle Management
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/extension" class="state-published" title="">
+Extension
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/field-crops" class="state-published" title="">
+Field Crops
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/fruit-and-nuts" class="state-published" title="">
+Fruit and Nuts
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/poultry" class="state-published" title="">
+Poultry
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/agricultural-economics" class="state-published" title="">
+Agricultural Economics
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/animal-husbandry" class="state-published" title="">
+Animal Husbandry
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/principles-of-forestry" class="state-published" title="Principles of Forestry">
+Forestry
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/principles-of-horticulture" class="state-published" title="">
+Horticulture
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/principes-of-soil" class="state-published" title="These materials are designed to assist educators in planning and implementing agricultural lessons. Unlike other materials on e-Afghan Ag, these materials may assume some prior knowledge of agriculture, use agricultural terminology, or provide in-depth explanations. Vocational instructors, professors, and extension agents may find this information particularly useful. For a more practical approach to Soils, please visit the Soils tab under Natural Resource Management on the blue bar above.">
+Soil
+</a>
+</li>
+<li>
+<a href="http://afghanag.ucdavis.edu/educational-materials/agricultural-management-1" class="state-published" title="">
+Agricultural Management
+</a>
+</li>
+</ul></li></ul></nav></section><section class="main"><section class="content"><div id="portal-column-content">
+<div id="viewlet-above-content"><div id="portal-breadcrumbs">
+<span id="breadcrumbs-you-are-here">You
+are here:</span>
+<span id="breadcrumbs-home">
+<a href="http://afghanag.ucdavis.edu">Home</a>
+</span>
+</div>
+<div id="portlets-above" class="row">
+</div>
+</div>
+<div class="">
+<dl class="portalMessage info" id="kssPortalMessage" style="display:none"><dt>Info</dt>
+<dd></dd>
+</dl><div id="content">
+<div id="content-core">
+<dl class="portalMessage error" id="enable_cookies_message" style="display:none"><dt>
+Error
+</dt>
+<dd>
+Cookies are not enabled. You must enable cookies before you can log in.
+</dd>
+</dl><form class="enableAutoFocus" method="post" id="login_form" action="http://afghanag.ucdavis.edu/login_form">
+<div id="login-form">
+<input type="hidden" name="came_from" value="http://afghanag.ucdavis.edu/other-topic/pests-and-diseases-affecting-crops/info-sheet-weeds" /><input type="hidden" name="next" /><input type="hidden" name="ajax_load" /><input type="hidden" name="ajax_include_head" /><input type="hidden" name="target" /><input type="hidden" name="mail_password_url" /><input type="hidden" name="join_url" /><input type="hidden" name="form.submitted" value="1" /><input type="hidden" name="js_enabled" id="js_enabled" value="0" /><input type="hidden" name="cookies_enabled" id="cookies_enabled" value="" /><input type="hidden" name="login_name" id="login_name" value="" /><input type="hidden" name="pwd_empty" id="pwd_empty" value="0" /><div class="field">
+<label for="__ac_name">Login Name</label>
+<input type="text" size="15" name="__ac_name" value="" id="__ac_name" /></div>
+<div class="field">
+<label for="__ac_password">Password</label>
+<input type="password" size="15" name="__ac_password" id="__ac_password" /></div>
+<div class="formControls">
+<input class="context" type="submit" name="submit" value="Log in" /></div>
+</div>
+</form>
+<div id="login-forgotten-password">
+<strong>
+Forgot your password?
+</strong>
+<p class="discreet">
+If you have forgotten your password,
+<span> <a href="http://afghanag.ucdavis.edu/mail_password_form?userid=">we can send you a new one</a></span>.
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="viewlet-below-content">
+<div id="portlets-below" class="row">
+</div>
+</div>
+</div></section><aside class="column-left">
+<div class="aside-content"></div>
+</aside><span class="clear"> </span>
+</section><div id="footer">
+<div id="footer_contents">
+<div class="footerbox one"><div><p><a title="" href="http://afghanag.ucdavis.edu/afghanag" class="internal-link" target="_self"><img src="http://afghanag.ucdavis.edu/ip-logo.png/@@images/xf92bbcd7-7e1f-4211-b5bc-8691d456a335.png.pagespeed.ic.plxg3zrMm_.png" alt="Logo" class="image-inline" title="ip-logo.png" /></a></p>
+<p>International Programs of CA&amp;ES<br />One Shields Ave<br /> Davis, CA 95616-8571</p>
+<p>Information: <strong>(530) 754-0275</strong><br /> Fax: <strong>(530) 754-7160</strong></p>
+<p>Visit us on campus at <strong>Room 1103 in the Environmental Horticulture Building<br /></strong></p>
+<p class="copyright">© Copyright 2013 UC Regents</p></div></div>
+<div class="footerbox two"><div><h4>About e-Afghan Ag</h4>
+<p>e-Afghan Ag "provides credible relevant information to those helping farmers in Afghanistan." The project is supported by USDA and managed by UC Davis. Over 60 institutions have contributed content.</p></div></div>
+<div class="footerbox three"><div><h4>Site links</h4>
+<ul><li><a href="http://afghanag.ucdavis.edu/../sitemap">Site map</a></li>
+<li><a href="http://afghanag.ucdavis.edu/../note-disclaimer">Site disclaimer</a></li>
+<li><a href="http://afghanag.ucdavis.edu/../login-form">Administrative login</a></li>
+</ul><p> </p>
+<p>For more information about the International Programs Office, contact <a class="external-link" href="/cdn-cgi/l/email-protection#244945564f0a454a405641530a46414848644349454d480a474b49">Mark Bell</a>.</p></div></div>
+<div class="footerbox four"></div>
+</div> 
+</div><div id="footer-js"><script data-cfasync="false" src="/cdn-cgi/scripts/af2821b0/cloudflare-static/email-decode.min.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-652647-35','auto');ga('send','pageview');</script><script type="text/javascript">function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',includedLanguages:'ar,fa,fr,hi,it,ja,tr,ur',layout:google.translate.TranslateElement.InlineLayout.SIMPLE,gaTrack:true,gaId:'UA-652647-35'},'google_translate_element');}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script></div><script type="text/javascript" src="http://v-ipo.caes.ucdavis.edu/Video/Diazo/js/jquery.fancybox.js?v=2.1.5"></script><script type="text/javascript" src="http://v-ipo.caes.ucdavis.edu/Video/Diazo/js/jquery.fancybox-media.js?v=1.0.6"></script><script type="text/javascript">$(document).ready(function(){$("a[href$='.jpg'],a[href$='.png'],a[href$='.gif'],a[href$='/image']").attr('rel','gallery').fancybox();});</script><script type="text/javascript">$(document).ready(function(){$('.fancybox').fancybox();$('.fancybox-media').attr('rel','media-gallery').fancybox({openEffect:'none',closeEffect:'none',prevEffect:'none',nextEffect:'none',arrows:false,helpers:{media:{},buttons:{},overlay:{css:{'background':'rgba(55,55,55,0.85)'}}}});});</script><script src="http://v-ipo.caes.ucdavis.edu/Video/Diazo/jquery.cbpNTAccordion.js"></script><script>$(function(){$('.cbp-ntaccordion > li').wrapInner('<div class="cbp-ntcontent"></div>');$('.cbp-ntaccordion li div.cbp-ntcontent').children(":first-child").addClass('cbp-nttrigger').each(function(){$(this).prependTo($(this).parent().parent());});});</script><script>$(function(){$('.cbp-ntaccordion').cbpNTAccordion();});</script></body></html>

@@ -23,7 +23,7 @@ crop-calendar:
 nursery-management:
 pest-management:
 - 'Common pests in cauliflower include diamondback moth, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/cauliflower/fs-insect-cutworms-uc-ipm.pdf" class="internal-link" target="_self"><strong>cutworm</strong></a>, cabbage butterfly, cabbage aphid,<strong><a title="" href="/fruits-nuts-vegetables/Vegetables/files/cauliflower/FS_Thrips_Pearson.pdf" class="internal-link" target="_self"> thrips</a></strong>, <span class="internal-link">downy mildew</span>, club root and black rot. Application sprays of Cypermethrine can control for diamondback moth and 1% Malathion for cabbage butterfly. Improved varieties, such as White Corona, are resistant to powdery mildew and black rot.<strong><br /></strong>'
-- "See Pest Identification Cards and general Pest Management Page"
+- 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 post-harvest:
 - '
 <p>Cauliflower Postharvest <strong><a href="/fruits-nuts-vegetables/Vegetables/files/cauliflower/FS_Veg_Cauliflower_Postharvest_UCD_PHTC.pdf" class="internal-link" title="Cauliflower Post Harvest">Fact Sheet</a> </strong>(UC Davis PHTC)<strong><br /></strong></p>
