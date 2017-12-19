@@ -86,3 +86,8 @@ http://afghanag.ucdavis.edu/c_livestock/bees/FS_Veg_Honey_bee_pollination_cucurb
 
 http://afghanag.ucdavis.edu/a_horticulture/row-crops/potatoes/Nut_Almond_leaf_scorch.doc
 http://afghanag.ucdavis.edu/a_horticulture/row-crops/potatoes/Nut_Almond_leaf_scorch.doc
+
+
+
+postharvest:
+http://afghanag.ucdavis.edu/other-topic/kitchen-gardens/postharvest-videos/small-scale-postharvest-handling-practices-for-horticultural-crops-part-1 2 and 3

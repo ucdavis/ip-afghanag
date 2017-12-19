@@ -13,7 +13,8 @@ problem-opportunities:
   - "<ul><li><b>Production:</b> poor <a href=''>soil structure</a> (due to repeated deep tilling and high clay content), low <a href=''>soil fertility</a> (note: many clay soils are low in organic content), poor <a href=''>planting bed preparation</a>, pests [<a href=''>aphids</a>, white cabbage moth (cabbage), nematodes (potato), <a href=''>white fly</a> (onion)].</li>"
   - "<li><b>Post harvest:</b> <a href=''>storage losses</a>, <a href=''>inadequate family nutrition</a> (few vegetables in the diet, over cooking, little variety in the diet).</li></ul>"
   - "<b>Priority opportunities</b>"
-  - "<ul><b>Production:</b> <a href=''>composting</a>, promoting planting a<a href=''> wide variety</a> of crops to reduce pest problems and improve home nutrition, <a href=''>crop rotation</a>, planting off-season using <a href=''>low tunnels</a>, trellising and staking, winter cover crops, mulching, container gardens."
+  - "<ul>"
+  - "<b>Production:</b> <a href=''>composting</a>, promoting planting a<a href=''> wide variety</a> of crops to reduce pest problems and improve home nutrition, <a href=''>crop rotation</a>, planting off-season using <a href=''>low tunnels</a>, trellising and staking, winter cover crops, mulching, container gardens."
   - "<b>Pest management:</b> <a href=''>pest identification and <a href=''>companion planting</a>."
   - "<b>Post harvest:</b> <a href=''>pickling</a>, <a href=''>drying</a>, and <a href=''>cooking with fresh vegetables.</a>"
   - "</ul>"
@@ -48,8 +49,8 @@ links: ""
     <h2>Soil Preparation</h2>
     <ul>
       <li>Composting <a href='/other-topics/files/garden/composting-cornell.pdf'>Fact Sheet</a>  (Cornell)</li>
-      <li>Composting Making icon <a href=''>Video</a> </li>
-      <li>Organic Matter and Water Holding Capacity icon videoVideo</li>
+      <li>Composting Making  <a href='/video/video-making-compost'>Video</a> </li>
+      <li>Organic Matter and Water Holding Capacity <a href='/video/organic-matter-water-holding-capacity-video'>Video</a> </li>
       <li>Bed Preparation <a href='/other-topics/files/garden/double-dig-lasagna.pdf'>PPT as PDF</a>  (1.8 MB) (U Maryland)</li>
       <li>Seedbed Preparation <a href='/other-topics/files/garden/seedbed-preparation.pdf'>Fact Sheet</a>  (UC Davis)</li>
       <li><b>Growing Media</b></li>
@@ -67,18 +68,18 @@ links: ""
     <h2>Planting</h2>
     <ul>
     <li>Vegetable Spacing Guides <a href='/other-topics/files/garden/vegetable-spacing.pdf'>Info Sheet</a> (U Maryland)</li>
-    <li>Training and Pruning Tomatoes <a href='/other-topics/files/garden/pruining-training-tomatoes.pdf'>Fact Sheet</a> (UC Davis)  and  icon <a href='/video/'>video</a> English/دری(Dari) (37.3 MB) (AAEP)</li>
+    <li>Training and Pruning Tomatoes <a href='/other-topics/files/garden/pruining-training-tomatoes.pdf'>Fact Sheet</a> (UC Davis)  and   <a href='/video/video-training-and-pruning-hoophouse-tomatoes-dari'>video</a> English/دری(Dari) (37.3 MB) (AAEP)</li>
     <li>Companion Planting <a href='/other-topics/files/garden/companion-planting.pdf'>Info Sheet</a> and Images <a href='/other-topics/files/garden/companion-planting-ppt.pdf'>PPT as PDF</a> (1.3 MB) (U Maryland) and <a href='/other-topics/files/garden/companion-planting-cornell.pdf'>Info Sheet</a> (U Cornell)</li>
     <li>Seed Starting <a href='/other-topics/files/garden/seed-starting.pdf'>PPT as PDF</a> (U Maryland)</li>
-    <li>Pitcher Planting icon <a href='/video/'>video</a> English and Dari (UC Davis and U Maryland)</li>
-    <li>Low Tunnel Construction icon <a href='/video/'>video</a></li>
+    <li>Pitcher Planting  <a href='/video/pitcher-planting-videos-english-and-dari'>video</a> English and Dari (UC Davis and U Maryland)</li>
+    <li>Low Tunnel Construction  <a href='/video/low-tunnel-construction-video'>video</a></li>
     <li>Low Plastic Tunnels <a href='/other-topics/files/garden/low-tunnels.pdf'>Info Sheet</a> (USDA)</li>
     </ul>
   </div>
   <div class="hing-content">
     <h2>Watering</h2>
     <ul>
-      <li>Kitchen Garden Bag Drip Irrigation icon <a href=''>Video</a>  English and دری (UC Davis and U Maryland)</li>
+      <li>Kitchen Garden Bag Drip Irrigation  <a href='/video/kitchen-garden-bag-drip-irrigation-video'>Video</a>  English and دری (UC Davis and U Maryland)</li>
     </ul>
   </div>
   <div class="hing-content">
@@ -87,14 +88,14 @@ links: ""
       <li>Simple Vegetable Postharvest Techniques <a href='/other-topics/files/garden/veg-postharvest.pdf'>Video</a>  (5.8 MB) (AVRDC)</li>
       <li>Harvesting and Storing Vegetables <a href='/other-topics/files/garden/postharvest-care.pdf'>PPT as PDF</a>  (U Maryland)</li>
       <li>Small-Scale Postharvest Handling Practices for Horticultural Crops <a href='/other-topics/files/garden/small-scale-postharvest.pdf'>Video</a>  (3.9 MB) (UC Davis)</li>
-      <li>Small-Scale Postharvest Handling icon <a href=''>Video</a> s  Part 1, Part 2, and Part 3 (UC Davis)</li>
+      <li>Small-Scale Postharvest Handling  <a href=''>Video</a> s  Part 1, Part 2, and Part 3 (UC Davis)</li>
     </ul>
   </div>
   <div class="hing-content">
     <h2>Preservation and Value-Added</h2>
     <ul>
       <li>Food Drying <a href='/other-topics/files/garden/food-drying.pdf'>PPT as PDF</a>  (1.4 MB) (U Maryland)</li>
-      <li>Boiling Water Canning <a href='/other-topics/files/garden/boiling-water.pdf'>Fact Sheet</a>  and icon <a href=''>Video</a>  (UC Davis and U Maryland)</li>
+      <li>Boiling Water Canning <a href='/other-topics/files/garden/boiling-water.pdf'>Fact Sheet</a>  and  <a href='/video/boiling-water-canning'>Video</a>  (UC Davis and U Maryland)</li>
     </ul>
   </div>
   <div class="hing-content">
