@@ -15,7 +15,8 @@ problem-opportunities:
   - "<b>Priority opportunities</b>"
   - "<ul><b>Production:</b> <a href=''>composting</a>, promoting planting a<a href=''> wide variety</a> of crops to reduce pest problems and improve home nutrition, <a href=''>crop rotation</a>, planting off-season using <a href=''>low tunnels</a>, trellising and staking, winter cover crops, mulching, container gardens."
   - "<b>Pest management:</b> <a href=''>pest identification and <a href=''>companion planting</a>."
-  - "<b>Post harvest:</b> <a href=''>pickling</a>, <a href=''>drying</a>, and <a href=''>cooking with fresh vegetables.</a></ul>"
+  - "<b>Post harvest:</b> <a href=''>pickling</a>, <a href=''>drying</a>, and <a href=''>cooking with fresh vegetables.</a>"
+  - "</ul>"
 overview:
 content-table:
 - "Problems and Opportunities "

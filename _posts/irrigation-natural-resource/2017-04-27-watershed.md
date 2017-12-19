@@ -35,6 +35,7 @@ overview:
   - "Forest Law PPT as PDF <a href='../files/forest-draft-law.pdf'>English</a>,<a href='../files/forest-draft-law-dari.pdf'> دری (Dari)</a> (1.2 MB)(USDA)"
   - "Water Law Terms and Key Points  <a href='../files/forest-water-law.pdf'>Info Sheet</a>"
   - "Water Filtration and Disinfection  <a href='../files/water-filtration-disinfection.pdf'>PPT as PDF</a> (4.9 MB) (USDA)"
+  - "<img src='/irrigation-natural-resource/media/watershed2.jpg'>"
 content-table:
   - "Options for Resource Conservation"
   - "Planning Watershed Management"
@@ -139,8 +140,8 @@ links: ""
     <ul>
     <li><b>Equipment</b></li>
     <ul>
-      <li>Build and Use an A-frame Level for Terrace Surveying icon <a href='/video/'>video</a></li>
-      <li>How to Build and Use a Water Level for Terrace Surveying icon <a href='/video/'>video</a></li>
+      <li>Build and Use an A-frame Level for Terrace Surveying <a href='/video/how-to-build-and-use-an-a-frame-level'>video</a></li>
+      <li>How to Build and Use a Water Level for Terrace Surveying <a href='/video/how-to-build-and-use-a-water-level-for-surveying'>video</a></li>
     </ul>
     <li><b>Managing River Flow</b></li>
     <ul>
