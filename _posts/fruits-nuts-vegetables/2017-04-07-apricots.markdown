@@ -3,7 +3,7 @@ layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/apricots.html"
 permalink: /fruits-nuts-vegetables/fruits/apricots
-title:  "apricots"
+title:  "Apricots"
 priority: "medium"
 arabic: "زردآلو"
 image: "../media/apricot.jpeg"

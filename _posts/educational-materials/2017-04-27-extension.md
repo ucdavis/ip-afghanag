@@ -91,4 +91,4 @@ image: "Extension"
 </ul><h3 class=" ">Unit C, Lesson 8: Effective Listening Skills</h3>
 <ul><li><span>Lesson <span>Plan</span> </span><a title="" href="/educational-materials/files/extension/edextafgpurdueunitclesson8effectivelisteningskillslp.pdf" class="internal-link" ><strong>English</strong> </a>and<strong><a title="" href="/educational-materials/files/extension/edextpurdueunitclesson8effectivelisteningskillspashtolp.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
 <li> PPT <strong><a title="" href="/educational-materials/files/extension/ed-ext-afg-purdue-unitc-lesson8-effective.pdf" class="internal-link" >English</a></strong> and <strong><a title="" href="/educational-materials/files/extension/edextpurdueunitclesson8effectivelisteningskillspashtoppt.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
-</ul></div>
+</ul>

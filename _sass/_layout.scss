@@ -162,4 +162,14 @@ input[type="button"].button-primary:focus {
   display: table;
   clear: both; }
 
+.large-container {
+  display: flex;
+  flex-flow: row;
+  display: flex;
+  flex-flow: row;
+  width: 80%;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 32px;
 
+}

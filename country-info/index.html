@@ -22,11 +22,14 @@ layout: default
                   <a href="{{post.permalink}}">
                     <h2>{{post.title}}</h2>
                     <h2>{{post.arabic}}</h2></a>
+                    {% if post.image %}
                     <img src="{{post.image}}">
+                    {% endif %}
                   </a>
                 </div>
                 {% endfor %}
             </div>
           </div>
+</div>
 </div>
 </div>

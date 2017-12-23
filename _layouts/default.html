@@ -4,9 +4,18 @@
   {% include head.html %}
   {% include header.html %}
   <body>
+  <div class="large-container">
         {{ content }}
-
-
+    <div class="side_contents">
+      <img src="/media/usda.jpg" alt="usda">
+      <h2>Provinces</h2>
+          {% for post in site.tags.province %}
+          <a href="{{post.permalink}}">
+            <p>{{post.title}}</p>
+          </a>
+          {% endfor %}
+      </div>
+    </div>
     {% include footer.html %}
 
   </body>

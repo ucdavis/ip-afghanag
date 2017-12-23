@@ -110,4 +110,4 @@ image: "horticulture"
 </ul><h3 class=" ">Unit E, Lesson 6: <span>Propagating Plants by Tissue Culture </span></h3>
 <ul><li>Lesson plan<a title="" href="/educational-materials/files/horticulture/edhortafgpurdueunitelesson6propagationtissueculturelp.pdf" class="internal-link" > <strong><span class="internal-link">English</span></strong></a> <strong></strong></li>
 <li class="internal-link" title="">PPT <strong><span class="internal-link"><a title="" href="/educational-materials/files/horticulture/edhortafgpurdueunitelesson6propagationtissuecultureppt.pdf" class="internal-link" >English</a></span></strong></li>
-</ul></div>
+</ul>

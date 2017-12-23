@@ -87,4 +87,4 @@ image: "Agricultural-Machinery"
 </ul><h3 class=" ">Unit D, Lesson 9: Animal Waste Management Systems</h3>
 <ul><li>Lesson Plan <strong><a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitdlesson9animalwastemanagementsystemslpusda.pdf" class="internal-link" >English</a></strong></li>
 <li>PPT <strong><a title="" href="/educational-materials/files/agricultural-machinery/ed-mach-afg-unitc-lesson9-using-robotics-systems.pdf" class="internal-link" >English</a></strong></li>
-</ul></div>
+</ul>

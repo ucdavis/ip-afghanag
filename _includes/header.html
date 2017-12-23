@@ -19,7 +19,7 @@
     </nav>
   </div>
 
-  <div class="container">
+  <div class="nav-container">
   	<div class="row">
           <hr>
           <div class="dropdown">
@@ -27,6 +27,7 @@
                   Fruits, Nuts & Vegetables <span class="caret"></span>
               </a>
       		<ul class="dropdown-menu multi-level" role="menu" aria-labelledby="dropdownMenu">
+              <li><a tabindex="-1" href="/fruits-nuts-vegetables"><strong>Fruits, Nuts, & Vegetables</strong></a></li>
                 <li class="dropdown-submenu">
                   <a tabindex="-1" href="/fruits-nuts-vegetables/Fruits">Fruits</a>
                   <ul class="dropdown-menu">
@@ -44,7 +45,7 @@
                   </ul>
                 </li>
                 <li class="dropdown-submenu">
-                  <a tabindex="-1" href="/fruits-nuts-vegetables/Nuts">Vegetables</a>
+                  <a tabindex="-1" href="/fruits-nuts-vegetables/Vegetables">Vegetables</a>
                   <ul class="dropdown-menu">
                     {% for post in site.tags.vegetables reversed %}
                       <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
@@ -58,6 +59,7 @@
                   Grains & Field Crops <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
+                <li><a tabindex="-1" href="/grain-field-crops"><strong>Grains & Field Crops</strong></a></li>
                 {% for post in site.tags.crops reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
@@ -68,6 +70,7 @@
                   Livestock <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
+                <li><a tabindex="-1" href="/livestock"><strong>Livestock</strong></a></li>
                 {% for post in site.tags.livestock reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
@@ -78,6 +81,7 @@
                   Irrigation and Natural Resource Management <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
+                <li><a tabindex="-1" href="/irrigation-natural-resource"><strong>Irrigation and Natural Resource Management</strong></a></li>
                 {% for post in site.tags.management reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
@@ -88,17 +92,19 @@
                   Pest Management <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
+                <li><a tabindex="-1" href="/pest-management"><strong>Pest management</strong></a></li>
                 {% for post in site.tags.pest-main reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
-                <li><a tabindex="-1" href="/pest-management/pesticide-use">Pesticide Use and Safety</a></li>
+                <li><a tabindex="-1" href="/other-topics/topics/pests-and-diseases-affecting-crops">Pesticide Use and Safety</a></li>
               </ul>
           </div>
           <div class="dropdown">
-              <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/grain-field-crops">
-                  Other Topics <span class="caret"></span>
-              </a>
+            <a id="dLabel" role="button" data-toggle="dropdown" class="btn btn-primary" data-target="#" href="/pest-management">
+                Other Topics <span class="caret"></span>
+            </a>
               <ul class="dropdown-menu">
+                <li><a tabindex="-1" href="/other-topics"><strong>Other Topics</strong></a></li>
                 {% for post in site.tags.other-topics reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
@@ -109,6 +115,7 @@
                   Country Info <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
+                <li><a tabindex="-1" href="/country-info"><strong>Country Info</strong></a></li>
                 {% for post in site.tags.country-info reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}
@@ -119,6 +126,7 @@
                   Educational Materials <span class="caret"></span>
               </a>
               <ul class="dropdown-menu">
+                  <li><a tabindex="-1" href="/educational-materials"><strong>Educational Materials</strong></a></li>
                 {% for post in site.tags.educational reversed %}
                   <li><a tabindex="-1" href="{{ post.permalink }}">{{post.title}}</a></li>
                 {% endfor %}

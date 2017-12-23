@@ -128,4 +128,4 @@ image: "Field-Crops"
 </ul><h3 class=" ">Unit G, Lesson 4: Managing Insects </h3>
 <ul><li>Lesson plan <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitglesson4managinginsectslp.pdf" class="internal-link" >English</a></strong>, <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitglesson4managinginsectsdarilp.pdf" class="internal-link" >دری (Dari)</a></strong> and <strong><a title="" href="/educational-materials/files/field-crops/copy_of_edfieldafgpurdueunitglesson4managinginsectspashtolp.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
 <li>PPT <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitglesson4managinginsectsppt.pdf" class="internal-link" >English</a></strong>, <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitglesson4managinginsectsdarippt.pdf" class="internal-link" >دری (Dari)</a> </strong>and <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitglesson4managinginsectspashtoppt.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
-</ul></div>
+</ul>

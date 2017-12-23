@@ -81,4 +81,4 @@ image: "agricultural-economics"
 </ul><h3 class=" ">Unit F, Lesson 1: Business Expenses</h3>
 <ul><li>Lesson plan<strong><a title="" href="/educational-materials/files/agricultural-economics/edeconafgpurdueunitflesson1businessexpenseslp.pdf" class="internal-link" > English </a></strong><span class="internal-link"><a title="" href="/educational-materials/files/poultry/ed-live-afg-purdue-unitd-lesson2-egg-production.pdf" class="internal-link" ><strong></strong></a><br /></span></li>
 <li>PPT <strong><a title="" href="/educational-materials/files/agricultural-economics/ed-econ-afg-purdue-unitf-lesson1-business-expenses.pdf" class="internal-link" >English</a></strong></li>
-</ul></div>
+</ul>

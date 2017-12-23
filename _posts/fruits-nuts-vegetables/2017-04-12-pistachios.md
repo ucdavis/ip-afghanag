@@ -5,7 +5,7 @@ priority: high
 permalink: /fruits-nuts-vegetables/nuts/pistachio
 title:  "Pistachio"
 arabic: "پسته"
-image: "../media/<a href='/fruits-nuts-vegetables/nuts/pistachio'>pistachios</a>.jpeg"
+image:  "../media/pistachios.jpeg"
 pictures: "../media/pistachio_pic.jpeg"
 seasons:
 time:

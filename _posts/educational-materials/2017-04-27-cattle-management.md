@@ -81,5 +81,4 @@ image: "Cattle-Management"
 </ul><h3 class=" ">Unit D, Lesson 2: Pasteurization of Milk</h3>
 <ul><li>Lesson Plan <b><a title="" href="/educational-materials/files/cattle-management/ed-live-afg-purdue-unitd-lesson2-pasteurization-lp.pdf" class="internal-link" >English</a> </b></li>
 <li>PPT <a title="" href="/educational-materials/files/cattle-management/ed-live-afg-purdue-unitd-lesson2-pasteurization.pdf" class="internal-link" ><strong>English</strong> </a></li>
-</ul></div>
-</div>
+</ul>

@@ -282,4 +282,3 @@ overview:
 <p><a class="external-link" href="http://www.welthungerhilfe.de/home_eng.html"><strong>Welt Hunger Hilfe</strong></a></p>
 </td>
 </tr></tbody></table><p> </p>
-</div>

@@ -4,7 +4,7 @@ tags: country-info
 permalink: /country-info/province-info
 title:  "Province Information"
 arabic: "معلومات ولایتی"
-image: "/country-info/media/map.jpeg"
+image: "/country-info/media/province.jpeg"
 pictures: /country-info/media/maps.jpg"
 problem-opportunities:
 overview:

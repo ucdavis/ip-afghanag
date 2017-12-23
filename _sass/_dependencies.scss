@@ -15,10 +15,8 @@
 $sans-serif: "proxima-nova",
 arial,
 sans-serif; // light 300, reg 400, medium 500, semibold 600
-$serif: 'klinic_medium',
-Georgia,
-serif; // light 300, book 400, regular 500
-// pretty colors 
+$serif: "futura-pt", Futura Std, Futura, Arial, sans-serif;// light 300, book 400, regular 500
+// pretty colors
 $primary-color: #1A3E68;
 $secondary-color: #CFA21A;
 $primary-font: #333433; // p,li color in main content
@@ -216,7 +214,7 @@ $max) {
 // into a stripes gradient
 // ------------------------------------------------------------
 // @param $colors: list of color or color + color stop
-//     ex: (red blue green) 
+//     ex: (red blue green)
 //     ex: (red 10%, blue 50%, green 65%)
 // @param $direction: gradient direction in keyword or degrees
 // @param $random: should color-stops be randomly generated
@@ -262,7 +260,7 @@ html {
     //   // Equal stops
     //   // background: stripes($equal-stops, $direction);
     //   // Random stops
-    //   background: stripes($custom-stops, 90deg, $random: false); 
+    //   background: stripes($custom-stops, 90deg, $random: false);
     // }
     &:before {
         $custom-stops: #DDB307 69%, #004B85 78%, #016FC4 100%;
@@ -270,5 +268,3 @@ html {
         background: stripes($custom-stops, 90deg);
     }
 }
-
-
