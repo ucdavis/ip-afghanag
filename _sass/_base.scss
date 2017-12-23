@@ -9,6 +9,9 @@ header {
         .logo_wrapper {
             width: 50%;
             display: inline-block;
+            a {
+              text-decoration: none;
+            }
         }
         .search_wrapper {
             width: 49%;
