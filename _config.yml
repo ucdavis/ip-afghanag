@@ -1,8 +1,8 @@
 # Site settings
-title: International Programs - E Pakag
+title: International Programs - Afghan Agriculture
 email: seacersion@ucdavis.edu
 description: > # this means to ignore newlines until "baseurl:"
-  e-Pak Ag - helping farmers through the use of Information Communication Technology (ICT).
+   e-Afghan Ag "provides credible relevant information to those helping farmers in Afghanistan."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://epakag.ucdavis.edu" # the base hostname & protocol for your site
 
