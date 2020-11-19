@@ -6,7 +6,6 @@ permalink: /fruits-nuts-vegetables/fruits/citrus
 title:  "Citrus"
 priority: lower
 arabic: "میوه جات ستروس"
-image: "../media/citrus.jpeg"
 pictures: "../media/citrus_pic.jpeg"
 seasons: "Winter"
 time: "mid December through mid March"
@@ -22,7 +21,7 @@ crop-calendar:
 - 'Citrus crop calendar <strong><a title="Crop Calendar Citrus" href="/fruits-nuts-vegetables/Fruits/files/citrus/IS_Fruit_Citrus_Crop_Calendar" class="internal-link" >Fact Sheet</a></strong> (for California-like conditions) (UC Davis)<strong><br /></strong>'
 pest-management:
 - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
-- 'Nursery Weed Management Fact Sheet<strong> </strong><strong><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/fs-nursery-weeds.pdf" class="internal-link" target="_self">English</a></span></strong> and <strong><span class="rtl" dir="rtl"><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" target="_self">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
+- 'Nursery Weed Management Fact Sheet<strong> </strong><strong><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" target="_self">English</a></span></strong> and <strong><span class="rtl" dir="rtl"><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" target="_self">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
 post-harvest:
 - '
 <p>Production and Post Harvest Manual <strong><a title="Citrus manual" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Fruit_Citrus_Prod_red.pdf" class="internal-link" target="_self">English</a> </strong>(2.5 MB) and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/citrus/Citrus.pdf" class="internal-link" title="Citrus Production Manual (Dari Language)">(Dari) دری </a></span></strong></p>
@@ -53,6 +52,7 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
 <ul><li>
 <p>Production and Post Harvest Manual <strong><a title="Citrus manual" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Fruit_Citrus_Prod_red.pdf" class="internal-link" >English</a></strong> (2.5 MB) and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/citrus/Citrus.pdf" class="internal-link" title="Citrus Production Manual (Dari Language)">(Dari) دری</a></span></strong> (2.5 MB) (UC Davis)</p>
 </li>
@@ -91,7 +91,7 @@ links: ""
 <p>Irrigation of Perennial Crops <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/Irrigation_Manual_August_2008.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (3.4 MB) (Roots of Peace)</p>
 </li>
 <li>
-<p>Principles of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) and <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</p>
+<p>Principles of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines.pdf" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) and <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</p>
 </li>
 <li>
 <p>Drip Irrigation <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Irr_Drip_Technical_IDE.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (11.7MB) (IDE)</p>

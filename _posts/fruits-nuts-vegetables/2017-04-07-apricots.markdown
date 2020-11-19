@@ -3,7 +3,7 @@ layout: fruits
 tags: fruit
 url: "/fruits-nuts-vegetables/Fruits/apricots.html"
 permalink: /fruits-nuts-vegetables/fruits/apricots
-title:  "Apricots"
+title: "Apricots"
 priority: "medium"
 arabic: "زردآلو"
 image: "../media/apricot.jpeg"
@@ -12,16 +12,16 @@ seasons: "Winter"
 time: "mid December through mid March"
 care:
   - "Spray trees with dormant oil to control San Jose scale, aphid eggs, mite eggs and peach twig borer."
-  - "Do not use sulfur on <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a>, ever."
+  - "Do not use sulfur on apricots, ever."
 problem-opportunities:
   - "<b>Priority problems</b> include: include: pollination, planting (bed preparation), grafting, training & pruning, variety selection, Apricot Late Frost"
-  - "<b>Priority opportunities</b> include: marketing of fresh and dried <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a> to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
+  - "<b>Priority opportunities</b> include: marketing of fresh and dried apricots to Pakistan, aphid and shot hole control through a dormant oil, Integrated Pest Management and Bordeaux spray."
 overview:
   - 'About Apricots <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Fruit_Apricots.pdf" class="internal-link" title="About Apricots"><strong>Fact Sheet</strong></a> (UC Davis)<strong><br /></strong>'
 crop-calendar:
   - '<a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Fruit_Apricots_calendar.doc.docx" class="internal-link" title="Apricot Calendar"><strong>Fact Sheet</strong></a> (UC Davis)'
 pest-management:
-  - "Common pests in <a href='/fruits-nuts-vegetables/fruits/apricots'>apricots</a> include: shot hole disease, bacterial canker, verticillium wilt, brown rot blossom & twig blight, peach twig borer, mealy plum aphid."
+  - "Common pests in apricots include: shot hole disease, bacterial canker, verticillium wilt, brown rot blossom & twig blight, peach twig borer, mealy plum aphid."
   - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
   - 'Nursery Weed Management Fact Sheet<strong> <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" >English</a> </strong> and<span class="rtl" dir="rtl"><strong><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Nut_Almond_Nursery_Dari.pdf" class="internal-link" >(Dari) دری</a>  </strong></span>(UC Davis for Roots of Peace)'
 post-harvest:
@@ -29,12 +29,13 @@ post-harvest:
   - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
   - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
   - 'Example of Standards <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/Apricot_Specification.pdf" class="internal-link" ><span class="internal-link"><strong>Fact Sheet</strong></span></a> (Fresh Spec)'
-  - '<strong></strong>Apricot Value Chain <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/man-fruit-apricot-value-chain-nuhda-intercooperation.pdf" class="internal-link" ><strong>Manual</strong></a> (NUHDA)'
-  - 'General Postharvest <a title="" href="http://afghanag.ucdavis.edu/other-topic/postharvest" class="internal-link" ><strong>Page</strong></a>'
+  - '<strong></strong>Apricot Value Chain <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/man-apricot-value-chain-nuhda-intercooperation.pdf" class="internal-link" ><strong>Manual</strong></a> (NUHDA)'
+  - 'General Postharvest <a title="" href="/other-topics/topics/postharvest" class="internal-link" ><strong>Page</strong></a>'
 market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
 <ul><li>
 <p>Fruit Orchard Production Manual <a title="Apricot manual" href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Fruit_Apricot.pdf" class="internal-link" ><strong>English </strong></a>(1.2 MB) and <a href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Apricot_Production_Pashto.pdf" class="internal-link" title="Apricot Production Manual (Pashto)"><strong>پشتو (Pashto)</strong></a> (1.6 MB) (UC Davis)</p>
 </li>
@@ -45,7 +46,7 @@ links: ""
 <li>National Nursery Growers' Association Locations and Contacts<a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngonationalnurserygrowersassociationpdf.pdf" class="internal-link" ><strong> PDF</strong></a> (ANNGO Catalog 2013, PHDP/EU)</li>
 </ul><li>Rootstock Selection <strong><a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Rootstock_Selection_Apricot.pdf" class="internal-link" title="Rootstock Selection for Apricot">Fact Sheet</a></strong> (UC Davis)</li>
 <li>Grafting <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Grafting_Apricot.pdf" class="internal-link" title="Grafting Apricot"><strong>Fact Sheet</strong></a> (1.2 MB) (UC Davis)</li>
-<li>Planting <a href="/fruits-nuts-vegetables/Fruits/files/apricots/planting-bed-preparation/FS_Planting_%20Apricot_Trees.pdf" class="internal-link" title="Apricot Planting"><strong>Fact Sheet</strong></a> (UC Davis)</li>
+<li>Planting <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Planting_20Apricot_Trees.pdf" class="internal-link" title="Apricot Planting"><strong>Fact Sheet</strong></a> (UC Davis)</li>
 <li>Pruning and Training <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_General_Pruning_Training_Apricot.pdf" class="internal-link" title="Apricot Pruning and Training"><strong>Fact Sheet</strong></a> (UC Davis) <strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/Prunning-1.doc" class="internal-link" >Manual <strong>پشتو </strong> (Pashto)</a></strong></li>
 <li>Intercropping <strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fact-sheet-orchards-intecropping.pdf" class="internal-link" >Fact sheet</a></strong> (UC Davis)</li>
 <li>Water Management</li>
