@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
+
 <div class="main">
-	<div class="main_contents">
-		<h1>{{page.title}} {{page.arabic}}</h1>
-		<div class="category_contents">
-		<div class="description">
-		<h3>Content</h3>
+  <div class="main_contents">
+    <h1>{{page.title}} {{page.arabic}}</h1>
+    <div class="category_contents">
+      <div class="description">
+        {% if page.pictures %}
+        <img src="{{ page.pictures }}" />
+        {% endif %}
+        <!-- <h3>Content</h3>
 		<ul>
 			{% if page.problem-opportunities %}
 				<li> <a target="_blank" href="/#problem-opportunities">Problems and Opportunities</a></li>
@@ -32,83 +36,60 @@ layout: default
 			{% if page.links %}
 				<li> <a target="_blank" href="/#links">Links</a></li>
 			{% endif %}
-		</ul>
-	</div>
-	<div class="category-picture hing-pics">
-		{% if page.pictures %}
-			<img src="{{ page.pictures }}">
-				{% endif %}
-	</div>
-</div>
-		<ul>
-			{% for row in page.care %}
-				<li>{{row}}</li>
-			{% endfor %}
-		</ul>
-		{% if page.problem-opportunities %}
-		<h3>Problems and Opportunities</h3>
-		<ul>
-		{% for row in page.problem-opportunities %}
-			<li>{{row}}</li>
-		{% endfor %}
-	</ul>
-	{% endif %}
-	{% if page.overview %}
-	<h3>Overview</h3>
-	<ul>
-	{% for row in page.overview %}
-		<li>{{row}}</li>
-	{% endfor %}
-</ul>
-{% endif %}
-{% if page.production %}
-<h3>Production</h3>
-<ul>
-{% for row in page.production %}
-{% if row contains "ul>" %}
-	{{row}}
-	{% else %}
-			<li>{{row}}</li>
-		{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
-{% if page.management %}
-<h3>Management of {{page.title}}</h3>
-<ul>
-{% for row in page.management %}
-{% if row contains "ul>" %}
-	{{row}}
-	{% else %}
-			<li>{{row}}</li>
-		{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
-{% if page.pasture %}
-<h3>Pasture and Fodder</h3>
-<ul>
-{% for row in page.pasture %}
-{% if row contains "ul>" %}
-	{{row}}
-	{% else %}
-			<li>{{row}}</li>
-		{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
-{% if page.disease %}
-<h3>Diseases</h3>
-<ul>
-{% for row in page.disease %}
-	{% if row contains "ul>" %}
-		{{row}}
-	{% else %}
-		<li>{{row}}</li>
-	{% endif %}
-{% endfor %}
-</ul>
-{% endif %}
-{{ content }}
-	</div>
+		</ul> -->
+      </div>
+    </div>
+    <ul>
+      {% for row in page.care %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% if page.problem-opportunities %}
+    <h3>Problems and Opportunities</h3>
+    <ul>
+      {% for row in page.problem-opportunities %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% if page.overview %}
+    <h3>Overview</h3>
+    <ul>
+      {% for row in page.overview %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% if page.production %}
+    <h3>Production</h3>
+    <ul>
+      {% for row in page.production %} {% if row contains "ul>" %} {{row}} {%
+      else %}
+      <li>{{row}}</li>
+      {% endif %} {% endfor %}
+    </ul>
+    {% endif %} {% if page.management %}
+    <h3>Management of {{page.title}}</h3>
+    <ul>
+      {% for row in page.management %} {% if row contains "ul>" %} {{row}} {%
+      else %}
+      <li>{{row}}</li>
+      {% endif %} {% endfor %}
+    </ul>
+    {% endif %} {% if page.pasture %}
+    <h3>Pasture and Fodder</h3>
+    <ul>
+      {% for row in page.pasture %} {% if row contains "ul>" %} {{row}} {% else
+      %}
+      <li>{{row}}</li>
+      {% endif %} {% endfor %}
+    </ul>
+    {% endif %} {% if page.disease %}
+    <h3>Diseases</h3>
+    <ul>
+      {% for row in page.disease %} {% if row contains "ul>" %} {{row}} {% else
+      %}
+      <li>{{row}}</li>
+      {% endif %} {% endfor %}
+    </ul>
+    {% endif %} {{ content }}
+  </div>
 </div>

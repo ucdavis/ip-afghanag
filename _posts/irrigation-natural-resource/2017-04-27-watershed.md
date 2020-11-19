@@ -1,10 +1,10 @@
 ---
 layout: management
 tags:
-- management
-- food-security
+  - management
+  - food-security
 permalink: /irrigation-natural-resource/resources/watershed
-title:  "Watersheds and Forestry"
+title: "Watersheds and Forestry"
 arabic: "آبریزه ها و جنگنلات"
 image: "/irrigation-natural-resource/media/watershed.jpeg"
 pictures: "/irrigation-natural-resource/media/watershed.jpeg"
@@ -49,6 +49,7 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
 <div class="hing-content">
   <h2>Options for Resource Conservation</h2>
   <ul>
@@ -67,7 +68,7 @@ links: ""
       <li>Part 1 <a href='../files/watershed-conversation.pdf'>English</a> (2.7 MB),<a href='../files/watershed-conversation-dari.pdf'> دری (Dari)</a> (2.6 MB)</li>
       <li>Part 2 <a href='../files/watershed-management.pdf'>English</a>,<a href='../files/watershed-management-dari.pdf'> دری (Dari)</a> (2.6 MB)</li>
     </ul>
-    <li>Soil and Water Conservation Poster Booklet <a href='soil-water-conservation-booklet.pdf'>English and دری (Dari)</a> (5.9 MB)(USDA)</li>
+    <li>Soil and Water Conservation Poster Booklet <a href='../files/soil-water-conservation-booklet.pdf'>English and دری (Dari)</a> (5.9 MB)(USDA)</li>
   </ul>
   </div>
   <div class="hing-content">
@@ -162,7 +163,7 @@ links: ""
     <h2>Flood Risk Maps</h2>
     <p><b>Maps detailing potential flood risks nationally and in select provinces, created by iMMAP</b></p>
     <ul>
-      <li>National Flood Risk <a href='../files/presentazione-standard.pdf'>PDF Map April 2013</a> (1.4 MB), <a href='../files/flood-risk-map.pdf'>JPEG Map April 2013</a> (0.6 MB) and <a href='../files/flood-hazard.pdf'>PDF Map January 2011</a> (1.9 MB) </li>
+      <li>National Flood Risk<a href='../files/flood-risk-map.pdf'>JPEG Map April 2013</a> (0.6 MB) and <a href='../files/flood-hazard.pdf'>PDF Map January 2011</a> (1.9 MB) </li>
       <li>Eastern Region <a href='../files/flood-eastern-region.pdf'>PDF Map February 2012</a> (10.9 MB) </li>
       <li>Northeast Region <a href='../files/flood-northeast-region.pdf'>PDF Map February 2012</a> (2.2 MB)</li>
       <li>Northern Region <a href='../files/flood-northern-region.pdf'>PDF Map February 2012</a> (6.7 MB)</li>
