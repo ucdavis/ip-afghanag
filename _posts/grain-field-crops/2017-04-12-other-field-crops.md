@@ -3,7 +3,7 @@ layout: crops
 tags: crops
 priority:
 permalink: /grain-field-crops/crops/other-field-crops
-title:  "Other Field Crops"
+title: "Other Field Crops"
 arabic:
 image: "./media/hing.jpg"
 pictures:
@@ -19,6 +19,7 @@ market-information-link:
 photo-gallery:
 links:
 ---
+
 <ul>
   <li>Hing</li>
   <li>Pigeon Pea</li>
@@ -51,7 +52,7 @@ links:
     <p>These draft problems and opportunities are based on feedback from Najmudin Rohid (AAEP Kabul).</p>
     <ul>
       <li>Overview <a href="../files/pigeon-pea-infosheet.pdf">Info Sheet </a>(UC Davis)</li>
-      <li>Seed and Seed Systems <a href="">Webpage</a></li>
+      <li>Seed and Seed Systems <a href="/other-topics/topics/seed">Webpage</a></li>
       <li>Pigeon Pea Production <a href="../files/pigeon-pea-tropical.pdf">Manual</a> (Tropical Forages)</li>
       <li>Pigeon Pea Nutritional Benefits <a href="../files/pigeon-pea-nutrition.pdf">Info Sheet </a>(UC Davis)</li>
     </ul>

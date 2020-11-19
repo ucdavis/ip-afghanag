@@ -3,68 +3,79 @@ layout: default
 ---
 
 <div class="main">
-    <div class="main_contents">
-        <h1>Grains and Field Crops غله جات و نباتات مزرعی</h1>
-        <div class="category_contents">
-            <div class="description">
-                <h2>Priorities</h2>
-                <ul>
-                  <li><b>Very high priority:</b>
-                      {% for post in site.tags.crops %}
-                        {% if post.priority == "veryhigh" %}
-                            <a href=" {{ post.permalink }}">{{ post.title }}</a>
-                        {% endif %}
-                      {% endfor %}
-                  </li>
-                  <li><b>High priority:</b>
-                    {% for post in site.tags.crops %}
-                      {% if post.priority == "high" %}
-                          <a href=" {{ post.permalink }}">{{ post.title }}</a>
-                      {% endif %}
-                    {% endfor %}
-                  </li>
-                  <li><b>Medium priority:</b>
-                    {% for post in site.tags.crops %}
-                      {% if post.priority == "medium" %}
-                          <a href="{{ post.permalink }}">{{ post.title }}</a>
-                      {% endif %}
-                    {% endfor %}
-                  </li>
-                  <li><b>Lower priority:</b>
-                    {% for post in site.tags.crops %}
-                      {% if post.priority == "lower" %}
-                          <a href="{{ post.permalink }}">{{ post.title }}</a>
-                      {% endif %}
-                    {% endfor %}
-                  </li>
-                </ul>
-                <p>These priorities are based on feedback from MAIL.</p>
-                <p><a href="http://www.cimmyt.org/">CIMMYT</a> and <a href="http://irri.org/">IRRI</a> are two excellent sources of information. Visit the Cereal Knowledge Bank: http://www.knowledgebank.irri.org</p>
-              </div>
-              <div class="category-picture">
-                  <img src="media/crops.jpg">
-              </div>
-            </div>
-                <p>Cropping Calendars for Annual Crops by Region:</p>
-                <ul>
-                  <li><a href="/grain-field-crops/files/north-calendar.pdf">North</a></li>
-                  <li><a href="/grain-field-crops/files/east-calendar.pdf">East</a></li>
-                  <li><a href="/grain-field-crops/files/southwest-calendar.pdf">Southwest</a></li>
-                  <li><a href="/grain-field-crops/files/Southeast-calendar.pdf">Southeast</a></li>
-                  <li><a href="/grain-field-crops/files/Central-calendar.pdf">Central</a></li>
-                </ul>
-                <p>See <a href="">Provinces Page</a>  for more specific crop planting calendar information</p>
-        <h2>Choose a Crop or Topic</h2>
-        <div id="main-boxes">
-            {% for post in site.tags.crops %}
-              <div class="main-box">
-                <a href="{{ post.permalink }}">
-                  <h2> {{ post.title }}</h2>
-                  <h2> {{ post.arabic }}</h2>
-                  <img src="{{ post.image }}">
-                </a>
-              </div>
-            {% endfor %}
+  <div class="main_contents">
+    <h1>Grains and Field Crops غله جات و نباتات مزرعی</h1>
+    <div class="category_contents">
+      <div class="description">
+        <h2>Priorities</h2>
+        <ul>
+          <li>
+            <b>Very high priority:</b>
+            {% for post in site.tags.crops %} {% if post.priority == "veryhigh"
+            %}
+            <a href=" {{ post.permalink }}">{{ post.title }}</a>
+            {% endif %} {% endfor %}
+          </li>
+          <li>
+            <b>High priority:</b>
+            {% for post in site.tags.crops %} {% if post.priority == "high" %}
+            <a href=" {{ post.permalink }}">{{ post.title }}</a>
+            {% endif %} {% endfor %}
+          </li>
+          <li>
+            <b>Medium priority:</b>
+            {% for post in site.tags.crops %} {% if post.priority == "medium" %}
+            <a href="{{ post.permalink }}">{{ post.title }}</a>
+            {% endif %} {% endfor %}
+          </li>
+          <li>
+            <b>Lower priority:</b>
+            {% for post in site.tags.crops %} {% if post.priority == "lower" %}
+            <a href="{{ post.permalink }}">{{ post.title }}</a>
+            {% endif %} {% endfor %}
+          </li>
+        </ul>
+        <p>These priorities are based on feedback from MAIL.</p>
+        <p>
+          <a href="http://www.cimmyt.org/">CIMMYT</a> and
+          <a href="http://irri.org/">IRRI</a> are two excellent sources of
+          information. Visit the Cereal Knowledge Bank:
+          http://www.knowledgebank.irri.org
+        </p>
+      </div>
+      <div class="category-picture">
+        <img src="media/crops.jpg" />
+      </div>
     </div>
-</div>
+    <p>Cropping Calendars for Annual Crops by Region:</p>
+    <ul>
+      <li><a href="/grain-field-crops/files/north-calendar.pdf">North</a></li>
+      <li><a href="/grain-field-crops/files/east-calendar.pdf">East</a></li>
+      <li>
+        <a href="/grain-field-crops/files/southwest-calendar.pdf">Southwest</a>
+      </li>
+      <li>
+        <a href="/grain-field-crops/files/southeast-calendar.pdf">Southeast</a>
+      </li>
+      <li>
+        <a href="/grain-field-crops/files/central-calendar.pdf">Central</a>
+      </li>
+    </ul>
+    <p>
+      See <a href="/country-info/province-info">Provinces Page</a> for more
+      specific crop planting calendar information
+    </p>
+    <h2>Choose a Crop or Topic</h2>
+    <div id="main-boxes">
+      {% for post in site.tags.crops %}
+      <div class="main-box">
+        <a href="{{ post.permalink }}">
+          <h2>{{ post.title }}</h2>
+          <h2>{{ post.arabic }}</h2>
+          <img src="{{ post.image }}" />
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>
