@@ -4,7 +4,6 @@ tags:
   - pest-apricots
   - pest-insects
 title: "Green Fruitworm"
-file-names: "green-fruitworm"
+file-names: "green-fruitworms"
 factsheet: true
-
 ---

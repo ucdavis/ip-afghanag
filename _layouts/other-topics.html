@@ -7,7 +7,10 @@ layout: default
 		<div class="category_contents">
 		<div class="description">
 			<p>{{page.intro}}</p>
-		<h3>Content</h3>
+			{% if page.pictures %}
+			<img src="{{ page.pictures }}">
+				{% endif %}
+		<!-- <h3>Content</h3>
 		<ul>
 			{% if page.problem-opportunities %}
 				<li> <a target="_blank" href="/#problem-opportunities">Problems and Opportunities</a></li>
@@ -20,12 +23,7 @@ layout: default
 					<li><a target="_blank" href="/#{{row}}">{{row}}</a></li>
 				{% endfor %}
 			{% endif %}
-		</ul>
-	</div>
-	<div class="category-picture hing-pics">
-		{% if page.pictures %}
-			<img src="{{ page.pictures }}">
-				{% endif %}
+		</ul> -->
 	</div>
 </div>
 		{% if page.care %}

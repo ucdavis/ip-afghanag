@@ -4,7 +4,6 @@ tags:
   - pest-apricots
   - pest-insects
 title: "Green Apple Aphid"
-file-names: "green-aphid"
+file-names: "green-apple-aphid"
 factsheet: true
-
 ---

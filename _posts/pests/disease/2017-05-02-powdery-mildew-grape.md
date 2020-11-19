@@ -3,7 +3,7 @@ tags:
   - pest-grapes
   - pest-bacteria
 title: "Grape Powdery Mildew"
-file-names: "powdery-mildew"
+file-names: "powdery-mildew-grape"
 pest-id: ""
 fact-sheet:
 dari: true

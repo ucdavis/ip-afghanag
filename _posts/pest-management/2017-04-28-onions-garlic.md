@@ -4,6 +4,7 @@ tags: pest
 permalink: /pest-management/onions-garlic
 intro:
 ---
+
 <div id="main-boxes">
     {% for post in site.tags.pest-onions reversed %}
     <div class="main-box">
@@ -34,6 +35,3 @@ intro:
     </div>
     {% endfor %}
 </div>
-
-
-red mites missing

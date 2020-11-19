@@ -4,10 +4,8 @@ tags:
   - pest-tomatoes
   - pest-bacteria
 title: "Blossom End Rot"
-file-names: "blossom-end-rot"
+file-names: "fsdisblossomendrotsolanaceaepdf"
 pest-id: ""
 fact-sheet:
 factsheet: true
-
-
 ---

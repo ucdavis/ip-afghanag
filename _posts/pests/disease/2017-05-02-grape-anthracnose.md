@@ -7,6 +7,5 @@ dari: true
 pest-id: ""
 fact-sheet:
 factsheet: true
-extra: "<a href='/pest-management/files/grape-anthracnose-ucipm.pdf'>(Dari) دری </a>(AAEP-UC Davis)"
-
+extra: "<a href='/pest-management/files/grape-anthracnose-dari.pdf'>(Dari) دری </a>(AAEP-UC Davis)"
 ---

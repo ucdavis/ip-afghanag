@@ -2,7 +2,7 @@
 tags:
   - pest-insects
 title: "Melon Aphid "
-file-names: "melon-aphid"
+file-names: "melon-aphids"
 factsheet: true
 pestid-english: true
 ---

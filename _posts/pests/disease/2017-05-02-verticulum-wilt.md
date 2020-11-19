@@ -3,10 +3,9 @@ tags:
   - pest-apricots
   - pest-tomatoes
   - pest-bacteria
-title: "Verticulum Wilt"
-file-names: "verticulum-wilt"
+title: "Verticillium Wilt"
+file-names: "verticillium-wilt"
 pest-id: ""
 fact-sheet:
 factsheet: true
-
 ---
