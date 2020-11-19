@@ -7,6 +7,9 @@ layout: default
     <h1>{{page.title}} {{page.arabic}}</h1>
     <div class="category_contents">
       <div class="description">
+        {% if page.pictures %}
+        <img src="{{ page.pictures }}" />
+        {% endif %}
         <!-- <h3>Content</h3>
 		<ul>
 			{% if page.problem-opportunities %}
@@ -42,12 +45,10 @@ layout: default
 			{% endif %}
 		</ul> -->
       </div>
-      {% if page.pictures %}
-      <div class="category-picture">
-        <img src="{{ page.pictures }}" />
-      </div>
+
+      <div class="category-picture"></div>
     </div>
-    {% endif %} {% if page.seasons %}
+    {% if page.seasons %}
     <h2>Seasonal activities: {{page.seasons}}</h2>
     {% endif %} {% if page.time %}
     <p>({{page.time}})</p>
