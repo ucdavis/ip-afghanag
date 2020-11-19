@@ -3,7 +3,7 @@ layout: fruits
 tags: vegetables
 priority: high
 permalink: /fruits-nuts-vegetables/vegetables/onion-garlic
-title:  "Onions and Garlic"
+title: "Onions and Garlic"
 arabic: "پیاز و سیر"
 image: "../media/onion-garlic.jpg"
 pictures: "../media/onion_pic.jpeg"
@@ -12,27 +12,27 @@ time:
 tree-management:
 care:
 problem-opportunities:
-  - "<b>Priority problems</b> of <a href='/fruits-nuts-vegetables/vegetables/onion-garlic'>onion</a>s include: scarcity of suitable improved varieties, and IPM for <a href='/fruits-nuts-vegetables/vegetables/onion-garlic'>onion</a>s and garlic."
-  - "<b>Priority opportunities</b> include: identifying a short day white or yellow <a href='/fruits-nuts-vegetables/vegetables/onion-garlic'>onion</a> that can grow through the winter in the milder/warmer parts of the country to fill an existing market gap, dehydrated <a href='/fruits-nuts-vegetables/vegetables/onion-garlic'>onion</a> for international markets (<a href='/fruits-nuts-vegetables/vegetables/onion-garlic'>onion</a> powder), and improved irrigation practices."
+  - "<b>Priority problems</b> of onions include: scarcity of suitable improved varieties, and IPM for onions and garlic."
+  - "<b>Priority opportunities</b> include: identifying a short day white or yellow onion that can grow through the winter in the milder/warmer parts of the country to fill an existing market gap, dehydrated onion for international markets (onion powder), and improved irrigation practices."
   - "These draft priority problems and opportunities are based on input from Tom Brown, Alan Walters (SIU), and Donald Harper (USDA)."
 overview:
-- 'About Onions <strong><a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_Onion.pdf" class="internal-link" title="Onion Overview">Fact Sheet</a></strong> (UC Davis)<strong></strong>'
-- 'About Garlic <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_Garlic.pdf" class="internal-link" title="Garlic overview"><strong>Fact Sheet</strong></a> (UC Davis)'
+  - 'About Onions <strong><a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_Onion.pdf" class="internal-link" title="Onion Overview">Fact Sheet</a></strong> (UC Davis)<strong></strong>'
+  - 'About Garlic <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_Garlic.pdf" class="internal-link" title="Garlic overview"><strong>Fact Sheet</strong></a> (UC Davis)'
 crop-calendar:
 nursery-management:
 pest-management:
-- 'Common pest and disease pests for onions and garlic include bacterial soft rot, basal rot, blue mold rot, botrytis leafspot,<a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Disease_Onion_Downy_Mildew.pdf" class="internal-link" target="_self"><strong> downy mildew</strong></a>, garlic mosaic virus, purple blotch and stemphylium leaf blight, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Damping_Off_Tomato_UC_IPM.pdf" class="internal-link" target="_self"><strong>damping-off</strong></a>, neck rot, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/ipm-cards-english/fs-disease-rust-uc-ipm.pdf" class="internal-link" target="_self"><strong>rust</strong></a>, white rot, onion maggot, bulb mites, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Insect_Garlic_Thrips.pdf" class="internal-link" target="_self"><strong>thrips</strong></a>, root knot nematode, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/fspestdodderafg.pdf" class="internal-link" target="_self"><strong>dodder</strong></a>, and <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/fspestweednutsedge.pdf" class="internal-link" target="_self"><strong>nutsedge</strong></a>.<strong> </strong>'
-- 'Common Insects in Onion and Garlic Production <a href="/fruits-nuts-vegetables/Vegetables/files/onion/PPT_Veg_Onion_Garlic_Insects.pdf" class="internal-link" title="Onion and Garlic Insects"><strong>PPT as PDF</strong></a> (UC Davis)'
-- 'See also <strong><a title="" href="http://afghanag.ucdavis.edu/other-topic/pests-and-diseases-affecting-crops/pest-identification-cards-english" class="internal-link" target="_self">Pest Identification Cards</a></strong> and the general<b> <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/pest-management" class="internal-link" target="_self">Pest Management Page</a></b>'
+  - 'Common pest and disease pests for onions and garlic include bacterial soft rot, basal rot, blue mold rot, botrytis leafspot,<a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Disease_Onion_Downy_Mildew.pdf" class="internal-link" target="_self"><strong> downy mildew</strong></a>, garlic mosaic virus, purple blotch and stemphylium leaf blight, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Damping_Off_Tomato_UC_IPM.pdf" class="internal-link" target="_self"><strong>damping-off</strong></a>, neck rot, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/fs-disease-rust-uc-ipm.pdf" class="internal-link" target="_self"><strong>rust</strong></a>, white rot, onion maggot, bulb mites, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Insect_Garlic_Thrips.pdf" class="internal-link" target="_self"><strong>thrips</strong></a>, root knot nematode, <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/fspestdodderafg.pdf" class="internal-link" target="_self"><strong>dodder</strong></a>, and <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/fspestweednutsedge.pdf" class="internal-link" target="_self"><strong>nutsedge</strong></a>.<strong> </strong>'
+  - 'Common Insects in Onion and Garlic Production <a href="/fruits-nuts-vegetables/Vegetables/files/onion/PPT_Veg_Onion_Garlic_Insects.pdf" class="internal-link" title="Onion and Garlic Insects"><strong>PPT as PDF</strong></a> (UC Davis)'
+  - 'See also <strong><a title="" href="http://afghanag.ucdavis.edu/other-topic/pests-and-diseases-affecting-crops/pest-identification-cards-english" class="internal-link" target="_self">Pest Identification Cards</a></strong> and the general<b> <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/pest-management" class="internal-link" target="_self">Pest Management Page</a></b>'
 
 post-harvest:
-- 'Saving Seed <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_onion_seed.pdf" class="internal-link" title="Onion Seed"><strong>Fact Sheet</strong></a> (AVRDC)'
-- '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
-- 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
-- 'Harvesting, Curing and Storing Onions <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_Onion_Harvesting_Curing_Storing" class="internal-link" target="_self"><strong><span class="internal-link">Fact Sheet</span></strong></a> (UC Davis)'
-- 'Harvesting and Storing Onions: <a href="/video/how-to-harvest-and-store-onions-1" class="internal-link" title="How to Harvest and Store Onions"><strong>Videos</strong></a> (U of Maine and Kansas State U)'
-- 'General Postharvest <strong><a title="" href="http://afghanag.ucdavis.edu/other-topic/postharvest" class="internal-link" target="_self">Page</a></strong>'
-- 'Onion Wholesale Market Overview (Balkh Province, Afghanistan)<a title="" href="/video/onion-wholesale-market-overview-balkh-province-afghanistan" class="internal-link" target="_self"><strong>Video</strong></a></p>'
+  - 'Saving Seed <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_onion_seed.pdf" class="internal-link" title="Onion Seed"><strong>Fact Sheet</strong></a> (AVRDC)'
+  - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
+  - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
+  - 'Harvesting, Curing and Storing Onions <a title="" href="/fruits-nuts-vegetables/Vegetables/files/onion/FS_Veg_Onion_Harvesting_Curing_Storing" class="internal-link" target="_self"><strong><span class="internal-link">Fact Sheet</span></strong></a> (UC Davis)'
+  - 'Harvesting and Storing Onions: <a href="/video/how-to-harvest-and-store-onions-1" class="internal-link" title="How to Harvest and Store Onions"><strong>Videos</strong></a> (U of Maine and Kansas State U)'
+  - 'General Postharvest <strong><a title="" href="/other-topics/topics/postharvest" class="internal-link" target="_self">Page</a></strong>'
+  - 'Onion Wholesale Market Overview (Balkh Province, Afghanistan)<a title="" href="/video/onion-wholesale-market-overview-balkh-province-afghanistan" class="internal-link" target="_self"><strong>Video</strong></a></p>'
 market-information-link: ""
 photo-gallery: ""
 links: ""
