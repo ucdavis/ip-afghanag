@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+
 <div class="main">
-	<div class="main_contents">
-		<h1>{{page.title}} {{page.arabic}}</h1>
-		<div class="category_contents">
-		<div class="description">
-		<h3>Content</h3>
+  <div class="main_contents">
+    <h1>{{page.title}} {{page.arabic}}</h1>
+    <div class="category_contents">
+      <div class="description">
+        <!-- <h3>Content</h3>
 		<ul>
 			{% if page.problem-opportunities %}
 				<li> <a target="_blank" href="/#problem-opportunities">Problems and Opportunities</a></li>
@@ -39,74 +40,67 @@ layout: default
 			{% if page.links %}
 				<li> <a target="_blank" href="/#links">Links</a></li>
 			{% endif %}
-		</ul>
-	</div>
-	{% if page.pictures %}
-	<div class="category-picture">
-			<img src="{{ page.pictures }}">
-	</div>
-</div>
-	{% endif %}
-		{% if page.seasons %}
-		<h2> Seasonal activities: {{page.seasons}} </h2>
-		{% endif %}
-		{% if page.time %}
-		<p> ({{page.time}}) </p>
-		{% endif %}
-		<ul>
-			{% for row in page.care %}
-				<li>{{row}}</li>
-			{% endfor %}
-		</ul>
-		{% if page.problem-opportunities %}
-		<h3>Problems and Opportunities</h3>
-		<ul>
-		{% for row in page.problem-opportunities %}
-			<li>{{row}}</li>
-		{% endfor %}
-	</ul>
-	{% endif %}
-	{% if page.overview %}
-	<h3>Overview</h3>
-	<ul>
-	{% for row in page.overview %}
-		<li>{{row}}</li>
-	{% endfor %}
-</ul>
-{% endif %}
-{% if page.crop-calendar %}
-<h3>Crop Calendar</h3>
-<ul>
-{% for row in page.crop-calendar %}
-	<li>{{row}}</li>
-{% endfor %}
-</ul>
-{% endif %}
-<h3>Production</h3>
- {{ content }}
-{% if page.pest-management %}
-<h3>Pest Management for {{page.title}}</h3>
-<ul>
-{% for row in page.pest-management %}
-	<li>{{row}}</li>
-{% endfor %}
-</ul>
-{% endif %}
-{% if page.nursery-management %}
-<h3>Nusery Management for {{page.title}}</h3>
-<ul>
-{% for row in page.nursery-management %}
-	<li>{{row}}</li>
-{% endfor %}
-</ul>
-{% endif %}
-{% if page.post-harvest %}
-<h3>Postharvest</h3>
-<ul>
-{% for row in page.post-harvest %}
-	<li>{{row}}</li>
-{% endfor %}
-</ul>
-{% endif %}
-	</div>
+		</ul> -->
+      </div>
+      {% if page.pictures %}
+      <div class="category-picture">
+        <img src="{{ page.pictures }}" />
+      </div>
+    </div>
+    {% endif %} {% if page.seasons %}
+    <h2>Seasonal activities: {{page.seasons}}</h2>
+    {% endif %} {% if page.time %}
+    <p>({{page.time}})</p>
+    {% endif %}
+    <ul>
+      {% for row in page.care %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% if page.problem-opportunities %}
+    <h3>Problems and Opportunities</h3>
+    <ul>
+      {% for row in page.problem-opportunities %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% if page.overview %}
+    <h3>Overview</h3>
+    <ul>
+      {% for row in page.overview %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% if page.crop-calendar %}
+    <h3>Crop Calendar</h3>
+    <ul>
+      {% for row in page.crop-calendar %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <h3>Production</h3>
+    {{ content }} {% if page.pest-management %}
+    <h3>Pest Management for {{page.title}}</h3>
+    <ul>
+      {% for row in page.pest-management %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% if page.nursery-management %}
+    <h3>Nusery Management for {{page.title}}</h3>
+    <ul>
+      {% for row in page.nursery-management %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %} {% if page.post-harvest %}
+    <h3>Postharvest</h3>
+    <ul>
+      {% for row in page.post-harvest %}
+      <li>{{row}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
 </div>
