@@ -2,7 +2,7 @@
 layout: province
 tags: province
 permalink: /country-info/province/Nangarhar
-title:  "Nangarhar"
+title: "Nangarhar"
 arabic: "لوگر"
 map: "/country-info/media/Nangarhar.jpeg"
 pictures: "/country-info/media/Nangarhar-2.jpeg"
@@ -20,7 +20,7 @@ report:
 
 maps:
   - "Province <a href='/country-info/province/files/map-Nangarhar.pdf'>Map</a> (2002) (AIMS)"
-  - "Satellite Image <a href='/country-info/province/files/sat-Nangarhar.pdf'>Map</a> (2011) (3.3 MB) (<a href='http://immap.org/'>iMMAP</a>)"
+  - "Satellite Image <a href='/country-info/media/Nimroz.jpg'>Map</a> (2011) (3.3 MB) (<a href='http://immap.org/'>iMMAP</a>)"
 district-maps:
   - "<a href='/country-info/province/files/acheen_kot_rodat_districts_nangarhar_sept_2011.pdf'>Acheen, Kot and Rodat Districts </a>"
   - "<a href='/country-info/province/files/Bati_Kot_Lal_Por_Goshta_Districts_Nanagarhar_Sept_2011.pdf'>Bati Kot, Lal Por and Goshta Districts (1.0 MB)</a>"

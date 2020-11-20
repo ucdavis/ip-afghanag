@@ -2,7 +2,7 @@
 layout: province
 tags: province
 permalink: /country-info/province/Badakhshan
-title:  "Badakhshan"
+title: "Badakhshan"
 arabic: "بدخشان"
 map: "/country-info/media/Badakhshan.jpg"
 pictures: /country-info/media/Badakhshan-2.jpg"
@@ -13,14 +13,13 @@ summary:
   - "Crop Calendar <a href='/country-info/province/files/calendar-.pdf'>Info Sheet</a>"
   - "Afghanistan Provincial Indicators Link (CFC)"
 report:
-  - "Ministry <a href='/country-info/province/files/gov-.pdf'>Report</a> (MRRD)"
+  - "Ministry <a href='/country-info/province/files/gov-Badakshan.pdf'>Report</a> (MRRD)"
   - "Socio-Economic and Demographic Profile Report (2003-2005) (3.7 MB) (UNFPA)"
-  - "Social Assessment Profile <a href='/country-info/province/files/social-.pdf'>Fact Sheet</a> (2012) (NHLP)"
+  - "Social Assessment Profile <a href='/country-info/province/files/social-Badakhshan.pdf'>Fact Sheet</a> (2012) (NHLP)"
   - "Data Link (CFC)"
 maps:
   - "Province Map (2002) (1.3 MB) (AIMS)"
 district-maps:
   - "Darayim District Map (2011) (2.2 MB) (<a href='http://immap.org/'>iMMAP</a>)"
   - "Yamgan Girwan District Map (2011) (2.3 MB) (<a href='http://immap.org/'>iMMAP</a>)"
-
 ---
