@@ -14,6 +14,7 @@ market-information-<a href="">Link</a>: ""
 photo-gallery: ""
 image: "horticulture"
 ---
+
 <h3 class=" ">Unit A, Lesson 1: Exploring the Horticulture Industry<img src="/educational-materials/files/horticulture/horticulture-picture" title="Horticulture Picture" height="266" width="355" alt="Photo by Heidi Carrubba" class="image-right" /></h3>
 <ul><li>Lesson plan <a title="" href="/educational-materials/files/horticulture/ed-hort-afg-purdue-unita-lesson1-exploring-hort-lp.pdf" class="internal-link" ><b><span class="internal-link">English</span></b></a></li>
 <li>PPT <strong><span class="internal-link"><a title="" href="/educational-materials/files/horticulture/edhortafgpurdueunitalesson1exploringhortppt.pdf" class="internal-link" >English</a> </span></strong><span class="internal-link">and</span><strong><span class="internal-link"> <a title="" href="/educational-materials/files/horticulture/edhortafgpurdueunitalesson1exploringhortpashtoppt.pdf" class="internal-link" >پشتو (Pashto)</a></span></strong><strong><span class="internal-link"></span></strong></li>
@@ -35,7 +36,7 @@ image: "horticulture"
 <ul><li>PPT <a title="" href="/educational-materials/files/horticulture/edhortintensivefarmingpashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong> </a>(1.6 MB)</li>
 </ul><h3 class=" ">Principles of Post Harvest Storage</h3>
 <ul><li>PPT <strong><a title="" href="/educational-materials/files/horticulture/pptphusdaprinciplesstorageppt.pdf" class="internal-link" >English</a></strong></li>
-</ul><ul><li><span>Harvesting and Storing Vegetables <a class="internal-link" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/oct-2013/postharvest-care-of-vegetables-english"  title=""><strong>PPT as PDF</strong></a> (U Maryland)</span></li>
+</ul><ul><li><span>Harvesting and Storing Vegetables <a class="internal-link" href="/educational-materials/files/horticulture/edhortafgpurdueunitelesson6propagationtissuecultureppt.pdf"  title=""><strong>PPT as PDF</strong></a> (U Maryland)</span></li>
 </ul><h3 class=" ">Intro to IPM for Vegetables and Field Crops</h3>
 <ul><li>PPT <a title="" href="/educational-materials/files/horticulture/edhortintroipmvegandfieldcropspashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (2 MB)</li>
 </ul><h3 class=" ">Integrated Pest Management</h3>

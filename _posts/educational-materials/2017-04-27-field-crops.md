@@ -2,7 +2,7 @@
 layout: educational
 tags: educational
 permalink: /educational-materials/field-crops/
-title:  "Field Crops"
+title: "Field Crops"
 arabic: "نباتات مزرعی"
 intro: "These materials are designed to assist vocational instructors, professors, and extension workers in planning and implementing agricultural lessons. Unlike other materials on e-Afghan Ag, these materials assume some prior knowledge of agriculture. For a more practical approach to Field Crops, please visit the Grains & Field Crops tab on the blue bar above."
 overview: "Material from the Laboratory of Jerry Peters (Purdue) unless noted otherwise."
@@ -13,6 +13,7 @@ market-information-<a href="">Link</a>: ""
 photo-gallery: ""
 image: "Field-Crops"
 ---
+
 <h3 class=" "><img src="/educational-materials/files/field-crops/wheat-harvest-afghanistan/@@images/c570c822-6fc1-4cf9-94e4-b7f5fa413c4a.jpeg" alt="picture by Heidi Carrubba" class="image-right" title="Wheat Harvest Afghanistan" />Unit A, Lesson 1: Plant Structures and Functions </h3>
 <ul><li>Lesson plan <b><a title="" href="/educational-materials/files/field-crops/ed-field-afg-purdue-unita-lesson1-function-lp.pdf" class="internal-link" >English</a></b>, <a title="" href="/educational-materials/files/field-crops/ed-field-afg-purdue-unita-lesson1-function-dari-lp.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> and <a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitalesson1functionpashtolp.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong> </a></li>
 <li>PPT <strong><a title="" href="/educational-materials/files/field-crops/ed-field-afg-purdue-unita-lesson1-function-ppt.pdf" class="internal-link" >English</a></strong> and  <strong><a title="" href="/educational-materials/files/field-crops/ed-field-afg-purdue-unita-lesson1-function-pashto.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
@@ -33,11 +34,11 @@ image: "Field-Crops"
 <p style="text-align: left; ">Provided by USDA</p>
 </th></tr><tr><td>
 <h3 class=" ">Inter-Cropping Systems</h3>
-<ul><li>PPT<strong><a title="" href="/educational-materials/files/principles-of-horticulture/edfieldscroppingsystemsintercroppingdarippt.pdf" class="internal-link" > دری (Dari)</a></strong></li>
+<ul><li>PPT<strong><a title="" href="/educational-materials/files/horticulture/edfieldscroppingsystemsintercroppingdarippt.pdf" class="internal-link" > دری (Dari)</a></strong></li>
 </ul><h3 class=" ">Intro to IPM for Field and Vegetable Crops</h3>
-<ul><li>PPT <a title="" href="/educational-materials/files/principles-of-horticulture/edhortintroipmvegandfieldcropspashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (2 MB)</li>
+<ul><li>PPT <a title="" href="/educational-materials/files/horticulture/edhortintroipmvegandfieldcropspashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (2 MB)</li>
 </ul><h3 class=" ">Insecticide Precautions and Safe Use</h3>
-<ul><li>PPT<a title="" href="/educational-materials/files/principles-of-horticulture/edhortinsecticidesafeuseprecautionspashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (4.3 MB)</li>
+<ul><li>PPT<a title="" href="/educational-materials/files/horticulture/edhortinsecticidesafeuseprecautionspashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (4.3 MB)</li>
 </ul><h3 class=" ">Maize Field Layout, Seeding and Fertilization</h3>
 <ul><li>PPT <a title="" href="/educational-materials/files/field-crops/edafgmaizerowlayoutseedingfertilizationusaidpashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a></li>
 </ul></td>
@@ -61,7 +62,7 @@ image: "Field-Crops"
 <li>PPT <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitclesson2planttypeppt.pdf" class="internal-link" >English</a></strong></li>
 </ul><iframe frameborder="0" height="336" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/35236275" style="float: right; " width="400"></iframe>
 <h3 class=" ">Unit D, Lesson 1: Cereal Crops: Growing Wheat </h3>
-<ul><li>Lesson plan <b><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatlp.pdf" class="internal-link" >English</a></b>, <a title="" href="/educational-materials/files/cattle-management/edfieldafgpurdueunitdlesson1wheatdarilp.pdf" class="internal-link" ><strong>دری (Dari)</strong> </a>and <a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatpashtolp.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong> </a></li>
+<ul><li>Lesson plan <b><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatlp.pdf" class="internal-link" >English</a></b>, <a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatdarilp.pdf" class="internal-link" ><strong>دری (Dari)</strong> </a>and <a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatpashtolp.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong> </a></li>
 <li>PPT <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatppt.pdf" class="internal-link" >English</a></strong>, <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatdarippt.pdf" class="internal-link" >دری (Dari)</a></strong> and <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson1wheatpashtoppt.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
 </ul><h3 class=" ">Unit D, Lesson 2: Cereal Crops: Maize </h3>
 <ul><li>Lesson plan <b><a title="" href="/educational-materials/files/cattle-management/edliveafgpurdueunitalesson2exploringdairyindustrylp.pdf" class="internal-link" >English</a></b>, <strong><a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson2maizedarilp.pdf" class="internal-link" >دری (Dari)</a></strong> and <a title="" href="/educational-materials/files/field-crops/edfieldafgpurdueunitdlesson2maizepashtolp.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong> </a></li>
