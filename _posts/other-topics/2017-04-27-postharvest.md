@@ -15,7 +15,7 @@ problem-opportunities:
 overview:
   - "10 Principles <a href='/other-topics/files/postharvest/postharvest-principles.pdf'>Fact Sheet</a> (UC Davis)"
   - "Postharvest Handling Tips <a href='/other-topics/files/postharvest/fruit-handling.pdf'>Fact Sheet</a> (Cal Poly and UC Davis)"
-  - "Temperature and Shelf-Life <a href='/other-topics/files/postharvest/temperature-shelf-life.pdf'>Fact Sheet</a> (UC Davis) <a href='/other-topics/files/postharvest/temperature-shelf-life-dari.pdf'> (Dari) دری</a> (UC Davis)
+  - "Temperature and Shelf-Life <a href='/other-topics/files/postharvest/temperature-shelf-life.pdf'>Fact Sheet</a> (UC Davis) <a href='/other-topics/files/postharvest/temperature-shell-lifedari.pdf'> (Dari) دری</a> (UC Davis)
 Good Agricultural Practices (GAP) Principles <a href='/other-topics/files/postharvest/good-agricultural-practices.pdf'>Fact Sheet</a> (UC Davis)"
   - "Vegetable Postharvest Simple Techniques <a href='/other-topics/files/postharvest/veg-postharvest.pdf'>Manual</a> (5.8 MB) (AVRDC)"
   - "Small-Scale Postharvest Handling Practices for Horticultural Crops <a href='/other-topics/files/postharvest/small-scale-postharvest.pdf'>Manual</a> (3.9 MB) (UC Davis)"
@@ -30,6 +30,7 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
 <div class="hing-content">
   <h2>Cold Chain</h2>
   <ul>
@@ -58,7 +59,7 @@ links: ""
   <div class="hing-content">
     <h2>Export Standards</h2>
     <ul>
-      <li>Pakistan and United Arab Emirates <a href=''>Codex of Maximum Allowable Pesticide Residue Levels</a> (FAO)</li>
+      <li>Pakistan and United Arab Emirates <a href='/other-topics/files/market/market-assess.pdf'>Codex of Maximum Allowable Pesticide Residue Levels</a> (FAO)</li>
       <li>Country Specific Export Standards for Primary Target Markets (Link to NW Hort Council):</li>
       <ul>
         <li>China, India, Pakistan, Russia, United Arab Emirates</li>

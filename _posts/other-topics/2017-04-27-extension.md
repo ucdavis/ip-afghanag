@@ -2,7 +2,7 @@
 layout: other-topics
 tags: other-topics
 permalink: /other-topics/topics/extension
-title:  "Extension"
+title: "Extension"
 arabic: "توسعه زراعتی"
 image: "/other-topics/media/extension.jpeg"
 pictures: /other-topics/media/extension-flow.jpg"
@@ -37,6 +37,7 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
 <div class="hing-content">
   <h2>Plan Implementation</h2>
   <ul>
@@ -177,7 +178,7 @@ links: ""
             <li>Writing Good Learning Objectives <a href='/other-topics/files/extension/learning-objectives.pdf'>Fact Sheet</a> (UC Davis)</li>
             <li>Training Event Checklist <a href='/other-topics/files/extension/training-event-checklist.pdf'>Fact Sheet</a> (UC Davis)</li>
             <li>Designing a Farmer's Workshop (with example) <a href='/other-topics/files/extension/create-agenda.pdf'>Fact Sheet</a> (UC Davis) </li>
-            <li>Preparing Good Learning Objectives <a href='/other-topics/files/extension/'>Fact Sheet</a> (UC Davis)</li>
+            <li>Preparing Good Learning Objectives <a href='/other-topics/files/extension/preparing-classroom.pdf'>Fact Sheet</a> (UC Davis)</li>
             <li>Preparing the Agenda <a href='/other-topics/files/extension/structuring-workshop-agenda.pdf'>Fact Sheet</a> (UC Davis)</li>
             <li>Preparing the Classroom <a href='/other-topics/files/extension/preparing-classroom.pdf'>Fact Sheet</a> (UC Davis)</li>        
             <li>Adults as Learners <a href='/other-topics/files/extension/adult-learning.pdf'>Fact Sheet</a> (UC Davis)</li>
@@ -217,7 +218,7 @@ links: ""
       <div class="hing-content">
         <h2>Culture Aspects </h2>
         <ul>
-          <li>Culture and Working Locally <a href='/other-topics/files/extension/'>Webpage</a></li>
+          <li>Culture and Working Locally <a href='/country-info/culture-working'>Webpage</a></li>
         </ul>
       </div>
       <div class="hing-content">
