@@ -41,7 +41,7 @@ links: ""
 </li>
 <li>Apricot Value Chain <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/apricot-value-chain-manual" class="internal-link" ><strong>Manual</strong></a> (NUHDA)</li>
 <li>Variety Selection <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Choosing_Apricot_Variety.pdf" class="internal-link" title="Choosing Apricot Varieties"><strong>Fact Sheet</strong></a> (UC Davis)</li>
-<ul><li>For certified sapling contact <a class="external-link" href="http://afghanistanhorticulture.org/"><strong>PHDP </strong></a>(Perennial Horticulture Development Project)<strong></strong></li>
+<ul>
 <li>PHDP Varietal Selection and Production <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngoapricotpdf.pdf" class="internal-link" ><strong>English</strong></a> (excerpt), <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngocatalogue201314dari.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (9.9 MB) and <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngocatalogue201314pashto.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
 <li>National Nursery Growers' Association Locations and Contacts<a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngonationalnurserygrowersassociationpdf.pdf" class="internal-link" ><strong> PDF</strong></a> (ANNGO Catalog 2013, PHDP/EU)</li>
 </ul><li>Rootstock Selection <strong><a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Rootstock_Selection_Apricot.pdf" class="internal-link" title="Rootstock Selection for Apricot">Fact Sheet</a></strong> (UC Davis)</li>

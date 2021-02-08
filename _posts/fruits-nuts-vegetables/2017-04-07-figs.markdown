@@ -17,14 +17,13 @@ overview:
   - 'About Figs <a href="/fruits-nuts-vegetables/Fruits/files/figs/FS-Fruits_Fig.pdf" class="internal-link" title="Figs Factsheet">Fact Sheet</a> (UC Davis)'
 pest-management:
 - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
-- 'Nursery Weed Management Fact Sheet<strong> <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" >English</a> </strong>and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/figs/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" title="Almond Weeding - Dari">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
+- 'Nursery Weed Management Fact Sheet<strong> <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" >English</a> </strong>(UC Davis for Roots of Peace)'
 - '<div class="menuitem">
 <h4>Mosaic Virus</h4>
 <p><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/figs/FS_Fig_Mosaic_Virus.pdf" class="internal-link" >Fact Sheet </a></strong>(UC Davis)</p>
 </div>
 <div class="menuitem">
 <h4>Tree Borer</h4>
-<p><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/figs/figs-tree-borer-fact-sheet" class="internal-link" >Fact Sheet </a></strong>(UC Davis)</p>
 <a title="Insect - Aphids" href="/fruits-nuts-vegetables/Fruits/files/figs/fig-stem-borer" class="internal-link" ><img src="/fruits-nuts-vegetables/Fruits/files/figs/b61e4ee5-35c6-41b5-8b62-059180079a40.jpeg" alt="Aphid general" class="image-inline" title="Fig Stem Borer" /></a></div>'
 post-harvest:
 - '

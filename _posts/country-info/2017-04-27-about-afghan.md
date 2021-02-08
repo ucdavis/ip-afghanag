@@ -2,7 +2,7 @@
 layout: country-info
 tags: country-info
 permalink: /country-info/about-afghan.html
-title:  "About Afghanistan"
+title: "About Afghanistan"
 arabic: "راجع به افغانستان"
 image: "/country-info/media/about.jpeg"
 pictures: /country-info/media/about-afghan.jpg"
@@ -14,6 +14,7 @@ management:
 disease:
 photo-gallery: ""
 ---
+
 <div class="hing-content">
   <h2>National Constraints (from World Bank) </h2>
   <ul>
@@ -34,10 +35,7 @@ photo-gallery: ""
         <li><a href="/country-info/files/agreport-april11.pdf">May 2011</a> </li>
       </ul>   
       <li>Agricultural Production <a href="http://www.fao.org/faostat/en/">Link</a> (FAO)</li>  
-      <li>Import/Exports <a href="http://www.fao.org/faostat/en/">Link</a> (FAOSTAT) </li>
       <li>Map of Afghan Administrative Divisions (Province and District Level) <a href="/country-info/files/map-afghan.pdf">PDF Map</a> (2.47 MB) (MAIL and AIMS)</li>
-      <li>Afghanistan Provincial Indicators <a href="https://www.cimicweb.org/AfghanistanProvincialMap/Pages/default.aspx">Link</a> (Civil-Military Fusion Indicators)</li>
-      <li><a href="/country-info/about-afghan/interactive-map">Interactive Map</a> of Afghanistan (UC Davis)</li>
       <li>Socio-Economic and Demographic <a href="/country-info/files/all-Afghanistan.pdf">Profile</a> (7.1 MB) (UNFPA)</li>
     </ul>
     </div>

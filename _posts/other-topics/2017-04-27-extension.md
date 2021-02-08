@@ -74,7 +74,7 @@ links: ""
         <div class="description">
           <h2>Field Diagnostics	</h2>
           <ul>
-          <li><b>Cereals:</b> <a href="http://maizedoctor.org/">Maize Doctor</a> (CIMMYT) ; <a href="http://www.knowledgebank.irri.org/">Rice Doctor</a> (IRRI) ; <a href="http://wheatdoctor.org/">Wheat Doctor</a> (CIMMYT)</li>
+          <li><b>Cereals:</b><a href="http://www.knowledgebank.irri.org/">Rice Doctor</a> (IRRI) ; <a href="http://wheatdoctor.org/">Wheat Doctor</a> (CIMMYT)</li>
           <li><b>Fruits, Nuts and Vegetables:</b> <a href="http://horthospital.weebly.com/">Hort Hospital</a> (UC Davis)</li>
           <li><b>Soils:</b><a href="http://hortsoildr.weebly.com/"> Soil Doctor</a> (UC Davis)</li>
           </ul>

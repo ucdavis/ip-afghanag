@@ -17,8 +17,6 @@ problem-opportunities:
 - "These draft priority problems are based on feedback from agricultural consultants, Afghan specialists, and Tom Brown."
 overview:
 - 'About Citrus <a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_Oranges.pdf" class="internal-link" title="Citrus - overview - Sweet oranges"><strong>Fact</strong><strong> Sheet</strong></a> (Sweet Oranges)<strong><br /></strong>'
-crop-calendar:
-- 'Citrus crop calendar <strong><a title="Crop Calendar Citrus" href="/fruits-nuts-vegetables/Fruits/files/citrus/IS_Fruit_Citrus_Crop_Calendar" class="internal-link" >Fact Sheet</a></strong> (for California-like conditions) (UC Davis)<strong><br /></strong>'
 pest-management:
 - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 - 'Nursery Weed Management Fact Sheet<strong> </strong><strong><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" target="_self">English</a></span></strong> and <strong><span class="rtl" dir="rtl"><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" target="_self">(Dari) دری </a> </span></strong>(UC Davis for Roots of Peace)'
@@ -57,7 +55,7 @@ links: ""
 <p>Production and Post Harvest Manual <strong><a title="Citrus manual" href="/fruits-nuts-vegetables/Fruits/files/citrus/Man_Fruit_Citrus_Prod_red.pdf" class="internal-link" >English</a></strong> (2.5 MB) and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/citrus/Citrus.pdf" class="internal-link" title="Citrus Production Manual (Dari Language)">(Dari) دری</a></span></strong> (2.5 MB) (UC Davis)</p>
 </li>
 </ul><ul><li>Variety Selection:</li>
-<ul><li>For certified saplings contact <a class="external-link" href="http://afghanistanhorticulture.org/"><strong>PHDP </strong></a>(Perennial Horticulture Development Project)<strong></strong></li>
+<ul>
 <li>PHDP Varietal Selection and Production <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocitruspdf.pdf" class="internal-link" ><strong>English</strong></a> (excerpt), <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocatalogue201314dari.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (9.9 MB) and <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocatalogue201314pashto.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
 <li>National Nursery Growers' Association Locations and Contacts<a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/ananngonationalnurserygrowersassociationpdf.pdf" class="internal-link" ><strong> PDF</strong></a> (ANNGO Catalog 2013, PHDP/EU)</li>
 </ul></ul><ul><li>
