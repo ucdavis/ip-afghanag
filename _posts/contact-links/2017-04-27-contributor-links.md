@@ -5,18 +5,17 @@ permalink: /contact-links/contributors-links/
 tags: contact-link
 intro: Below you will find links to institutions, agencies, organizations and companies that have contributed information to the e-Afghan Ag site, or may provide further information regarding agriculture in Afghanistan. e-Afghan Ag and the University of California are not responsible for the content on non UC websites.  Please report any dead links to the site administrator.
 overview:
-- "Afghan Ministries"
-- "Development Organizations and Projects"
-- "International and Multi-National Research Organizations"
-- "National Research organizations and Universities"
-- "Alphabetical"
+  - "Afghan Ministries"
+  - "Development Organizations and Projects"
+  - "International and Multi-National Research Organizations"
+  - "National Research organizations and Universities"
+  - "Alphabetical"
 ---
 
 <h3> <strong>1. Afghan Ministries</strong></h3>
 <ol><li><strong><a href="http://mail.gov.af/en">Ministry of Agriculture, Irrigation and Livestock (MAIL - Government of the Islamic Republic of Afghanistan)<br /></a></strong></li>
 <li><strong><a href="http://mrrd.gov.af/en">Ministry of Rural Rehabilitation and Development (MRRD - Government of the Islamic Republic of Afghanistan)</a></strong></li>
 <li><strong><a href="http://cso.gov.af/en">Central Statistics Organization of Afghanistan (CSO - Government of the Islamic Republic of Afghanistan)</a></strong></li>
-<li><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/mail-collaboration" class="internal-link" >MAIL Pilot site for collaboration</a></strong></li>
 </ol><p><strong><br /></strong></p>
 <h3><a name="2-development-organizations-and" id="2-development-organizations-and"></a><strong>2. Development Organizations and Projects<br /></strong></h3>
 <ol><li><strong><a class="external-link" href="http://www.acted.org/en/afghanistan">ACTED - Agency for Technical Cooperation and Development</a></strong></li>
@@ -24,16 +23,7 @@ overview:
 <li>
 <p><strong><a href="http://cnfaafghanistan.org.af/">Afghanaid</a></strong></p>
 </li>
-<li><strong>Afghan Ag Extension Program (<strong>AAEP - </strong>UC Davis, WSU, Purdue U and U Maryland)</strong></li>
-<ol><li><strong><a name="women-in-ag-trainings" id="women-in-ag-trainings"></a>AAEP Women in Agriculture Trainings: <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/july-2012/aaep-women-in-agriculture-trainings" class="internal-link" >July 2012</a>; <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/dec-2012/aaep-women-in-agriculture-trainings-dec-2012" class="internal-link" >Dec 2012</a>; <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/feb-2013/aaep-women-in-agriculture-trainings-feb-2013" class="internal-link" >Feb 2013</a>; <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/oct-2013/wia-trainigs-2013" class="internal-link" >Oct 2013</a></strong></li>
-<li><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/aaep-greenhouse-workshop/aaep-greenhouse-workshop" class="internal-link" >AAEP Greenhouse Workshop (Feb. 2013)</a></strong></li>
-<li><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/conservation-agriculture-training-apr-and-may-2013/conservation-agriculture-training-apr-and-june-2013" class="internal-link" >AAEP Conservation Agriculture Training (Apr. and June 2013)</a></strong></li>
-<li><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/aaep-writing-workshop/aaep-writing-workshop" class="internal-link" >AAEP / AGRED Mini Fund Proposal Workshop (Apr. 2013)</a></strong></li>
-<li><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/aaep-pistachio-training-course/aaep-pistachio-training-course" class="internal-link" >AAEP Pistachio and Citrus Workshop (Apr. 2013)</a></strong></li>
-<li><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/aaep-grain-storage-and-pics-training/aaep-grain-storage-and-pics-training-2013" class="internal-link" >AAEP Grain Storage and PICS Workshop (May 2013)</a></strong></li>
-<li><strong>AAEP Integrated Pest Management Trainings: <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/integrated-pest-management-workshop-june-2013" class="internal-link" >June 2013</a>; <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/integrated-pest-management-workshop-sept-oct-2013" class="internal-link" >Sept/Oct 2013</a></strong></li>
-<li>AAEP Postharvest Workshop (Nov 2013)</li>
-</ol><li><strong>Af Pak</strong><span> </span><strong>- <a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/af-pak-2011/af-pak-2011" class="internal-link" >Workshop 2011</a> ;</strong><span> </span><strong><a href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/af-pak" class="internal-link" title="Af-Pak">Workshop 2012</a></strong><span> ; </span><strong><a title="" href="http://afghanag.ucdavis.edu/aboutus-questions/d_collaborating-organizations/af-pak-workshop-2013/af-pak-workshop-2013" class="internal-link" >Workshop 2013</a></strong></li>
+</ol>
 <li><strong><a class="external-link" href="http://www.cnfa.org/program/afghanistan-farm-service-alliance-2/">AFSA - Afghanistan Farm Service Alliance (CNFA)</a></strong></li>
 <li><strong><a href="http://www.akdn.org/afghanistan">Aga Khan Development Network, Afghanistan</a></strong></li>
 <li><strong><a href="http://aims.fao.org/">AIMS (Agricultural Information Management Standards)</a></strong></li>
@@ -52,19 +42,14 @@ overview:
 <li><strong><a href="http://www.ideorg.org/">International Development Enterprises</a></strong></li>
 <li><strong><a href="http://www.jdainternational.org/afghanistan.asp">JDA International, Afghanistan</a></strong></li>
 <li><strong><a href="http://www.idd.landolakes.com/PROJECTS/Asia/ECMP2-0164370.aspx">Land O'Lakes, Inc. International Development Division, Afghanistan</a></strong></li>
-<li><a class="external-link" href="http://www.plantwise.org/knowledgebank/CountryHome/Afghanistan/."  title="Plantwise Afghanistan"><strong>Plantwise Afghanistan</strong></a></li>
 <li><strong><a href="http://www.rootsofpeace.org/">Roots of Peace</a></strong></li>
-<li><strong><a href="http://www.swiss-cooperation.admin.ch/afghanistan/">Swiss Agency for Development and Cooperation (SDC), Afghanistan</a></strong></li>
 <li><strong><a href="http://cso.gov.af/en">United Nations Environment Programme, Afghanistan</a></strong></li>
 <li><strong><a class="external-link" href="http://afghanistan.usaid.gov/en/home">USAID, Afghanistan (United States Agency for International Development)</a></strong></li>
 <li><strong><a class="external-link" href="http://www.fas.usda.gov/country/afghanistan/us-afghanistan.asp">USDA, Afghanistan (United States Department of Agriculture)</a></strong></li>
 <li><strong><a href="http://www.welthungerhilfe.de/home_eng.html">Welt Hunger Hilfe</a></strong></li>
-</ol><p><span> </span></p>
 <h3><a name="3-international-and-multi" id="3-international-and-multi"></a><strong>3. International and Multi-National Research Organizations </strong></h3>
 <ol><li><strong><a href="http://www.cimmyt.org/">CIMMYT (International Maize and Wheat Improvement Center)</a></strong></li>
 <li><strong><a href="http://www.dowagro.com/">DOW AgroSciences</a></strong></li>
-<li><strong><a href="http://coin.fao.org/cms/world/afghanistan/en/Home.html">FAO, Afghanistan (Food and Agriculture Organization of the United Nations)</a></strong><strong></strong></li>
-<li><strong><a href="http://faostat.fao.org/">FAOSTAT (FAO Statistics Division)</a></strong></li>
 <li>
 <p><strong><a class="external-link" href="http://www.icarda.org/">ICARDA (International Center for Agricultural Research in the Dry Areas)</a></strong></p>
 </li>
@@ -105,7 +90,6 @@ overview:
 <li><strong><a href="http://www.wsu.edu/">Washington State University</a></strong></li>
 </ol><p><strong><a href="http://www.usu.edu/"> </a></strong> </p>
 <h3><strong>5. Alphabetical</strong></h3>
-<table></table><table><tbody><tr><td>
 <p><a class="external-link" href="http://www.acted.org/en/afghanistan"><strong>ACTED - Agency for Technical Cooperation and Development</strong><br /></a></p>
 </td>
 </tr><tr><td>
@@ -181,14 +165,9 @@ overview:
 </tr><tr><td>
 <p><a class="external-link" href="http://www.fafdevelopments.com/?page_id=108"><strong>FAF Development</strong></a></p>
 </td>
-</tr><tr><td>
-<p><a class="external-link" href="http://coin.fao.org/cms/world/afghanistan/en/Home.html"><strong>FAO, Afghanistan (Food and Agriculture Organization of the United Nations) </strong></a></p>
-</td>
-</tr><tr><td>
+</tr>
+<tr><td>
 <p><a class="external-link" href="http://faostat.fao.org/"><strong>FAOSTAT (FAO Statistics Division)</strong></a></p>
-</td>
-</tr><tr><td>
-<p><a class="external-link" href="http://www.fews.net/Pages/country.aspx?gb=af&amp;l=en"><strong>FEWS NET Afghanistan (Famine Early Warning Systems Network, USAID)</strong></a></p>
 </td>
 </tr><tr><td>
 <p><strong><a class="external-link" href="http://past.fvsu.edu/">Fort Valley State University, Geogria</a></strong></p>
@@ -212,17 +191,9 @@ overview:
 <p><a class="external-link" href="http://www.irri.org/"><strong>IRRI (International Rice Research Institute)</strong></a></p>
 </td>
 </tr><tr><td>
-<p><a class="external-link" href="http://www.jdainternational.org/afghanistan.asp"><strong>JDA International, Afghanistan</strong></a></p>
-</td>
-</tr><tr><td>
 <p><a class="external-link" href="http://www.idd.landolakes.com/PROJECTS/Asia/ECMP2-0164370.aspx"><strong>Land O'Lakes, Inc. International Development Division, Afghanistan</strong></a></p>
 </td>
-</tr><tr><td>
-<p><a class="external-link" href="http://mail.gov.af/en"><strong>Ministry of Agriculture, Irrigation and Livestock (MAIL - Government of the Islamic Republic of Afghanistan)<br /></strong></a></p>
-</td>
-</tr><tr><td>
-<p><a class="external-link" href="http://mrrd.gov.af/en"><strong>Ministry of Rural Rehabilitation and Development (MRRD - Government of the Islamic Republic of Afghanistan)</strong></a></p>
-<table></table></td>
+</tr>
 </tr></tbody><colgroup><col width="591" /></colgroup></table><table><tbody><tr><td>
 <p><a class="external-link" href="http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/home"><strong>NRCS (Natural Resources Conservation Service of the United States Department of Agriculture)</strong></a></p>
 <p><a class="external-link" href="http://www.plantwise.org/knowledgebank/CountryHome/Afghanistan/."  title="Plantwise Afghanistan"><strong>Plantwise Afghanistan</strong></a></p>
@@ -232,9 +203,6 @@ overview:
 </td>
 </tr><tr><td>
 <p><a class="external-link" href="http://www.siu.edu/"><strong>Southern Illinois University </strong></a></p>
-</td>
-</tr><tr><td>
-<p><a class="external-link" href="http://www.swiss-cooperation.admin.ch/afghanistan/"><strong>Swiss Agency for Development and Cooperation (SDC), Afghanistan </strong></a></p>
 </td>
 </tr><tr><td>
 <p><strong><a class="external-link" href="http://www.ipm.ucdavis.edu/">University of California Integrated Pest Management (UC IPM)</a><br /></strong></p>
