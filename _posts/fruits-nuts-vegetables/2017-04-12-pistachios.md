@@ -28,11 +28,9 @@ nursery-management:
   - 'Budding <strong><a title="Pistachio Budding" href="/fruits-nuts-vegetables/Nuts/files/pistachio/Pistachio_Budding_HASNA.ppt" class="internal-link" >PPT as PDF</a></strong> (2.9 MB) (UC Davis)'
 pest-management:
   - 'Pest Management <a title="" href="/fruits-nuts-vegetables/Nuts/files/pistachio/Pistachio_Pests_Diseases_HASNA.pptx" class="internal-link" ><strong><span class="internal-link">PPT as PDF</span></strong></a> (2.8 MB) (UC Davis)'
-  - "Nursery Weed Management Fact Sheet English and (Dari) دری (UC Davis for Roots of Peace)"
   - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
 post-harvest:
   - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Nuts/files/pistachio/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
-  - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Nuts/files/pistachio/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
   - 'Postharvest - Harvest, Storage and Processing <a title="" href="/fruits-nuts-vegetables/Nuts/files/pistachio/Pistachio_Harvest_Process_Storage_HASNA.ppt" class="internal-link" ><strong><span class="internal-link">PPT as PDF</span></strong></a> (2.6 MB) (UC Davis)'
 market-information-link: ""
 photo-gallery: ""
@@ -47,7 +45,7 @@ links: ""
 <ul><li><strong><a title="" href="/video/pistachio-1" class="internal-link" >Years 1 to 2</a></strong></li>
 <li><strong><a title="" href="/video/copy_of_pistachio-1" class="internal-link" >Years 3 to 5</a></strong></li>
 <li><strong><a title="" href="/video/copy2_of_pistachio-1" class="internal-link" >Years 6 to 8</a></strong></li>
-<li>Mature trees (<strong><a title="" href="/video/pistachio-pruning-and-training-mature-tree" class="internal-link" >Part 1, Part 2, Part 3</a></strong>)</li>
+
 </ul></ul><ul><li>Irrigation
 <ul><li>Irrigation of Perennial Crops <a title="" href="/fruits-nuts-vegetables/Nuts/files/pistachio/Irrigation_Manual_August_2008.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (3.4 MB) (Roots of Peace)</li>
 <li>Principals of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines.pdf" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) and <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Nuts/files/pistachio/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</li>

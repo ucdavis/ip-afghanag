@@ -1,9 +1,0 @@
----
-tags:
-  - pest-apples
-  - pest-apricots
-  - pest-insects
-title: "Green Apple Aphid"
-file-names: "green-apple-aphid"
-factsheet: true
----
