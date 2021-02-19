@@ -33,10 +33,8 @@ post-harvest:
   - "Improved cultural practices can help prevent fruit splitting. Pick fruits at optimal timing: when fully ripe they should make a metallic sound when tapped.  The ripe fruit should be carefully selected and picked by hand and not pulled from the tree. Grade according to quality and keep different qualities separate."
   - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
   - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
-  - 'Postharvest Options <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/pomegranate-powerpoint-presentations/PPT_Fruit_Pomeg_Postharvest_CIPHET_Ludhiana" class="internal-link" target="_self"><strong><span class="internal-link">PPT as PDF</span></strong></a> (1.3 MB) (Ludhiana University, India)'
   - 'Maintaining Quality of Pomegranates <a href="/fruits-nuts-vegetables/Fruits/files/pomegranate/PPT_Fruit_Pomeg_Postharvest_UCD.pdf" class="internal-link" title="Maintaining quality of Pomegranates"><strong>PPT as PDF</strong></a> (4.2 MB) (UC Davis)'
   - 'Example of Standards <a title="" href="/fruits-nuts-vegetables/Fruits/files/pomegranate/Pomegranate_Specification.pdf" class="internal-link" target="_self"><strong><span class="internal-link">Fact Sheet</span></strong></a> (Fresh Spec)'
-  - 'General Postharvest <a title="" href="http://afghanag.ucdavis.edu/other-topic/topics/postharvest" class="internal-link" target="_self"><strong>Page</strong></a>'
 market-information-link: ""
 photo-gallery: ""
 links: ""
