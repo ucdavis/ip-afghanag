@@ -25,12 +25,9 @@ pest-management:
   - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
   - 'Nursery Weed Management Fact Sheet<strong> <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" >English</a> </strong> and<span class="rtl" dir="rtl"><strong><a title="Almond Weeding - Dari" href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Nut_Almond_Nursery_Dari.pdf" class="internal-link" >(Dari) دری</a>  </strong></span>(UC Davis for Roots of Peace)'
 post-harvest:
-  - 'Apricot Drying <a href="/video/apricots-drying-video" class="internal-link" title="Apricot Drying Video">Video</a>'
   - '10 Principles of Postharvest Management <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_PH_10_Principles.pdf" class="internal-link" title="Postharvest 10 principles"><strong>Fact Sheet</strong></a> (UC Davis)'
   - 'Principles of GAP (Good Agricultural Practices) <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_PH_GAP.pdf" class="internal-link" title="GAP Good Agricultural Practices"><strong>Fact Sheet</strong></a> (UC Davis)'
   - 'Example of Standards <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/Apricot_Specification.pdf" class="internal-link" ><span class="internal-link"><strong>Fact Sheet</strong></span></a> (Fresh Spec)'
-  - '<strong></strong>Apricot Value Chain <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/man-apricot-value-chain-nuhda-intercooperation.pdf" class="internal-link" ><strong>Manual</strong></a> (NUHDA)'
-  - 'General Postharvest <a title="" href="/other-topics/topics/postharvest" class="internal-link" ><strong>Page</strong></a>'
 market-information-link: ""
 photo-gallery: ""
 links: ""
@@ -48,8 +45,6 @@ links: ""
 <li>Grafting <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Grafting_Apricot.pdf" class="internal-link" title="Grafting Apricot"><strong>Fact Sheet</strong></a> (1.2 MB) (UC Davis)</li>
 <li>Planting <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Planting_20Apricot_Trees.pdf" class="internal-link" title="Apricot Planting"><strong>Fact Sheet</strong></a> (UC Davis)</li>
 <li>Pruning and Training <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_General_Pruning_Training_Apricot.pdf" class="internal-link" title="Apricot Pruning and Training"><strong>Fact Sheet</strong></a> (UC Davis) <strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/Prunning-1.doc" class="internal-link" >Manual <strong>پشتو </strong> (Pashto)</a></strong></li>
-<li>Intercropping <strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fact-sheet-orchards-intecropping.pdf" class="internal-link" >Fact sheet</a></strong> (UC Davis)</li>
-<li>Water Management</li>
 <ul><li>Irrigation of Perennial Crops <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/Irrigation_Manual_August_2008.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (1.7 MB) (Roots of Peace)</li>
 <li>Principles of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/PPT_Irr_Mgt_Trees_Vines.pdf" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) and <b><span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" >(Dari) دری </a></span></b>(4.6 MB) (UC Davis)</li>
 <li>Drip Irrigation <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Irr_Drip_Technical_IDE.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (11.7MB) (IDE)</li>

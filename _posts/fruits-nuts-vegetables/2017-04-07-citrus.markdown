@@ -6,7 +6,6 @@ permalink: /fruits-nuts-vegetables/fruits/citrus
 title:  "Citrus"
 priority: lower
 arabic: "میوه جات ستروس"
-pictures: "../media/citrus_pic.jpeg"
 seasons: "Winter"
 time: "mid December through mid March"
 care:
@@ -57,7 +56,6 @@ links: ""
 </ul><ul><li>Variety Selection:</li>
 <ul>
 <li>PHDP Varietal Selection and Production <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocitruspdf.pdf" class="internal-link" ><strong>English</strong></a> (excerpt), <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocatalogue201314dari.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (9.9 MB) and <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/mananngocatalogue201314pashto.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
-<li>National Nursery Growers' Association Locations and Contacts<a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/ananngonationalnurserygrowersassociationpdf.pdf" class="internal-link" ><strong> PDF</strong></a> (ANNGO Catalog 2013, PHDP/EU)</li>
 </ul></ul><ul><li>
 <p>Site Selection <strong><a href="/fruits-nuts-vegetables/Fruits/files/citrus/FS_Fruit_Citrus_site_selection.doc" class="internal-link" title="Citrus - Site Selection">Fact Sheet</a></strong>  (UC Davis)</p>
 </li>

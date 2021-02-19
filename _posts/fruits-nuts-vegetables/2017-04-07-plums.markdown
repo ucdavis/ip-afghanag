@@ -20,7 +20,6 @@ overview:
   - 'About Plums <strong><a href="/fruits-nuts-vegetables/Fruits/files/plums/FS_Fruit_plums.pdf" class="internal-link" title="Plums overview">Fact Sheet</a></strong> (UC Davis)'
 pest-management:
   - 'See <a href="/other-topics/topics/pest-identification-cards-english">Pest Identification Cards</a> and <a href="/pest-management/">general Pest Management</a> Page'
-  - 'Nursery Weed Management Fact Sheet<strong> </strong><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/fs-nursery-weeds.pdf" class="internal-link" target="_self">English</a></strong> and <strong><span class="rtl" dir="rtl"><a href="/fruits-nuts-vegetables/Fruits/files/mulberry/fact-sheets-farsi-dari/FS_Nut_Almond_Weeding_Farsi.docx" class="internal-link" title="Almond Weeding - Dari">(Dari) دری</a></span> </strong>(UC Davis for Roots of Peace)'
 post-harvest:
   - 'Harvesting and Storage <strong><a href="/fruits-nuts-vegetables/Fruits/files/plums/FS_Fruit_Plums_PH_UC_20IPM.pdf" class="internal-link" title="Harvesting and storage">Fact Sheet</a></strong> (UC IPM)'
   - 'Postharvest Management of Plums <strong><a href="/fruits-nuts-vegetables/Fruits/files/plums/FS_Fruit_Plums_PH_UC20PH20RIC.pdf" class="internal-link" title="Plums Postharvest handling">Fact Sheet</a></strong> (UC Postharvest RIC)'
@@ -44,6 +43,5 @@ links: ""
 <li>Principals of Irrigation of Trees and Vines PPT as PDF <a title="" href="/fruits-nuts-vegetables/Fruits/files/citrus/PPT_Irr_Mgt_Trees_Vines.pdf" class="internal-link" ><span class="internal-link"><strong>English</strong></span></a> (2.8MB) <span class="rtl" dir="rtl"><a title="" href="/fruits-nuts-vegetables/Fruits/files/plums/PPT_Irr_Mgt_Trees_Vines_Dari.pdf" class="internal-link" ><strong>(Dari) دری</strong></a></span> (4.6 MB) (UC Davis)</li>
 <li>Drip Irrigation <a title="" href="/fruits-nuts-vegetables/Fruits/files/plums/Man_Irr_Drip_Technical_IDE.pdf" class="internal-link" ><strong><span class="internal-link">Manual</span></strong></a> (11.7MB)  (IDE)</li>
 </ul></li>
-<li>Fruit Tree Thinning <a title="" href="/fruits-nuts-vegetables/Fruits/files/plums/fsanrcfruitthinning.pdf" class="internal-link" ><strong>Fact Sheet</strong></a> (UC Davis) and Video <a title="" href="/video/video-fruit-thinning" class="internal-link" ><strong>English/ <span class="internal-link">پشتو</span> (Pashto)</strong></a> (10.8 MB) (ANHDO)</li>
 <li><span>General Pruning </span><strong><a title="" href="/fruits-nuts-vegetables/Fruits/files/plums/Prunning-1.doc" class="internal-link" >Manual <strong>پشتو </strong> (Pashto)</a></strong></li>
 </ul>
