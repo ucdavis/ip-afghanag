@@ -2,7 +2,7 @@
 layout: management
 tags: management
 permalink: /irrigation-natural-resource/resources/irrigation
-title:  "Irrigation"
+title: "Irrigation"
 arabic: " آبیاری"
 image: "./media/irrigation.jpg"
 pictures: "../media/irrigation.jpg"
@@ -25,6 +25,7 @@ market-information-link: ""
 photo-gallery: ""
 links: ""
 ---
+
 <div class="hing-content">
   <h2>Infrastructure</h2>
   <ul>
@@ -47,7 +48,6 @@ links: ""
       <li><a href='../files/irrigation-crop-water-need.pdf'>Info Sheet </a> (UC Davis) </li>
       <li>Field observations to schedule irrigation (with wheat as an example) <a href='../files/irrigation-wheat-scheduling.pdf'> Fact Sheet</a>  (UC Davis)</li>
       <li>Water Supply PPT as PDF <a href='../files/irrigation-water-supply.pdf'>English</a> (4.2 MB)(USDA)</li>
-      <li>Soil Moisture by Feel <a href='../files/irrigation-lookfeel.pdf'>Fact Sheet </a> and <a href='/video/irrigation-by-feel-video'>video</a></li>
       <li>Soil Infiltration Rate <a href='../files/irrigation-soil-infiltration.pdf'>Fact Sheet </a> (UC Davis)</li>
     </ul>
   </div>
@@ -55,8 +55,6 @@ links: ""
     <h2>Irrigation Methods</h2>
     <ul>
       <li>Irrigation System Selection <a href='../files/irrigation-system-selection.pdf'>Info Sheet</a> (UC Davis) </li>
-      <li>Irrigation Principals <a href='/video/irrigation-principals-video'>video</a> </li>
-      <li>Irrigation Methods <a href='/video/irrigation-methods-video'>video</a></li>
       <li><b>Surface Irrigation</b> PPT as PDF <a href='../files/irrigation-surface.pdf'>English</a> (2.4 MB) and <a href='../files/irrigation-surface-dari.pdf'>(Dari) در </a>(USDA)</li>
       <li><b>Furrow Irrigation</b></li>
       <ul>

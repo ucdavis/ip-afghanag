@@ -163,7 +163,6 @@ links: ""
     <h2>Flood Risk Maps</h2>
     <p><b>Maps detailing potential flood risks nationally and in select provinces, created by iMMAP</b></p>
     <ul>
-      <li>National Flood Risk<a href='../files/flood-risk-map.pdf'>JPEG Map April 2013</a> (0.6 MB) and <a href='../files/flood-hazard.pdf'>PDF Map January 2011</a> (1.9 MB) </li>
       <li>Eastern Region <a href='../files/flood-eastern-region.pdf'>PDF Map February 2012</a> (10.9 MB) </li>
       <li>Northeast Region <a href='../files/flood-northeast-region.pdf'>PDF Map February 2012</a> (2.2 MB)</li>
       <li>Northern Region <a href='../files/flood-northern-region.pdf'>PDF Map February 2012</a> (6.7 MB)</li>
