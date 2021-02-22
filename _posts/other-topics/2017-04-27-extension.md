@@ -12,7 +12,6 @@ problem-opportunities:
   - "Primary Problems and Opportunities from the Ministry of Agriculture Irrigation and Livestock (MAIL) and the Directorate of Agriculture Irrigation and Livestock (DAIL)."
 overview:
   - "<img src='/other-topics/media/adoption.png'>"
-  - "'ASK ME' Agricultural Extension Framework <a href='/other-topics/files/extension/ask-me-framework.pdf'>Info Sheet</a> and <a href='/video/ask-me-agricultural-extension-framework-video-eng'>video</a> (UC Davis)"
   - "TIGRS Keys to Success <a href='/other-topics/files/extension/tigrs.pdf'>Fact Sheet</a> (UC Davis)"
   - "AID - 3 steps to turning information in to Action <a href='/other-topics/files/extension/aid.pdf'>Info Sheet</a> (UC Davis)"
   - "Skills Required for Successful Extension <a href='/other-topics/files/extension/skills-required.pdf'>Fact Sheet</a> (UC Davis)"

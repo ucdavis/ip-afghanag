@@ -19,7 +19,6 @@ overview:
 Good Agricultural Practices (GAP) Principles <a href='/other-topics/files/postharvest/good-agricultural-practices.pdf'>Fact Sheet</a> (UC Davis)"
   - "Vegetable Postharvest Simple Techniques <a href='/other-topics/files/postharvest/veg-postharvest.pdf'>Manual</a> (5.8 MB) (AVRDC)"
   - "Small-Scale Postharvest Handling Practices for Horticultural Crops <a href='/other-topics/files/postharvest/small-scale-postharvest.pdf'>Manual</a> (3.9 MB) (UC Davis)"
-  - 'Small-Scale Postharvest Handling Videos <a href="/video/small-scale-postharvest-handling-practices-for-horticultural-crops-part-1" class="internal-link" title="Small-scale postharvest handling practices for horticultural crops Part 1"><strong>Part 1</strong></a>, <a href="/video/small-scale-postharvest-handling-practices-for-horticultural-crops-part-2" class="internal-link" title="Small-scale postharvest handling practices for horticultural crops Part 2"><strong>Part 2</strong></a>, and <strong><a href="/video/small-scale-postharvest-handling-practices-for-horticultural-crops-part-3" class="internal-link" title="Small-scale postharvest handling practices for horticultural crops Part 3">Part 3</a></strong>'
   - "Postharvest Tools and Supply Kit <a href='/other-topics/files/postharvest/postharvest-tools.pdf'>Manual</a> (UC Davis)"
   - 'Postharvest Kit Videos :  <strong><a title="" href="/video/refractometer" class="internal-link" target="_self">Refractometer</a></strong> and <strong><a title="" href="/video/psychrometer-measuring-relative-humidity-video" class="internal-link" target="_self">Psychrometer</a></strong>'
 content-table:
@@ -45,7 +44,6 @@ links: ""
     <h2>Value Chain</h2>
     <ul>
       <li>Simple Value Chain Analysis <a href='/other-topics/files/postharvest/value-chain-analysis.pdf'>Fact Sheet</a> (UC Davis)</li>
-      <li>How to Use a Color Chart to Increase Market Value <a title="" href="/video/how-to-use-a-color-chart-to-increase-market-value" class="internal-link" target="_self">Video</a> (UC Davis)</li>
       </ul>
     </div>
   <div class="hing-content">

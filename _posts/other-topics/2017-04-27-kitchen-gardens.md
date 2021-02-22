@@ -50,8 +50,6 @@ links: ""
     <h2>Soil Preparation</h2>
     <ul>
       <li>Composting <a href='/other-topics/files/garden/composting-cornell.pdf'>Fact Sheet</a>  (Cornell)</li>
-      <li>Composting Making  <a href='/video/video-making-compost'>Video</a> </li>
-      <li>Organic Matter and Water Holding Capacity <a href='/video/organic-matter-water-holding-capacity-video'>Video</a> </li>
       <li>Bed Preparation <a href='/other-topics/files/garden/double-dig-lasagna.pdf'>PPT as PDF</a>  (1.8 MB) (U Maryland)</li>
       <li>Seedbed Preparation <a href='/other-topics/files/garden/seedbed-preparation.pdf'>Fact Sheet</a>  (UC Davis)</li>
       <li><b>Growing Media</b></li>
@@ -73,7 +71,6 @@ links: ""
     <li>Companion Planting <a href='/other-topics/files/garden/companion-planting.pdf'>Info Sheet</a> and Images <a href='/other-topics/files/garden/companion-planting-ppt.pdf'>PPT as PDF</a> (1.3 MB) (U Maryland) and <a href='/other-topics/files/garden/companion-planting-cornell.pdf'>Info Sheet</a> (U Cornell)</li>
     <li>Seed Starting <a href='/other-topics/files/garden/seed-starting.pdf'>PPT as PDF</a> (U Maryland)</li>
     <li>Pitcher Planting  <a href='/video/pitcher-planting-videos-english-and-dari'>video</a> English and Dari (UC Davis and U Maryland)</li>
-    <li>Low Tunnel Construction  <a href='/video/low-tunnel-construction-video'>video</a></li>
     <li>Low Plastic Tunnels <a href='/other-topics/files/garden/low-tunnels.pdf'>Info Sheet</a> (USDA)</li>
     </ul>
   </div>
