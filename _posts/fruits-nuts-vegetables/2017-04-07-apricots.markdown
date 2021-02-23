@@ -36,7 +36,6 @@ links: ""
 <ul><li>
 <p>Fruit Orchard Production Manual <a title="Apricot manual" href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Fruit_Apricot.pdf" class="internal-link" ><strong>English </strong></a>(1.2 MB) and <a href="/fruits-nuts-vegetables/Fruits/files/apricots/Man_Apricot_Production_Pashto.pdf" class="internal-link" title="Apricot Production Manual (Pashto)"><strong>پشتو (Pashto)</strong></a> (1.6 MB) (UC Davis)</p>
 </li>
-<li>Apricot Value Chain <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/apricot-value-chain-manual" class="internal-link" ><strong>Manual</strong></a> (NUHDA)</li>
 <li>Variety Selection <a href="/fruits-nuts-vegetables/Fruits/files/apricots/FS_Choosing_Apricot_Variety.pdf" class="internal-link" title="Choosing Apricot Varieties"><strong>Fact Sheet</strong></a> (UC Davis)</li>
 <ul>
 <li>PHDP Varietal Selection and Production <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngoapricotpdf.pdf" class="internal-link" ><strong>English</strong></a> (excerpt), <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngocatalogue201314dari.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (9.9 MB) and <a title="" href="/fruits-nuts-vegetables/Fruits/files/apricots/mananngocatalogue201314pashto.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.8 MB) (ANNGO Catalog 2013, PHDP/EU)</li>
