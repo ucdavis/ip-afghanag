@@ -6,7 +6,7 @@ title: "Nangarhar"
 arabic: "لوگر"
 map: "/country-info/media/Nangarhar.jpeg"
 pictures: "/country-info/media/Nangarhar-2.jpeg"
-major-ag: "Nangarhar produces a range of fruits and vegetables including <a href='/fruits-nuts-vegetables/fruits/grapes'>grapes</a>, olivse, oranges, watermelon, <a href='/fruits-nuts-vegetables/vegetables/okra'>okra</a>, <a href='/fruits-nuts-vegetables/vegetables/tomatoes'>tomatoes</a>, and spinach.  "
+major-ag: "Nangarhar produces a range of fruits and vegetables including olives, oranges, watermelon, <a href='/fruits-nuts-vegetables/vegetables/okra'>okra</a>, <a href='/fruits-nuts-vegetables/vegetables/tomatoes'>tomatoes</a>, and spinach.  "
 potential-dev: "Financial services for farmers (credit), animal husbandry, horticultural project (nursery improvement), value adding (<a href='/country-info/province/files/product-p-Balkh.pdf'>product processing</a>), <a href='/other-topics/topics/postharvest'>post-harvest</a> technology, and <a href='/irrigation-natural-resource/resources/irrigation'>irrigation</a> system improvement are some potential areas for development."
 summary:
   - "Province Overview <a href='/country-info/province/files/overview-Nangarhar.pdf'>Info Sheet</a>"

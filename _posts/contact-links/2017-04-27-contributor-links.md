@@ -14,14 +14,12 @@ overview:
 
 <h3> <strong>1. Afghan Ministries</strong></h3>
 <ol><li><strong><a href="http://mail.gov.af/en">Ministry of Agriculture, Irrigation and Livestock (MAIL - Government of the Islamic Republic of Afghanistan)<br /></a></strong></li>
-<li><strong><a href="http://mrrd.gov.af/en">Ministry of Rural Rehabilitation and Development (MRRD - Government of the Islamic Republic of Afghanistan)</a></strong></li>
 <li><strong><a href="http://cso.gov.af/en">Central Statistics Organization of Afghanistan (CSO - Government of the Islamic Republic of Afghanistan)</a></strong></li>
 </ol><p><strong><br /></strong></p>
 <h3><a name="2-development-organizations-and" id="2-development-organizations-and"></a><strong>2. Development Organizations and Projects<br /></strong></h3>
 <ol><li><strong><a class="external-link" href="http://www.acted.org/en/afghanistan">ACTED - Agency for Technical Cooperation and Development</a></strong></li>
 <li><strong>ADAPT - Agricultural Development for Afghanistan pre-deployment training (CSU Fresno, CalPoly, SIU, CSU, USDA): <a class="external-link" href="http://www.adaptafghan.org/"  title="">Webpage</a> and<a class="external-link" href="https://www.youtube.com/user/adaptafghan"  title=""> YouTube Channel</a></strong></li>
 <li>
-<p><strong><a href="http://cnfaafghanistan.org.af/">Afghanaid</a></strong></p>
 </li>
 </ol>
 <li><strong><a class="external-link" href="http://www.cnfa.org/program/afghanistan-farm-service-alliance-2/">AFSA - Afghanistan Farm Service Alliance (CNFA)</a></strong></li>
@@ -40,13 +38,10 @@ overview:
 <li><strong><a class="external-link" href="http://gpfa.org/home/">GPFA (Global Partnership for Afghanistan)</a></strong></li>
 <li><strong><a href="http://hortcrsp.ucdavis.edu/">Horticulture CRSP (Collaborative Research Support Program, UC Davis/USAID)</a></strong></li>
 <li><strong><a href="http://www.ideorg.org/">International Development Enterprises</a></strong></li>
-<li><strong><a href="http://www.jdainternational.org/afghanistan.asp">JDA International, Afghanistan</a></strong></li>
 <li><strong><a href="http://www.idd.landolakes.com/PROJECTS/Asia/ECMP2-0164370.aspx">Land O'Lakes, Inc. International Development Division, Afghanistan</a></strong></li>
 <li><strong><a href="http://www.rootsofpeace.org/">Roots of Peace</a></strong></li>
 <li><strong><a href="http://cso.gov.af/en">United Nations Environment Programme, Afghanistan</a></strong></li>
-<li><strong><a class="external-link" href="http://afghanistan.usaid.gov/en/home">USAID, Afghanistan (United States Agency for International Development)</a></strong></li>
 <li><strong><a class="external-link" href="http://www.fas.usda.gov/country/afghanistan/us-afghanistan.asp">USDA, Afghanistan (United States Department of Agriculture)</a></strong></li>
-<li><strong><a href="http://www.welthungerhilfe.de/home_eng.html">Welt Hunger Hilfe</a></strong></li>
 <h3><a name="3-international-and-multi" id="3-international-and-multi"></a><strong>3. International and Multi-National Research Organizations </strong></h3>
 <ol><li><strong><a href="http://www.cimmyt.org/">CIMMYT (International Maize and Wheat Improvement Center)</a></strong></li>
 <li><strong><a href="http://www.dowagro.com/">DOW AgroSciences</a></strong></li>
@@ -56,7 +51,6 @@ overview:
 <li>
 <p><strong><a class="external-link" href="http://www.ifdc.org/">IFDC</a></strong></p>
 </li>
-<li><strong>IFPRI <a class="external-link" href="http://www.worldwide-extension.org/asia/afghanistan">Extension overview</a><br /></strong></li>
 <li><strong><a class="external-link" href="http://www.irri.org/">IRRI (International Rice Research Institute</a></strong></li>
 </ol><h3><a name="4-national-research-organizations" id="4-national-research-organizations"></a><strong>4. National Research organizations and Universities</strong></h3>
 <ol><li><a class="external-link" href="http://www.areu.org.af/"><strong>Afghanistan Research and Evaluation Unit (AREU)</strong></a></li>
@@ -74,7 +68,6 @@ overview:
 <li><strong><a href="http://www.icar.org.in/">Indian Council of Agricultural Research</a></strong></li>
 <li><strong><a href="http://www.fvsu.edu/">Fort Valley State University, Georgia</a></strong><strong></strong></li>
 <li><strong></strong><strong><a href="http://www.nrcs.usda.gov/wps/portal/nrcs/main/national/home">NRCS (Natural Resources Conservation Service of the United States Department of Agriculture)</a></strong></li>
-<li><a class="external-link" href="http://www3.ag.purdue.edu/extension/Pages/default.aspx"  title="Purdue University Extension"><strong>Purdue University</strong></a></li>
 <li><strong><a href="http://www.siu.edu/">Southern Illinois University</a></strong></li>
 <li><a class="external-link" href="http://www.ipm.ucdavis.edu/"><strong>University of California Integrated Pest Management (UC IPM)</strong></a><strong></strong></li>
 <li><strong><a href="http://www.uaf.edu.pk/">University of Agriculture, Faisalabad</a></strong><strong></strong></li>
@@ -91,9 +84,6 @@ overview:
 </ol><p><strong><a href="http://www.usu.edu/"> </a></strong> </p>
 <h3><strong>5. Alphabetical</strong></h3>
 <p><a class="external-link" href="http://www.acted.org/en/afghanistan"><strong>ACTED - Agency for Technical Cooperation and Development</strong><br /></a></p>
-</td>
-</tr><tr><td>
-<p><a class="external-link" href="http://www.afghanaid.org.uk/"><strong>Afghanaid</strong></a></p>
 </td>
 </tr><tr><td>
 <p><a class="external-link" href="http://www.cnfa.org/program/afghanistan-farm-service-alliance-2/"  title="AFSA Farm Service Alliance"><span class="external-link"><strong>AFSA - Afghanistan Farm Service Alliance (CNFA)</strong></span></a></p>
@@ -235,9 +225,6 @@ overview:
 <p><a class="external-link" href="http://www.ncdc.noaa.gov/oa/ncdc.html"><strong>U.S. National Climatic Data Center, NOAA</strong></a></p>
 </td>
 </tr><tr><td>
-<p><a class="external-link" href="http://afghanistan.usaid.gov/en/home"><strong>USAID, Afghanistan (United States Agency for International Development)</strong></a></p>
-</td>
-</tr><tr><td>
 <p><a class="external-link" href="http://www.fas.usda.gov/regions/south-and-central-asia/afghanistan"  title="FAS USDA"><span class="external-link"><span class="external-link"><span class="external-link"><strong>USDA, Afghanistan (United States Department of Agriculture)</strong></span></span></span></a></p>
 </td>
 </tr><tr><td>
@@ -245,8 +232,5 @@ overview:
 </td>
 </tr><tr><td>
 <p><a class="external-link" href="http://www.wsu.edu/"><strong>Washington State University</strong></a></p>
-</td>
-</tr><tr><td>
-<p><a class="external-link" href="http://www.welthungerhilfe.de/home_eng.html"><strong>Welt Hunger Hilfe</strong></a></p>
 </td>
 </tr></tbody></table><p> </p>

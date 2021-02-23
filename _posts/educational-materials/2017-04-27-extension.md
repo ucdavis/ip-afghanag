@@ -63,9 +63,8 @@ image: "Extension"
 <li><span><span>PPT</span> </span><strong><a title="" href="/educational-materials/files/extension/ed-ext-afg-purdue-unitb-lesson5-understandind.pdf" class="internal-link" >English</a></strong><span> <br /></span></li>
 </ul><h3 class=" ">Unit B, Lesson 6: Being Responsible and Accountable</h3>
 <ul><li><span>Lesson <span>Plan</span> </span><strong><a title="" href="/educational-materials/files/cattle-management/edliveafgpurdueunitblesson3animalreproductiontechnologylp.pdf" class="internal-link" >English</a></strong><span> and </span><strong><a title="" href="/educational-materials/files/extension/edextafgpurdueunitalesson4leadershipstylepashtolp.pdf" class="internal-link" >پشتو (Pashto)</a></strong><span> <br /></span></li>
-<li><span><span>PPT</span> </span><strong><a title="" href="/educational-materials/files/extension/ed-ext-afg-purdue-unitb-lesson6-being-responsible.pdf" class="internal-link" >English</a></strong><span> and </span><strong><a title="" href="/educational-materials/files/extension/edextafgpurdueunitblesson6beingresponsibleaccountablepashtoppt.pdf" class="internal-link" >پشتو (Pashto)</a></strong><span> <br /></span></li>
 </ul><h3 class=" ">Unit B, Lesson 7: Benefits of Character and Integrity</h3>
-<ul><li><span>Lesson <span>Plan</span> </span><a title="" href="/educational-materials/files/extension/edliveafgpurdueunitblesson7animalreproductionppt.pdf" class="internal-link" ><strong>English</strong> </a><span> <br /></span></li>
+<ul>
 <li><span><span>PPT</span> </span><strong><a title="" href="/educational-materials/files/extension/edextafgpurdueunitalesson1definingleadershippashtoppt.pdf" class="internal-link" >English</a></strong><span> <br /></span></li>
 </ul><h3 class=" ">Unit C, Lesson 1: Presentation Planning</h3>
 <ul><ul><ul><li><span>Lesson <span>Plan</span> </span><a title="" href="/educational-materials/files/extension/ed-ext-afg-purdue-unita-lesson1-defining.pdf" class="internal-link" ><strong>English</strong></a><span> and </span><strong><a title="" href="/educational-materials/files/extension/ed-ext-afg-purdue-unita-lesson1-defining.pdf" class="internal-link" >پشتو (Pashto)</a></strong><span> <br /></span></li>
@@ -90,6 +89,6 @@ image: "Extension"
 <ul><li><span>Lesson <span>Plan</span> </span><a title="" href="/educational-materials/files/extension/edextafgpurdueunitalesson4leadershipstylelp.pdf" class="internal-link" ><strong>English</strong> </a></li>
 <li><span><span>PPT</span> </span><strong><a title="" href="/educational-materials/files/extension/edextafgpurdueunitalesson4leadershipstylelp.pdf" class="internal-link" >English</a></strong><span> <br /></span></li>
 </ul><h3 class=" ">Unit C, Lesson 8: Effective Listening Skills</h3>
-<ul><li><span>Lesson <span>Plan</span> </span><a title="" href="/educational-materials/files/extension/edextusdademonstrationstudiesppt.pdf" class="internal-link" ><strong>English</strong> </a>and<strong><a title="" href="/educational-materials/files/extension/edextpurdueunitclesson8effectivelisteningskillspashtolp.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
+<ul><li><span>Lesson <span>Plan</span> </span><a title="" href="/educational-materials/files/extension/edextusdademonstrationstudiesppt.pdf" class="internal-link" ><strong>English</strong> </a></li>
 <li> PPT <strong><a title="" href="/educational-materials/files/extension/edextusdastepstodevelopqualitylessonlp.pdf" class="internal-link" >English</a></strong> and <strong><a title="" href="/educational-materials/files/extension/edextpinteachingskillsexpertisepashtoppt.pdf" class="internal-link" >پشتو (Pashto)</a></strong></li>
 </ul>
