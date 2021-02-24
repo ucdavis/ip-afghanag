@@ -34,14 +34,12 @@ overview:
 <li><a class="external-link" href="http://www.digitalgreen.org/"  title="Digital Green"><strong>Digital Green</strong></a></li>
 <li><strong><a href="http://www.dca-vet.nl/">Dutch Committee for Afghanistan - Veterinary Programmes (DCA-VET)</a></strong></li>
 <li><strong><a class="external-link" href="http://www.fafdevelopments.com/?page_id=108">FAF Development</a></strong></li>
-<li><strong><a href="http://www.fews.net/Pages/country.aspx?gb=af&amp;l=en">FEWS NET Afghanistan (Famine Early Warning Systems Network, USAID)</a></strong></li>
 <li><strong><a class="external-link" href="http://gpfa.org/home/">GPFA (Global Partnership for Afghanistan)</a></strong></li>
 <li><strong><a href="http://hortcrsp.ucdavis.edu/">Horticulture CRSP (Collaborative Research Support Program, UC Davis/USAID)</a></strong></li>
 <li><strong><a href="http://www.ideorg.org/">International Development Enterprises</a></strong></li>
 <li><strong><a href="http://www.idd.landolakes.com/PROJECTS/Asia/ECMP2-0164370.aspx">Land O'Lakes, Inc. International Development Division, Afghanistan</a></strong></li>
 <li><strong><a href="http://www.rootsofpeace.org/">Roots of Peace</a></strong></li>
 <li><strong><a href="http://cso.gov.af/en">United Nations Environment Programme, Afghanistan</a></strong></li>
-<li><strong><a class="external-link" href="http://www.fas.usda.gov/country/afghanistan/us-afghanistan.asp">USDA, Afghanistan (United States Department of Agriculture)</a></strong></li>
 <h3><a name="3-international-and-multi" id="3-international-and-multi"></a><strong>3. International and Multi-National Research Organizations </strong></h3>
 <ol><li><strong><a href="http://www.cimmyt.org/">CIMMYT (International Maize and Wheat Improvement Center)</a></strong></li>
 <li><strong><a href="http://www.dowagro.com/">DOW AgroSciences</a></strong></li>
@@ -223,9 +221,6 @@ overview:
 </td>
 </tr><tr><td>
 <p><a class="external-link" href="http://www.ncdc.noaa.gov/oa/ncdc.html"><strong>U.S. National Climatic Data Center, NOAA</strong></a></p>
-</td>
-</tr><tr><td>
-<p><a class="external-link" href="http://www.fas.usda.gov/regions/south-and-central-asia/afghanistan"  title="FAS USDA"><span class="external-link"><span class="external-link"><span class="external-link"><strong>USDA, Afghanistan (United States Department of Agriculture)</strong></span></span></span></a></p>
 </td>
 </tr><tr><td>
 <p><a class="external-link" href="http://www.usu.edu/"><strong>Utah State University </strong></a></p>

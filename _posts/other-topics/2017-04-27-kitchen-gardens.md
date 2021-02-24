@@ -67,10 +67,8 @@ links: ""
     <h2>Planting</h2>
     <ul>
     <li>Vegetable Spacing Guides <a href='/other-topics/files/garden/vegetable-spacing.pdf'>Info Sheet</a> (U Maryland)</li>
-    <li>Training and Pruning Tomatoes <a href='/other-topics/files/garden/pruining-training-tomatoes.pdf'>Fact Sheet</a> (UC Davis)  and   <a href='/video/video-training-and-pruning-hoophouse-tomatoes-dari'>video</a> English/دری(Dari) (37.3 MB) (AAEP)</li>
     <li>Companion Planting <a href='/other-topics/files/garden/companion-planting.pdf'>Info Sheet</a> and Images <a href='/other-topics/files/garden/companion-planting-ppt.pdf'>PPT as PDF</a> (1.3 MB) (U Maryland) and <a href='/other-topics/files/garden/companion-planting-cornell.pdf'>Info Sheet</a> (U Cornell)</li>
     <li>Seed Starting <a href='/other-topics/files/garden/seed-starting.pdf'>PPT as PDF</a> (U Maryland)</li>
-    <li>Pitcher Planting  <a href='/video/pitcher-planting-videos-english-and-dari'>video</a> English and Dari (UC Davis and U Maryland)</li>
     <li>Low Plastic Tunnels <a href='/other-topics/files/garden/low-tunnels.pdf'>Info Sheet</a> (USDA)</li>
     </ul>
   </div>
@@ -85,8 +83,7 @@ links: ""
     <ul>
       <li>Simple Vegetable Postharvest Techniques <a href='/other-topics/files/garden/veg-postharvest.pdf'>Video</a>  (5.8 MB) (AVRDC)</li>
       <li>Harvesting and Storing Vegetables <a href='/other-topics/files/garden/postharvest-care.pdf'>PPT as PDF</a>  (U Maryland)</li>
-      <li>Small-Scale Postharvest Handling Practices for Horticultural Crops <a href='/other-topics/files/garden/small-scale-postharvest.pdf'>Video</a>  (3.9 MB) (UC Davis)</li>
-      <li>Small-Scale Postharvest Handling  <a href=''>Video</a> s  Part 1, Part 2, and Part 3 (UC Davis)</li>
+      <li>Small-Scale Postharvest Handling Practices for Horticultural Crops <a href='/other-topics/files/garden/small-scale-postharvest.pdf'>PDF</a>  (3.9 MB) (UC Davis)</li>
     </ul>
   </div>
   <div class="hing-content">

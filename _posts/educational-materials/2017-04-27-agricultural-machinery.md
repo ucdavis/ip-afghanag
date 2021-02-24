@@ -15,7 +15,7 @@ image: "Agricultural-Machinery"
 
 <h3 class=" "></h3>
 <h3 class=" ">Unit A, Lesson 1: Machinery and Equipment</h3>
-<ul><li>Lesson Plan <strong><a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitalesson1machineryequipmentlppurdue.pdf" class="internal-link" >English</a> </strong>(1.0 MB) <span class="rtl" dir="rtl"><strong><a title="" href="/educational-materials/files/agricultural-machinery/ed-mach-afg-unita-lesson1-machinery-equipment-dari.pdf" class="internal-link" >(Dari) دری</a></strong></span> (5.2 MB) <strong><a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitalesson1machineryequipmentpashtolpusda.pdf" class="internal-link" >پشتو (Pashto)</a></strong> (1.2 MB)</li>
+<ul><li>Lesson Plan <strong><a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitalesson1machineryequipmentlppurdue.pdf" class="internal-link" >English</a> </strong>(1.0 MB) <strong><a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitalesson1machineryequipmentpashtolpusda.pdf" class="internal-link" >پشتو (Pashto)</a></strong> (1.2 MB)</li>
 </ul><h3 class=" ">Unit A, Lesson 2: History of Production Agriculture</h3>
 <ul><li>Lesson Plan <strong><a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitalesson2historyproductionagriculturelp.pdf" class="internal-link" >English</a></strong></li>
 <li>PPT <a title="" href="/educational-materials/files/agricultural-machinery/edmachafgunitalesson2historyofproductionagricultureppt.pdf" class="internal-link" ><strong>English</strong></a></li>

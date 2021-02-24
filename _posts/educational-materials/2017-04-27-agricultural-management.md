@@ -52,15 +52,6 @@ image: "agricultural-management"
 <ul><li>PPT <a title="" href="/educational-materials/files/agricultural-management/edeconguidelinesbusinessdevelopmentpashtoppt.pdf" class="internal-link" ><strong>پشتو (Pashto)</strong></a> (9.3 MB)</li>
 </ul><h3 class=" ">Principles of Procurement</h3>
 <ul><li>PPT <a title="" href="/educational-materials/files/agricultural-management/edeconprinciplesprocurementdarippt.pdf" class="internal-link" ><strong>دری (Dari)</strong></a> (2.8 MB)</li>
-</ul><h3 class=" ">Accounting, Cash Management,</h3>
-<h3 class=" ">and Bookkeeping (ADA)</h3>
-<ul><li>Lesson Plan <strong><a title="" href="/educational-materials/files/agricultural-management/maneconaccountingcashmanagementbookkeepingadadarilp.pdf" class="internal-link" >دری (Dari)</a></strong></li>
-</ul><h3 class=" ">Business Plan Basics (ADA)</h3>
-<ul><li>Lesson Plan<strong><a title="" href="/educational-materials/files/agricultural-management/maneconafgbusinessplanbasicsadadarilp.pdf" class="internal-link" > دری (Dari)</a></strong></li>
-</ul><h3 class=" ">Marketing (ADA)</h3>
-<ul><li>Lesson Plan<strong><a title="" href="/educational-materials/files/agricultural-management/maneconmarketingadadarilp.pdf" class="internal-link" >دری (Dari)</a></strong></li>
-</ul><h3 class=" ">Principles of Purchasing (ADA)</h3>
-<ul><li>Lesson Plan Worksheet <a title="" href="/educational-materials/files/agricultural-management/maneconprinciplespurchasingadadarilp.pdf" class="internal-link" ><strong>دری (Dari)</strong></a></li>
 </ul></td>
 </tr></tbody></table><h3 class=" ">Unit C, Lesson 1: Hiring and managing Employees</h3>
 <ul><li>Lesson Plan <strong><a title="" href="/educational-materials/files/agricultural-management/edextunitclesson1hiringmanagingemployeesdarilp.pdf" class="internal-link" >دری (Dari)</a></strong></li>
